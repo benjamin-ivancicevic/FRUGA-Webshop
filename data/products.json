@@ -1,0 +1,974 @@
+[
+  {
+    "ean": "4016843002008",
+    "name": "Flötzinger Helles 0,5",
+    "preis_kasten": 21.99,
+    "preis_sechser": 8.99,
+    "pfand_kasten": 3.1,
+    "pfand_sechser": 0.48,
+    "bild": "floetzinger_helles_0_5.jpg"
+  },
+  {
+    "ean": "4105250022003",
+    "name": "Augustiner Helles 0,5",
+    "preis_kasten": 23.49,
+    "preis_sechser": 8.99,
+    "pfand_kasten": 3.1,
+    "pfand_sechser": 0.48,
+    "bild": "augustiner_helles_0_5.jpg"
+  },
+  {
+    "ean": "4105250024007",
+    "name": "Augustiner Spezial 0,5",
+    "preis_kasten": 23.49,
+    "preis_sechser": 8.99,
+    "pfand_kasten": 3.1,
+    "pfand_sechser": 0.48,
+    "bild": "augustiner_spezial_0_5.jpg"
+  },
+  {
+    "ean": "4016843002947",
+    "name": "Flötzinger 1543 0,5",
+    "preis_kasten": 22.99,
+    "preis_sechser": 8.99,
+    "pfand_kasten": 3.1,
+    "pfand_sechser": 0.48,
+    "bild": "floetzinger_1543_0_5.jpg"
+  },
+  {
+    "ean": "4016843002404",
+    "name": "Flötzinger Märzen 0,5",
+    "preis_kasten": 22.99,
+    "preis_sechser": 8.99,
+    "pfand_kasten": 3.1,
+    "pfand_sechser": 0.48,
+    "bild": "floetzinger_maerzen_0_5.jpg"
+  },
+  {
+    "ean": "4016843003982",
+    "name": "Flötzinger Alkoholfrei Hell 0,5",
+    "preis_kasten": 22.99,
+    "preis_sechser": 8.99,
+    "pfand_kasten": 3.1,
+    "pfand_sechser": 0.48,
+    "bild": "floetzinger_alkoholfrei_hell_0_5.jpg"
+  },
+  {
+    "ean": "4016843004842",
+    "name": "Flötzinger Radler 0,5",
+    "preis_kasten": 20.99,
+    "preis_sechser": 8.49,
+    "pfand_kasten": 3.1,
+    "pfand_sechser": 0.48,
+    "bild": "floetzinger_radler_0_5.jpg"
+  },
+  {
+    "ean": "4016843003944",
+    "name": "Flötzinger Radler 0,0 %",
+    "preis_kasten": 20.99,
+    "preis_sechser": 8.49,
+    "pfand_kasten": 3.1,
+    "pfand_sechser": 0.48,
+    "bild": "floetzinger_radler_0_0_%.jpg"
+  },
+  {
+    "ean": "4016843004866",
+    "name": "Flötzinger Russ´n 0,5",
+    "preis_kasten": 22.99,
+    "preis_sechser": 8.49,
+    "pfand_kasten": 3.1,
+    "pfand_sechser": 0.48,
+    "bild": "floetzinger_russ´n_0_5.jpg"
+  },
+  {
+    "ean": "4016843002992",
+    "name": "Bierbichler Weißier 0,5",
+    "preis_kasten": 24.49,
+    "preis_sechser": 8.99,
+    "pfand_kasten": 3.1,
+    "pfand_sechser": 0.48,
+    "bild": "bierbichler_weissier_0_5.jpg"
+  },
+  {
+    "ean": "4006693800114",
+    "name": "Auer Bräu Hell 0,5",
+    "preis_kasten": 22.49,
+    "preis_sechser": 8.99,
+    "pfand_kasten": 3.1,
+    "pfand_sechser": 0.48,
+    "bild": "auer_braeu_hell_0_5.jpg"
+  },
+  {
+    "ean": "4006693800183",
+    "name": "Auer Bräu Weißbier 0,5",
+    "preis_kasten": 22.49,
+    "preis_sechser": 8.99,
+    "pfand_kasten": 3.1,
+    "pfand_sechser": 0.48,
+    "bild": "auer_braeu_weissbier_0_5.jpg"
+  },
+  {
+    "ean": "4006699083610",
+    "name": "Auer Bräu Radler naturtrüb 0,5",
+    "preis_kasten": 21.49,
+    "preis_sechser": 8.49,
+    "pfand_kasten": 3.1,
+    "pfand_sechser": 0.48,
+    "bild": "auer_braeu_radler_naturtrueb_0_5.jpg"
+  },
+  {
+    "ean": "4006693800138",
+    "name": "Johann Auer Spezial Hell 0,5",
+    "preis_kasten": 22.99,
+    "preis_sechser": 8.99,
+    "pfand_kasten": 3.1,
+    "pfand_sechser": 0.48,
+    "bild": "johann_auer_spezial_hell_0_5.jpg"
+  },
+  {
+    "ean": "4006693800190",
+    "name": "Auer Bräu 111 Zwickl 0,33",
+    "preis_kasten": 20.99,
+    "preis_sechser": 7.99,
+    "pfand_kasten": 3.1,
+    "pfand_sechser": 0.48,
+    "bild": "auer_braeu_111_zwickl_0_33.jpg"
+  },
+  {
+    "ean": "4006693800220",
+    "name": "Auer Bräu 111 Radler 0,33",
+    "preis_kasten": 16.99,
+    "preis_sechser": 7.49,
+    "pfand_kasten": 3.1,
+    "pfand_sechser": 0.48,
+    "bild": "auer_braeu_111_radler_0_33.jpg"
+  },
+  {
+    "ean": "4260604750053",
+    "name": "Simsseer Zwickl 0,5",
+    "preis_kasten": 34.49,
+    "preis_sechser": 12.49,
+    "pfand_kasten": 3.1,
+    "pfand_sechser": 0.48,
+    "bild": "simsseer_zwickl_0_5.jpg"
+  },
+  {
+    "ean": "4260604750084",
+    "name": "Simsseer Volle Pulle Alkoholfrei 0,5",
+    "preis_kasten": 34.49,
+    "preis_sechser": 12.49,
+    "pfand_kasten": 3.1,
+    "pfand_sechser": 0.48,
+    "bild": "simsseer_volle_pulle_alkoholfrei_0_5.jpg"
+  },
+  {
+    "ean": "4022396000026",
+    "name": "Tegernseer Hell 0,5",
+    "preis_kasten": 23.99,
+    "preis_sechser": 8.99,
+    "pfand_kasten": 3.1,
+    "pfand_sechser": 0.48,
+    "bild": "tegernseer_hell_0_5.jpg"
+  },
+  {
+    "ean": "4022396000033",
+    "name": "Tegernseer Spezial 0,5",
+    "preis_kasten": 23.99,
+    "preis_sechser": 8.99,
+    "pfand_kasten": 3.1,
+    "pfand_sechser": 0.48,
+    "bild": "tegernseer_spezial_0_5.jpg"
+  },
+  {
+    "ean": "4022396000057",
+    "name": "Tegernseer Pils 0,33",
+    "preis_kasten": 24.49,
+    "preis_sechser": 7.99,
+    "pfand_kasten": 3.42,
+    "pfand_sechser": 0.48,
+    "bild": "tegernseer_pils_0_33.jpg"
+  },
+  {
+    "ean": "4220138",
+    "name": "Maxlrainer Maxl Helles 0,5",
+    "preis_kasten": 21.99,
+    "preis_sechser": 8.99,
+    "pfand_kasten": 3.1,
+    "pfand_sechser": 0.48,
+    "bild": "maxlrainer_maxl_helles_0_5.jpg"
+  },
+  {
+    "ean": "42065333",
+    "name": "Wildbräu Helles 0,5",
+    "preis_kasten": 21.99,
+    "preis_sechser": 8.99,
+    "pfand_kasten": 3.1,
+    "pfand_sechser": 0.48,
+    "bild": "wildbraeu_helles_0_5.jpg"
+  },
+  {
+    "ean": "4260449220124",
+    "name": "Hoppebräu Helles 0,5",
+    "preis_kasten": 28.49,
+    "preis_sechser": 10.99,
+    "pfand_kasten": 3.1,
+    "pfand_sechser": 0.48,
+    "bild": "hoppebraeu_helles_0_5.jpg"
+  },
+  {
+    "ean": "4006693800138",
+    "name": "Hoppebräu Ruhige Kugel Alkoholfrei 0,5",
+    "preis_kasten": 28.49,
+    "preis_sechser": 10.99,
+    "pfand_kasten": 3.1,
+    "pfand_sechser": 0.48,
+    "bild": "hoppebraeu_ruhige_kugel_alkoholfrei_0_5.jpg"
+  },
+  {
+    "ean": "42022091",
+    "name": "Hofbräuhaus Traunstein Helles 0,5",
+    "preis_kasten": 24.99,
+    "preis_sechser": 9.99,
+    "pfand_kasten": 3.1,
+    "pfand_sechser": 0.48,
+    "bild": "hofbraeuhaus_traunstein_helles_0_5.jpg"
+  },
+  {
+    "ean": "42268888",
+    "name": "Giesiniger Erhellung 0,5",
+    "preis_kasten": 28.99,
+    "preis_sechser": 10.99,
+    "pfand_kasten": 3.1,
+    "pfand_sechser": 0.48,
+    "bild": "giesiniger_erhellung_0_5.jpg"
+  },
+  {
+    "ean": "4036328000015",
+    "name": "Schönramer Hell 0,5",
+    "preis_kasten": 25.49,
+    "preis_sechser": 9.99,
+    "pfand_kasten": 3.1,
+    "pfand_sechser": 0.48,
+    "bild": "schoenramer_hell_0_5.jpg"
+  },
+  {
+    "ean": "4066600251101",
+    "name": "Paulaner Münchner Hell 0,5",
+    "preis_kasten": 22.99,
+    "preis_sechser": 8.99,
+    "pfand_kasten": 3.1,
+    "pfand_sechser": 0.48,
+    "bild": "paulaner_muenchner_hell_0_5.jpg"
+  },
+  {
+    "ean": "4066600242024",
+    "name": "Paulaner Weißbier Zitrone 0,0",
+    "preis_kasten": 23.99,
+    "preis_sechser": 8.99,
+    "pfand_kasten": 3.1,
+    "pfand_sechser": 0.48,
+    "bild": "paulaner_weissbier_zitrone_0_0.jpg"
+  },
+  {
+    "ean": "4066600231011",
+    "name": "Paulaner Müncher Hell Alkoholfrei",
+    "preis_kasten": 23.99,
+    "preis_sechser": 8.99,
+    "pfand_kasten": 3.1,
+    "pfand_sechser": 0.48,
+    "bild": "paulaner_muencher_hell_alkoholfrei.jpg"
+  },
+  {
+    "ean": "4260226252300",
+    "name": "Camba Hell 0,5",
+    "preis_kasten": 26.49,
+    "preis_sechser": 10.99,
+    "pfand_kasten": 3.1,
+    "pfand_sechser": 0.48,
+    "bild": "camba_hell_0_5.jpg"
+  },
+  {
+    "ean": "4066600641964",
+    "name": "Paulaner Hefe-Weißbier 0,5",
+    "preis_kasten": 22.99,
+    "preis_sechser": 8.99,
+    "pfand_kasten": 3.1,
+    "pfand_sechser": 0.48,
+    "bild": "paulaner_hefe-weissbier_0_5.jpg"
+  },
+  {
+    "ean": "4012852001650",
+    "name": "Lammsbräu Bio Alkoholfrei 0,33",
+    "preis_kasten": 13.49,
+    "preis_sechser": 8.99,
+    "pfand_kasten": 2.3,
+    "pfand_sechser": 0.48,
+    "bild": "lammsbraeu_bio_alkoholfrei_0_33.jpg"
+  },
+  {
+    "ean": "4012852001056",
+    "name": "Lammsbräu Zzzisch Bio Pils 0,33",
+    "preis_kasten": 13.49,
+    "preis_sechser": 8.99,
+    "pfand_kasten": 2.3,
+    "pfand_sechser": 0.48,
+    "bild": "lammsbraeu_zzzisch_bio_pils_0_33.jpg"
+  },
+  {
+    "ean": "4066600242918",
+    "name": "Paulaner Weißbier Alkoholfrei 0,0",
+    "preis_kasten": 22.99,
+    "preis_sechser": 8.99,
+    "pfand_kasten": 3.1,
+    "pfand_sechser": 0.48,
+    "bild": "paulaner_weissbier_alkoholfrei_0_0.jpg"
+  },
+  {
+    "ean": "42043362",
+    "name": "Unertl Weißbier 0,5",
+    "preis_kasten": 24.99,
+    "preis_sechser": 9.99,
+    "pfand_kasten": 3.1,
+    "pfand_sechser": 0.48,
+    "bild": "unertl_weissbier_0_5.jpg"
+  },
+  {
+    "ean": "42043379",
+    "name": "Unertl Leichte Weisse 0,5",
+    "preis_kasten": 24.99,
+    "preis_sechser": 9.99,
+    "pfand_kasten": 3.1,
+    "pfand_sechser": 0.48,
+    "bild": "unertl_leichte_weisse_0_5.jpg"
+  },
+  {
+    "ean": "42230755",
+    "name": "Unterl Weißbier Alkoholfrei 0,5",
+    "preis_kasten": 24.99,
+    "preis_sechser": 9.99,
+    "pfand_kasten": 3.1,
+    "pfand_sechser": 0.48,
+    "bild": "unterl_weissbier_alkoholfrei_0_5.jpg"
+  },
+  {
+    "ean": "4025435101081",
+    "name": "Steiner-Bier Hell 0,5",
+    "preis_kasten": 24.99,
+    "preis_sechser": 9.99,
+    "pfand_kasten": 3.1,
+    "pfand_sechser": 0.48,
+    "bild": "steiner-bier_hell_0_5.jpg"
+  },
+  {
+    "ean": "75033927",
+    "name": "Corona Extra 0,33",
+    "preis_kasten": 45.99,
+    "preis_sechser": 15.99,
+    "pfand_kasten": 3.42,
+    "pfand_sechser": 0.48,
+    "bild": "corona_extra_0_33.jpg"
+  },
+  {
+    "ean": "4025435101173",
+    "name": "Steiner-Bier Alkoholfreies Bio Zwickl 0,5",
+    "preis_kasten": 24.99,
+    "preis_sechser": 8.99,
+    "pfand_kasten": 3.1,
+    "pfand_sechser": 0.48,
+    "bild": "steiner-bier_alkoholfreies_bio_zwickl_0_5.jpg"
+  },
+  {
+    "ean": "40534534",
+    "name": "Clausthaler Klassik Alkoholfrei 0,5",
+    "preis_kasten": 21.99,
+    "preis_sechser": 8.99,
+    "pfand_kasten": 3.1,
+    "pfand_sechser": 0.48,
+    "bild": "clausthaler_klassik_alkoholfrei_0_5.jpg"
+  },
+  {
+    "ean": "4008948194016",
+    "name": "Jever FUN Alkoholfrei 0,5",
+    "preis_kasten": 22.99,
+    "preis_sechser": 8.99,
+    "pfand_kasten": 3.1,
+    "pfand_sechser": 0.48,
+    "bild": "jever_fun_alkoholfrei_0_5.jpg"
+  },
+  {
+    "ean": "4008948027000",
+    "name": "Jever Pilsener 0,5",
+    "preis_kasten": 22.99,
+    "preis_sechser": 8.99,
+    "pfand_kasten": 3.1,
+    "pfand_sechser": 0.48,
+    "bild": "jever_pilsener_0_5.jpg"
+  },
+  {
+    "ean": "3155930001324",
+    "name": "Desperado Original 0,33",
+    "preis_kasten": 49.49,
+    "preis_sechser": 16.99,
+    "pfand_kasten": 3.42,
+    "pfand_sechser": 0.48,
+    "bild": "desperado_original_0_33.jpg"
+  },
+  {
+    "ean": "42111202",
+    "name": "Beck's Green Lemon 0,33",
+    "preis_kasten": 27.49,
+    "preis_sechser": 10.99,
+    "pfand_kasten": 3.42,
+    "pfand_sechser": 0.48,
+    "bild": "beck's_green_lemon_0_33.jpg"
+  },
+  {
+    "ean": "41001301",
+    "name": "Beck's Original 0,33",
+    "preis_kasten": 27.49,
+    "preis_sechser": 10.99,
+    "pfand_kasten": 3.42,
+    "pfand_sechser": 0.48,
+    "bild": "beck's_original_0_33.jpg"
+  },
+  {
+    "ean": "4006878005211",
+    "name": "ORO Klare Schorle 0,5",
+    "preis_kasten": 21.99,
+    "preis_sechser": 8.99,
+    "pfand_kasten": 3.1,
+    "pfand_sechser": 0.48,
+    "bild": "oro_klare_schorle_0_5.jpg"
+  },
+  {
+    "ean": "4006878005112",
+    "name": "ORO Johann Schorle 0,5",
+    "preis_kasten": 22.99,
+    "preis_sechser": 8.99,
+    "pfand_kasten": 3.1,
+    "pfand_sechser": 0.48,
+    "bild": "oro_johann_schorle_0_5.jpg"
+  },
+  {
+    "ean": "4006878005228",
+    "name": "ORO Trübe Schorle 0,5",
+    "preis_kasten": 21.99,
+    "preis_sechser": 8.99,
+    "pfand_kasten": 3.1,
+    "pfand_sechser": 0.48,
+    "bild": "oro_truebe_schorle_0_5.jpg"
+  },
+  {
+    "ean": "4006878005204",
+    "name": "ORO Rote Fruchtschorle 0,5",
+    "preis_kasten": 22.99,
+    "preis_sechser": 8.99,
+    "pfand_kasten": 3.1,
+    "pfand_sechser": 0.48,
+    "bild": "oro_rote_fruchtschorle_0_5.jpg"
+  },
+  {
+    "ean": "4016843008802",
+    "name": "Flötzinger Apfelschorle  Trübe 0,5",
+    "preis_kasten": 23.99,
+    "preis_sechser": 8.99,
+    "pfand_kasten": 3.1,
+    "pfand_sechser": 0.48,
+    "bild": "floetzinger_apfelschorle__truebe_0_5.jpg"
+  },
+  {
+    "ean": "4016843004484",
+    "name": "Flötzinger Kracherl Apfel Johannisbeere 0,5",
+    "preis_kasten": 16.99,
+    "preis_sechser": 7.99,
+    "pfand_kasten": 3.1,
+    "pfand_sechser": 0.48,
+    "bild": "floetzinger_kracherl_apfel_johannisbeere_0_5.jpg"
+  },
+  {
+    "ean": "4016843004309",
+    "name": "Flötzinger Limo Orange 0,5",
+    "preis_kasten": 13.49,
+    "preis_sechser": 7.49,
+    "pfand_kasten": 3.1,
+    "pfand_sechser": 0.48,
+    "bild": "floetzinger_limo_orange_0_5.jpg"
+  },
+  {
+    "ean": "4016843004507",
+    "name": "Flötzinger Cola Mix 0,5",
+    "preis_kasten": 14.99,
+    "preis_sechser": 7.49,
+    "pfand_kasten": 3.1,
+    "pfand_sechser": 0.48,
+    "bild": "floetzinger_cola_mix_0_5.jpg"
+  },
+  {
+    "ean": "4016843004514",
+    "name": "Flötzinger Cola Mix Zero 0,5",
+    "preis_kasten": 14.99,
+    "preis_sechser": 7.49,
+    "pfand_kasten": 3.1,
+    "pfand_sechser": 0.48,
+    "bild": "floetzinger_cola_mix_zero_0_5.jpg"
+  },
+  {
+    "ean": "4016843004002",
+    "name": "Flötzinger Limo Zitrone 0,5",
+    "preis_kasten": 13.49,
+    "preis_sechser": 7.49,
+    "pfand_kasten": 3.1,
+    "pfand_sechser": 0.48,
+    "bild": "floetzinger_limo_zitrone_0_5.jpg"
+  },
+  {
+    "ean": "4015843004453",
+    "name": "Flötzinger Apfelschorle Regional 0,5",
+    "preis_kasten": 14.49,
+    "preis_sechser": 8.99,
+    "pfand_kasten": 3.1,
+    "pfand_sechser": 0.48,
+    "bild": "floetzinger_apfelschorle_regional_0_5.jpg"
+  },
+  {
+    "ean": "4066600603405",
+    "name": "Paulaner Spezi 0,5",
+    "preis_kasten": 17.99,
+    "preis_sechser": 7.99,
+    "pfand_kasten": 3.1,
+    "pfand_sechser": 0.48,
+    "bild": "paulaner_spezi_0_5.jpg"
+  },
+  {
+    "ean": "4066600603405",
+    "name": "Paulaner Spezi Zero 0,5",
+    "preis_kasten": 17.99,
+    "preis_sechser": 7.99,
+    "pfand_kasten": 3.1,
+    "pfand_sechser": 0.48,
+    "bild": "paulaner_spezi_zero_0_5.jpg"
+  },
+  {
+    "ean": "4016843008819",
+    "name": "Flötzinger Johannisbeer Nektar-Schorle 0,5",
+    "preis_kasten": 22.99,
+    "preis_sechser": 8.99,
+    "pfand_kasten": 3.1,
+    "pfand_sechser": 0.48,
+    "bild": "floetzinger_johannisbeer_nektar-schorle_0_5.jpg"
+  },
+  {
+    "ean": "87126853",
+    "name": "Coca Cola Original 0,33",
+    "preis_kasten": 24.99,
+    "preis_sechser": 9.99,
+    "pfand_kasten": 5.1,
+    "pfand_sechser": 0.9,
+    "bild": "coca_cola_original_0_33.jpg"
+  },
+  {
+    "ean": "90357879",
+    "name": "Coca Cola Zero 0,33",
+    "preis_kasten": 24.99,
+    "preis_sechser": 9.99,
+    "pfand_kasten": 5.1,
+    "pfand_sechser": 0.9,
+    "bild": "coca_cola_zero_0_33.jpg"
+  },
+  {
+    "ean": "87126860",
+    "name": "Fanta Orange 0,33",
+    "preis_kasten": 24.99,
+    "preis_sechser": 9.99,
+    "pfand_kasten": 5.1,
+    "pfand_sechser": 0.9,
+    "bild": "fanta_orange_0_33.jpg"
+  },
+  {
+    "ean": "50112135",
+    "name": "Sprite 0,33",
+    "preis_kasten": 24.99,
+    "preis_sechser": 9.99,
+    "pfand_kasten": 5.1,
+    "pfand_sechser": 0.9,
+    "bild": "sprite_0_33.jpg"
+  },
+  {
+    "ean": "4260107220015",
+    "name": "Fritz-Kola Original 0,33",
+    "preis_kasten": 31.99,
+    "preis_sechser": 10.99,
+    "pfand_kasten": 3.42,
+    "pfand_sechser": 0.48,
+    "bild": "fritz-kola_original_0_33.jpg"
+  },
+  {
+    "ean": "4260107220022",
+    "name": "Fritz-Kola Classic Light 0,33",
+    "preis_kasten": 31.99,
+    "preis_sechser": 10.99,
+    "pfand_kasten": 3.42,
+    "pfand_sechser": 0.48,
+    "bild": "fritz-kola_classic_light_0_33.jpg"
+  },
+  {
+    "ean": "4260629550096",
+    "name": "Fritz-Kola Classic Zero 0,33",
+    "preis_kasten": 31.99,
+    "preis_sechser": 10.99,
+    "pfand_kasten": 3.42,
+    "pfand_sechser": 0.48,
+    "bild": "fritz-kola_classic_zero_0_33.jpg"
+  },
+  {
+    "ean": "42031864",
+    "name": "Frucade Cola Mix 0,5",
+    "preis_kasten": 14.49,
+    "preis_sechser": 7.49,
+    "pfand_kasten": 3.1,
+    "pfand_sechser": 0.48,
+    "bild": "frucade_cola_mix_0_5.jpg"
+  },
+  {
+    "ean": "42030164",
+    "name": "Frucade Zitronenlimonade 0,5",
+    "preis_kasten": 12.49,
+    "preis_sechser": 7.49,
+    "pfand_kasten": 3.1,
+    "pfand_sechser": 0.48,
+    "bild": "frucade_zitronenlimonade_0_5.jpg"
+  },
+  {
+    "ean": "42030232",
+    "name": "Frucade Sport Grapefruit-Zitrone 0,5",
+    "preis_kasten": 16.99,
+    "preis_sechser": 7.99,
+    "pfand_kasten": 3.1,
+    "pfand_sechser": 0.48,
+    "bild": "frucade_sport_grapefruit-zitrone_0_5.jpg"
+  },
+  {
+    "ean": "42045694",
+    "name": "Frucade Orangen Limonade 0,5",
+    "preis_kasten": 12.49,
+    "preis_sechser": 7.49,
+    "pfand_kasten": 3.1,
+    "pfand_sechser": 0.48,
+    "bild": "frucade_orangen_limonade_0_5.jpg"
+  },
+  {
+    "ean": "42030249",
+    "name": "Frucade Apfelschorle 0,5",
+    "preis_kasten": 18.49,
+    "preis_sechser": 7.99,
+    "pfand_kasten": 3.1,
+    "pfand_sechser": 0.48,
+    "bild": "frucade_apfelschorle_0_5.jpg"
+  },
+  {
+    "ean": "4105750000747",
+    "name": "Spezi Original 0,5",
+    "preis_kasten": 14.99,
+    "preis_sechser": 7.49,
+    "pfand_kasten": 3.1,
+    "pfand_sechser": 0.48,
+    "bild": "spezi_original_0_5.jpg"
+  },
+  {
+    "ean": "4105750000754",
+    "name": "Spezi Zero 0,5",
+    "preis_kasten": 14.99,
+    "preis_sechser": 7.49,
+    "pfand_kasten": 3.1,
+    "pfand_sechser": 0.48,
+    "bild": "spezi_zero_0_5.jpg"
+  },
+  {
+    "ean": "4104580070609",
+    "name": "Spezi Energy 0,33",
+    "preis_kasten": 22.99,
+    "preis_sechser": 8.99,
+    "pfand_kasten": 3.42,
+    "pfand_sechser": 0.48,
+    "bild": "spezi_energy_0_33.jpg"
+  },
+  {
+    "ean": "4014472280095",
+    "name": "Bionade Naturtrübe Zitrone 0,33",
+    "preis_kasten": 14.49,
+    "preis_sechser": 7.49,
+    "pfand_kasten": 2.46,
+    "pfand_sechser": 0.48,
+    "bild": "bionade_naturtruebe_zitrone_0_33.jpg"
+  },
+  {
+    "ean": "4014472002512",
+    "name": "Bionade Holunder 0,33",
+    "preis_kasten": 14.49,
+    "preis_sechser": 7.49,
+    "pfand_kasten": 2.46,
+    "pfand_sechser": 0.48,
+    "bild": "bionade_holunder_0_33.jpg"
+  },
+  {
+    "ean": "4053400201634",
+    "name": "Bionade Schwarze Johannisbeere-Rosmarin 0,33",
+    "preis_kasten": 14.49,
+    "preis_sechser": 7.49,
+    "pfand_kasten": 2.46,
+    "pfand_sechser": 0.48,
+    "bild": "bionade_schwarze_johannisbeere-rosmarin_0_33.jpg"
+  },
+  {
+    "ean": "4014472002529",
+    "name": "Bionade Ingwer-Orange 0,33",
+    "preis_kasten": 14.49,
+    "preis_sechser": 7.49,
+    "pfand_kasten": 2.46,
+    "pfand_sechser": 0.48,
+    "bild": "bionade_ingwer-orange_0_33.jpg"
+  },
+  {
+    "ean": "4014472281719",
+    "name": "Bionade Zitrone-Bergamotte 0,33",
+    "preis_kasten": 14.49,
+    "preis_sechser": 7.49,
+    "pfand_kasten": 2.46,
+    "pfand_sechser": 0.48,
+    "bild": "bionade_zitrone-bergamotte_0_33.jpg"
+  },
+  {
+    "ean": "4014472002482",
+    "name": "Bionade Kräuter 0,33",
+    "preis_kasten": 14.49,
+    "preis_sechser": 7.49,
+    "pfand_kasten": 2.46,
+    "pfand_sechser": 0.48,
+    "bild": "bionade_kraeuter_0_33.jpg"
+  },
+  {
+    "ean": "414472280101",
+    "name": "Bionade Naturtrübe Orange 0,33",
+    "preis_kasten": 14.49,
+    "preis_sechser": 7.49,
+    "pfand_kasten": 2.46,
+    "pfand_sechser": 0.48,
+    "bild": "bionade_naturtruebe_orange_0_33.jpg"
+  },
+  {
+    "ean": "4029764001807",
+    "name": "Club-Mate Original 0,5",
+    "preis_kasten": 20.49,
+    "preis_sechser": 8.99,
+    "pfand_kasten": 4.5,
+    "pfand_sechser": 0.9,
+    "bild": "club-mate_original_0_5.jpg"
+  },
+  {
+    "ean": "90151620",
+    "name": "Almdudler 0,35",
+    "preis_kasten": 28.99,
+    "preis_sechser": 9.99,
+    "pfand_kasten": 5.1,
+    "pfand_sechser": 0.48,
+    "bild": "almdudler_0_35.jpg"
+  },
+  {
+    "ean": "40518169",
+    "name": "Malzdrink Karamalz Classic 0,5",
+    "preis_kasten": 20.49,
+    "preis_sechser": 8.99,
+    "pfand_kasten": 3.1,
+    "pfand_sechser": 0.48,
+    "bild": "malzdrink_karamalz_classic_0_5.jpg"
+  },
+  {
+    "ean": "4027425000756",
+    "name": "Brunnthaler Iso-Sport Mango 0,5",
+    "preis_kasten": 15.99,
+    "preis_sechser": 7.49,
+    "pfand_kasten": 3.1,
+    "pfand_sechser": 0.48,
+    "bild": "brunnthaler_iso-sport_mango_0_5.jpg"
+  },
+  {
+    "ean": "4027425000466",
+    "name": "Brunnthaler Apfel-Kirsch 0,5",
+    "preis_kasten": 15.99,
+    "preis_sechser": 7.49,
+    "pfand_kasten": 3.1,
+    "pfand_sechser": 0.48,
+    "bild": "brunnthaler_apfel-kirsch_0_5.jpg"
+  },
+  {
+    "ean": "4027425000633",
+    "name": "Brunnthaler Iso-Sport Kirsche 0,5",
+    "preis_kasten": 14.99,
+    "preis_sechser": 7.49,
+    "pfand_kasten": 3.1,
+    "pfand_sechser": 0.48,
+    "bild": "brunnthaler_iso-sport_kirsche_0_5.jpg"
+  },
+  {
+    "ean": "4027425000602",
+    "name": "Brunnthaler Eistee Pfirsich 0,5",
+    "preis_kasten": 15.99,
+    "preis_sechser": 7.49,
+    "pfand_kasten": 3.1,
+    "pfand_sechser": 0.48,
+    "bild": "brunnthaler_eistee_pfirsich_0_5.jpg"
+  },
+  {
+    "ean": "4027425000787",
+    "name": "Brunnthaler Kräuter Limo 0,5",
+    "preis_kasten": 12.49,
+    "preis_sechser": 7.49,
+    "pfand_kasten": 3.1,
+    "pfand_sechser": 0.48,
+    "bild": "brunnthaler_kraeuter_limo_0_5.jpg"
+  },
+  {
+    "ean": "4027425000589",
+    "name": "Brunnthaler Bruny 10 0,5",
+    "preis_kasten": 15.99,
+    "preis_sechser": 7.49,
+    "pfand_kasten": 3.1,
+    "pfand_sechser": 0.48,
+    "bild": "brunnthaler_bruny_10_0_5.jpg"
+  },
+  {
+    "ean": "4005906002680",
+    "name": "Adelholzener Eistee Pfirsich 0,5P",
+    "preis_kasten": 12.49,
+    "preis_sechser": 0.0,
+    "pfand_kasten": 3.3,
+    "pfand_sechser": 0.0,
+    "bild": "adelholzener_eistee_pfirsich_0_5p.jpg"
+  },
+  {
+    "ean": "4005906002697",
+    "name": "Adelholzener Eistee Waldbeeren 0,5P",
+    "preis_kasten": 12.49,
+    "preis_sechser": 0.0,
+    "pfand_kasten": 3.3,
+    "pfand_sechser": 0.0,
+    "bild": "adelholzener_eistee_waldbeeren_0_5p.jpg"
+  },
+  {
+    "ean": "4005906002857",
+    "name": "Adelholzener Eistee Zitrone 0,5P",
+    "preis_kasten": 12.49,
+    "preis_sechser": 0.0,
+    "pfand_kasten": 3.3,
+    "pfand_sechser": 0.0,
+    "bild": "adelholzener_eistee_zitrone_0_5p.jpg"
+  },
+  {
+    "ean": "4005906002642",
+    "name": "Adelholzener Zitrone 0,5P",
+    "preis_kasten": 12.49,
+    "preis_sechser": 0.0,
+    "pfand_kasten": 3.3,
+    "pfand_sechser": 0.0,
+    "bild": "adelholzener_zitrone_0_5p.jpg"
+  },
+  {
+    "ean": "4005906002857",
+    "name": "Adelholzener Eistee Zitrone 0,5P",
+    "preis_kasten": 12.49,
+    "preis_sechser": 0.0,
+    "pfand_kasten": 3.3,
+    "pfand_sechser": 0.0,
+    "bild": "adelholzener_eistee_zitrone_0_5p.jpg"
+  },
+  {
+    "ean": "4005906002833",
+    "name": "Adelholzener Johanissbeere 0,5P",
+    "preis_kasten": 12.49,
+    "preis_sechser": 0.0,
+    "pfand_kasten": 3.3,
+    "pfand_sechser": 0.0,
+    "bild": "adelholzener_johanissbeere_0_5p.jpg"
+  },
+  {
+    "ean": "4005906002277",
+    "name": "Adelholzener Pfirsich Holunderblüte 0,5P",
+    "preis_kasten": 12.49,
+    "preis_sechser": 0.0,
+    "pfand_kasten": 3.3,
+    "pfand_sechser": 0.0,
+    "bild": "adelholzener_pfirsich_holunderbluete_0_5p.jpg"
+  },
+  {
+    "ean": "4005906002666",
+    "name": "Adelholzener Cola Mix 0,5P",
+    "preis_kasten": 12.49,
+    "preis_sechser": 0.0,
+    "pfand_kasten": 3.3,
+    "pfand_sechser": 0.0,
+    "bild": "adelholzener_cola_mix_0_5p.jpg"
+  },
+  {
+    "ean": "4005906003014",
+    "name": "Adelholzener Apfel Kräuter 0,5P",
+    "preis_kasten": 12.49,
+    "preis_sechser": 0.0,
+    "pfand_kasten": 3.3,
+    "pfand_sechser": 0.0,
+    "bild": "adelholzener_apfel_kraeuter_0_5p.jpg"
+  },
+  {
+    "ean": "4005906002611",
+    "name": "Adelholzener Mandarine 0,5P",
+    "preis_kasten": 12.49,
+    "preis_sechser": 0.0,
+    "pfand_kasten": 3.3,
+    "pfand_sechser": 0.0,
+    "bild": "adelholzener_mandarine_0_5p.jpg"
+  },
+  {
+    "ean": "4005906002635",
+    "name": "Adelholzener Orange 0,5P",
+    "preis_kasten": 12.49,
+    "preis_sechser": 0.0,
+    "pfand_kasten": 3.3,
+    "pfand_sechser": 0.0,
+    "bild": "adelholzener_orange_0_5p.jpg"
+  },
+  {
+    "ean": "4005906003045",
+    "name": "Adelholzener Rote Johannisbeere Kräuter 0,5P",
+    "preis_kasten": 12.49,
+    "preis_sechser": 0.0,
+    "pfand_kasten": 3.3,
+    "pfand_sechser": 0.0,
+    "bild": "adelholzener_rote_johannisbeere_kraeuter_0_5p.jpg"
+  },
+  {
+    "ean": "4005906002260",
+    "name": "Adelholzener Tropic 0,5P",
+    "preis_kasten": 12.49,
+    "preis_sechser": 0.0,
+    "pfand_kasten": 3.3,
+    "pfand_sechser": 0.0,
+    "bild": "adelholzener_tropic_0_5p.jpg"
+  },
+  {
+    "ean": "4005906003021",
+    "name": "Adelholzener Roter Multivitamin 0,5P",
+    "preis_kasten": 12.49,
+    "preis_sechser": 0.0,
+    "pfand_kasten": 3.3,
+    "pfand_sechser": 0.0,
+    "bild": "adelholzener_roter_multivitamin_0_5p.jpg"
+  },
+  {
+    "ean": "4005906003397",
+    "name": "Adelholzener BiF Maracuja Orange 0,5P",
+    "preis_kasten": 12.49,
+    "preis_sechser": 0.0,
+    "pfand_kasten": 3.3,
+    "pfand_sechser": 0.0,
+    "bild": "adelholzener_bif_maracuja_orange_0_5p.jpg"
+  }
+]
