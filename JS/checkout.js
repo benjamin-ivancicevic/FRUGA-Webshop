@@ -6,23 +6,24 @@ if (produktListe) {
     produktListe.addEventListener('click', (event) => {
         
         // 3. Wir prüfen: Wurde ein Element mit der Klasse 'js-kauf-button' geklickt?
-        // Der Trick mit .closest() sorgt dafür, dass es auch klappt, wenn man z.B. einen Text im Button klickt
         const button = event.target.closest('.js-kauf-button');
         
         // Wenn kein Button geklickt wurde (sondern z.B. nur das Bild oder der Hintergrund), 
         // machen wir einfach gar nichts und brechen ab.
         if (!button) return;
 
-        // =========================================================
-        // AB HIER STARTET DEIN EIGENER, ORIGINALER CODE!
-        // =========================================================
+  
 
         const productEan = button.dataset.productEan;
         let matchingItem;
         let cartQuantity = 0;
 
+        const produktKarte = button.closest('.produkt-karte');
+        const selectFeld = produktKarte.querySelector('.type-selection');
+        let produktArt = selectFeld ? selectFeld.value : 'Kasten';
+
         cart.forEach((item) => {
-            if(productEan === item.productEan) {
+            if(productEan === item.productEan  && produktArt === item.produktArt) {
                 matchingItem = item;
             }
         });
@@ -32,7 +33,8 @@ if (produktListe) {
         } else { 
             cart.push({
                 productEan: productEan,
-                quantity: 1
+                quantity: 1,
+                produktArt: produktArt
             });
         }   
 
@@ -42,10 +44,18 @@ if (produktListe) {
 
         const warenkorbZahlHTML = document.getElementById('warenkorb-zaehler');
         
-        // Dein Code zum Überschreiben der HTML (habe ich ein winziges bisschen verkürzt)
+        
         warenkorbZahlHTML.innerHTML = `${cartQuantity}`;
         
-        // Kleine Hilfe für dich: Zeigt dir im Hintergrund an, was gerade im Korb liegt
+        
         console.log("Warenkorb aktuell:", cart);
+
+        const originalText = button.innerText;
+        button.innerText = "Hinzugefügt! ✔";
+        button.style.backgroundColor = "#218838";
+        setTimeout(() => {
+            button.innerText = originalText;
+            button.style.backgroundColor = "#28a745";
+        }, 1000);
     });
 }
