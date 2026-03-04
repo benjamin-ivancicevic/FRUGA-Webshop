@@ -3,6 +3,7 @@ document.querySelectorAll('.js-kauf-button')
     button.addEventListener('click', () => {
     const productEan = button.dataset.productEan;
     let matchingItem;
+    let cartQuantity = 0;
 
     cart.forEach((item) => {
         if(productEan === item.productEan) {
@@ -12,6 +13,7 @@ document.querySelectorAll('.js-kauf-button')
 
     if (matchingItem) {
         matchingItem.quantity += 1;
+    
     }
 
     else{ 
@@ -19,9 +21,18 @@ document.querySelectorAll('.js-kauf-button')
         productEan: productEan,
         quantity: 1
     });
-    }
+    
+    }   
 
-   
-    console.log(cart);
+    cart.forEach((item) => {
+        cartQuantity += item.quantity
     });
+
+    const warenkorbZahlHTML = document.getElementById('warenkorb-zaehler');
+    warenkorbZahlHTML.innerHTML = '';
+
+    warenkorbZahlHTML.innerHTML += `${cartQuantity}`;
+   
+    
+});
 });

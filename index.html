@@ -11,17 +11,33 @@
 </head>
 <body>
 
-    <header>
-        <h1>Fruga Getränkemarkt</h1>
-        <a href="warenkorb.html">Warenkorb (0)</a>
+<header class="navbar">
+        
+        <div class="logo-bereich">
+            <img src="images/logo.png" alt="Fruga Logo" class="shop-logo">
+            <span class="shop-name">Fruga</span>
+        </div>
+
+        <div class="such-bereich">
+            <input type="text" id="suchfeld" placeholder="Getränk suchen...">
+            <button id="such-button">🔍</button>
+        </div>
+
+        <div class="warenkorb-bereich">
+            <a href="warenkorb.html" class="warenkorb-link">
+                🛒 Warenkorb <span id="warenkorb-zaehler" class="badge">0</span>
+            </a>
+        </div>
+
     </header>
 
     <main id="produkt-liste">
         <p>Lade Getränke...</p>
     </main>
-
-    <script src="JS/app.js"></script>
     <script src="JS/warenkorb.js"></script>
     <script src="JS/checkout.js"></script>
+    <script src="JS/app.js"></script>
+    
+    
 </body>
 </html>

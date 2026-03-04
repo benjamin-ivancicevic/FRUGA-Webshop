@@ -74,3 +74,94 @@ body {
     max-width: 200px;        
 
 }
+
+/* =========================================
+   NAVIGATION BAR (HEADER)
+   ========================================= */
+.navbar {
+    display: flex;
+    justify-content: space-between; /* Schiebt Logo nach links, Suche in die Mitte, Korb nach rechts */
+    align-items: center; /* Zentriert alles auf der gleichen vertikalen Höhe */
+    background-color: #2c3e50; /* Ein schönes, dunkles Blaugrau */
+    color: white;
+    padding: 15px 30px;
+    border-radius: 8px; /* Leicht abgerundete Ecken */
+    margin-bottom: 30px; /* Abstand zu den Produkt-Kacheln darunter */
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+/* --- 1. Logo Bereich --- */
+.logo-bereich {
+    display: flex;
+    align-items: center;
+    gap: 10px; /* Abstand zwischen Logo-Bild und Text */
+}
+
+.shop-logo {
+    height: 40px; /* So groß wird dein Logo später maximal angezeigt */
+    width: auto;
+}
+
+.shop-name {
+    font-size: 26px;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+/* --- 2. Suchleiste --- */
+.such-bereich {
+    display: flex;
+    flex: 1; /* Nimmt den verfügbaren Platz in der Mitte ein */
+    max-width: 400px; /* Wird aber nicht extrem riesig auf großen Bildschirmen */
+    margin: 0 20px;
+}
+
+#suchfeld {
+    width: 100%;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 20px 0 0 20px; /* Links rund, rechts eckig */
+    outline: none;
+    font-size: 16px;
+}
+
+#such-button {
+    padding: 10px 15px;
+    background-color: #28a745;
+    border: none;
+    border-radius: 0 20px 20px 0; /* Links eckig, rechts rund */
+    cursor: pointer;
+    font-size: 16px;
+}
+
+#such-button:hover {
+    background-color: #218838;
+}
+
+/* --- 3. Warenkorb Bereich --- */
+.warenkorb-link {
+    color: white;
+    text-decoration: none; /* Entfernt den hässlichen blauen Unterstrich vom Link */
+    font-size: 18px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 8px 12px;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.warenkorb-link:hover {
+    background-color: rgba(255, 255, 255, 0.1); /* Leichter Effekt beim Drüberfahren */
+}
+
+/* Die kleine rote Zahl am Warenkorb */
+.badge {
+    background-color: #e74c3c; 
+    color: white;
+    padding: 2px 8px;
+    border-radius: 50%; /* Macht es kreisrund */
+    font-size: 14px;
+}
+
