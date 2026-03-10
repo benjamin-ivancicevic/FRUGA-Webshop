@@ -46,6 +46,34 @@ if (kategorieContainer) {
     });
 }
 
+const suchfeld = document.getElementById('suchfeld');
+const suchButton = document.getElementById('such-button');
+
+function fuehreSucheAus() {
+    const suchbegriff = suchfeld.value.toLowerCase().trim();
+
+    if (suchbegriff === "") {
+        return;
+    }
+
+    const gefilterteProdukte = alleProdukteDaten.filter((produkt) => {
+        const produktName = produkt.name.toLowerCase();
+        return produktName.includes(suchbegriff);
+    });
+
+    zeigeProdukteImShop(gefilterteProdukte, `Suchergebnisse für "${suchfeld.value}"`);
+}
+
+if (suchButton && suchfeld) {
+    suchButton.addEventListener('click', fuehreSucheAus);
+    
+    suchfeld.addEventListener('keypress', (event) => {
+        if (event.key === 'Enter') {
+            fuehreSucheAus();
+        }
+    });
+}
+
 function zeigeProdukteImShop(produkte, kategorienName = "Produkte") {
     const htmlContainer = document.getElementById('produkt-liste');
     

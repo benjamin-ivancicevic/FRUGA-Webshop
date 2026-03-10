@@ -108,41 +108,58 @@ body {
     letter-spacing: 1px;
 }
 
-/* --- 2. Suchleiste --- */
-.such-bereich {
+.such-container {
     display: flex;
-    flex: 1; /* Nimmt den verfügbaren Platz in der Mitte ein */
-    max-width: 400px; /* Wird aber nicht extrem riesig auf großen Bildschirmen */
-    margin: 0 20px;
+    gap: 15px;
+    margin: 0 auto 0px auto;
+    max-width: 800px;
+    
 }
 
 #suchfeld {
-    width: 100%;
-    padding: 10px 15px;
-    border: none;
-    border-radius: 20px 0 0 20px; /* Links rund, rechts eckig */
+    flex: 1;
+    padding: 15px 20px;
+    font-size: 1.2rem;
+    border: 2px solid #ccc;
+    border-radius: 8px;
+    box-sizing: border-box;
+}
+
+#suchfeld:focus {
+    border-color: #28a745;
     outline: none;
-    font-size: 16px;
 }
 
 #such-button {
-    padding: 10px 15px;
+    padding: 15px 30px;
+    font-size: 1.2rem;
+    font-weight: bold;
     background-color: #28a745;
+    color: white;
     border: none;
-    border-radius: 0 20px 20px 0; /* Links eckig, rechts rund */
+    border-radius: 8px;
     cursor: pointer;
-    font-size: 16px;
 }
 
 #such-button:hover {
     background-color: #218838;
 }
 
+@media (max-width: 768px) {
+    .such-container {
+        flex-direction: column;
+    }
+    
+    #such-button {
+        width: 100%;
+    }
+}
+
 /* --- 3. Warenkorb Bereich --- */
 .warenkorb-link {
     color: white;
     text-decoration: none; /* Entfernt den hässlichen blauen Unterstrich vom Link */
-    font-size: 18px;
+    font-size: 1.3rem;
     font-weight: bold;
     display: flex;
     align-items: center;
