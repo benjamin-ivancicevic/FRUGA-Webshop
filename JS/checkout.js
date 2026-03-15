@@ -1,29 +1,24 @@
 // 1. Wir suchen den Container, der IMMER da ist (schon beim Laden der Seite)
+
+
 const produktListe = document.getElementById('produkt-liste');
 
-// 2. Wir hängen den "Ohrenöffner" (Event Listener) an diesen Haupt-Container
 if (produktListe) {
     produktListe.addEventListener('click', (event) => {
+        const kaufButton = event.target.closest('.js-kauf-button');
         
-        // 3. Wir prüfen: Wurde ein Element mit der Klasse 'js-kauf-button' geklickt?
-        const button = event.target.closest('.js-kauf-button');
-        
-        // Wenn kein Button geklickt wurde (sondern z.B. nur das Bild oder der Hintergrund), 
-        // machen wir einfach gar nichts und brechen ab.
-        if (!button) return;
+        if (!kaufButton) return;
+        // Wir suchen die Produktkarte von dem Artikel wo wir den Kaufbutton gedrückt haben
+        const produktKarte = kaufButton.closest('.produkt-karte');
+        // Wir unterscheiden, ob ein Sixpack ausgewählt wurde oder nicht
+        const variantenFeld = produktKarte.querySelector('.varianten-auswahl');
+        const produktArt = variantenFeld ? variantenFeld.value : "kasten";
+        const productEan = kaufButton.dataset.productEan;
 
-  
-
-        const productEan = button.dataset.productEan;
         let matchingItem;
-        let cartQuantity = 0;
-
-        const produktKarte = button.closest('.produkt-karte');
-        const selectFeld = produktKarte.querySelector('.type-selection');
-        let produktArt = selectFeld ? selectFeld.value : 'Kasten';
 
         cart.forEach((item) => {
-            if(productEan === item.productEan  && produktArt === item.produktArt) {
+            if (productEan === item.productEan && produktArt === item.produktArt) {
                 matchingItem = item;
             }
         });
@@ -39,18 +34,15 @@ if (produktListe) {
         }   
 
         speichereWarenkorb();
-
         aktualisiereZaehler();
-        
-        
-        console.log("Warenkorb aktuell:", cart);
 
-        const originalText = button.innerText;
-        button.innerText = "Hinzugefügt! ✔";
-        button.style.backgroundColor = "#218838";
+        const originalText = kaufButton.innerText;
+        kaufButton.innerText = "Hinzugefügt! ✔";
+        kaufButton.style.backgroundColor = "#218838";
+        
         setTimeout(() => {
-            button.innerText = originalText;
-            button.style.backgroundColor = "#28a745";
+            kaufButton.innerText = originalText;
+            kaufButton.style.backgroundColor = ""; 
         }, 1000);
     });
 }
@@ -153,12 +145,22 @@ function zeigeProdukteImWarenkorb(produkte) {
                 <span>${gesamtWarenwert.toFixed(2)} €</span>
             </div>
             <div class="summary-row">
-                <span>Pfand:</span>
+                <span>+ Pfand:</span>
                 <span>${gesamtPfand.toFixed(2)} €</span>
             </div>
             <hr>
+            <div class="summary-row">
+                <span>Gesamtsumme (Netto):</span>
+                <span>${((gesamtSumme*100)/119).toFixed(2)} €</span>
+            </div>
+            <div class="summary-row">
+                <span>+ Mehrwertsteuer 19%:</span>
+                <span>${((gesamtSumme*19)/119).toFixed(2)} €</span>
+            </div>
+            <hr>
+            <hr>
             <div class="summary-row total-row">
-                <span>Gesamtsumme:</span>
+                <span>Gesamtsumme (Brutto):</span>
                 <span>${gesamtSumme.toFixed(2)} €</span>
             </div>
             <button class="checkout-button">Zahlungspflichtig bestellen</button>
