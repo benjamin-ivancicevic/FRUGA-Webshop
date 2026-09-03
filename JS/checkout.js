@@ -223,4 +223,96 @@ if (lieferdatumFeld) {
     });
 }
 
+const checkoutForm = document.getElementById('checkout-form');
+
+if (checkoutForm) {
+    checkoutForm.addEventListener('submit', async (event) => {
+        event.preventDefault();
+
+        if (cart.length === 0) {
+            alert('Ihr Warenkorb ist leer! Bitte fügen Sie zuerst Getränke hinzu.');
+            window.location.href = 'index.html';
+            return;
+        }
+
+        const vorname = document.getElementById('vorname').value.trim();
+        const nachname = document.getElementById('nachname').value.trim();
+        const strasse = document.getElementById('strasse').value.trim();
+        const plz = document.getElementById('plz').value.trim();
+        const ort = document.getElementById('ort').value.trim();
+        const telefon = document.getElementById('telefon').value.trim();
+        const email = document.getElementById('email').value.trim();
+        const lieferdatum = document.getElementById('lieferdatum').value;
+        const anmerkungen = document.getElementById('anmerkungen').value.trim();
+
+        let bestellUebersicht = `Neue Getränkebestellung von ${vorname} ${nachname}\n\n`;
+        bestellUebersicht += `LIEFERADRESSE:\n${vorname} ${nachname}\n${strasse}\n${plz} ${ort}\n\n`;
+        bestellUebersicht += `KONTAKTDATEN:\nTelefon: ${telefon}\nE-Mail: ${email}\n\n`;
+        bestellUebersicht += `WUNSCH-LIEFERDATUM: ${lieferdatum}\n\n`;
+
+        if (anmerkungen) {
+            bestellUebersicht += `ANMERKUNGEN:\n${anmerkungen}\n\n`;
+        }
+
+        try {
+            // Hier laden wir heimlich die Preisliste herunter!
+            const response = await fetch('data/products.json'); 
+            const alleProdukteDaten = await response.json();
+
+            bestellUebersicht += `BESTELLTE ARTIKEL:\n`;
+            bestellUebersicht += `----------------------------------------\n`;
+
+            let gesamtPreisBestellung = 0;
+
+            cart.forEach((item) => {
+                const produkt = alleProdukteDaten.find(p => p.ean === item.productEan);
+                if (produkt) {
+                    let preis = 0;
+                    let anzeigeArt = "";
+
+                    if (item.produktArt === "kasten") {
+                        preis = produkt.preis_kasten;
+                        anzeigeArt = "Kasten";
+                    } else if (item.produktArt === "sechser") {
+                        preis = produkt.preis_sechser;
+                        anzeigeArt = "6-Pack";
+                    } else {
+                        preis = produkt.preis_kasten; 
+                        anzeigeArt = "Flasche(n)/Stück";
+                    }
+
+                    const positionPreis = preis * item.quantity;
+                    gesamtPreisBestellung += positionPreis;
+
+                    bestellUebersicht += `${item.quantity}x ${produkt.name} (${anzeigeArt}) - ${positionPreis.toFixed(2).replace('.', ',')} €\n`;
+                }
+            });
+
+            bestellUebersicht += `----------------------------------------\n`;
+            bestellUebersicht += `GESAMTBETRAG (ohne Pfand): ${gesamtPreisBestellung.toFixed(2).replace('.', ',')} €\n\n`;
+            bestellUebersicht += `(Die genaue Pfandberechnung erfolgt bei Lieferung).\n`;
+
+            const shopEmail = "bivancicevic@gmail.com"; 
+            const emailBetreff = encodeURIComponent(`Neue Bestellung: ${vorname} ${nachname} - ${lieferdatum}`);
+            const emailBody = encodeURIComponent(bestellUebersicht);
+
+            const mailtoLink = `mailto:${shopEmail}?subject=${emailBetreff}&body=${emailBody}`;
+
+            window.location.href = mailtoLink;
+
+            cart = [];
+            speichereWarenkorb();
+            
+            setTimeout(() => {
+                alert('Vielen Dank! Ihr E-Mail-Programm sollte sich nun öffnen, um die Bestellung abzusenden.');
+                window.location.href = 'index.html'; 
+            }, 1000);
+
+        } catch (error) {
+            console.error("Fehler beim Laden der Produkte:", error);
+            alert("Es gab ein Problem beim Berechnen der Preise. Bitte versuchen Sie es später noch einmal.");
+        }
+    });
+}
+
 ladeProdukte();

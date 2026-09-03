@@ -32,6 +32,13 @@ if (kategorieContainer) {
         // Wenn man daneben geklickt hat, mach nichts
         if (!geklickteKarte) return;
 
+        document.querySelectorAll('.kategorie-karte').forEach(karte => {
+        karte.classList.remove('ausgewaehlt');
+    });
+
+    // 2. Gib nur der aktuell geklickten Karte den Rahmen (Stempel)
+    geklickteKarte.classList.add('ausgewaehlt');
+
         // Welche Kategorie steht im 'data-kategorie' Attribut? (z.B. "bier")
         const gewaehlteKategorie = geklickteKarte.dataset.kategorie;
 
@@ -83,20 +90,14 @@ function zeigeProdukteImShop(produkte, kategorienName = "Produkte") {
     let produktHTML = '';
 
     produkte.forEach(produkt => {
-        // 1. Welche Einheit ist die Haupt-Einheit? (Flasche oder Kasten)
-        // Wenn in der JSON nichts steht, nehmen wir automatisch "Kasten"
         let hauptEinheit = produkt.einheit ? produkt.einheit : "Kasten";
-        
-        // 2. Gibt es überhaupt einen 6er-Pack? (Prüft, ob der Preis über 0 liegt)
         let hatSixpack = produkt.preis_sechser > 0;
 
-        // 3. Den Preis-Bereich bauen
         let preisBoxHTML = `
             <p><strong>${hauptEinheit}:</strong> ${produkt.preis_kasten.toFixed(2)} € <br>
             <small>(+ ${produkt.pfand_kasten.toFixed(2)} € Pfand)</small></p>
         `;
 
-        // Wenn es ein Sixpack gibt, fügen wir den 2. Preis dazu
         if (hatSixpack) {
             preisBoxHTML += `
             <p><strong>6er-Pack:</strong> ${produkt.preis_sechser.toFixed(2)} € <br>
@@ -104,28 +105,33 @@ function zeigeProdukteImShop(produkte, kategorienName = "Produkte") {
             `;
         }
 
-        // 4. Das Dropdown ODER das unsichtbare Feld bauen
+        // --- ÄNDERUNG 1: data-ean zum Dropdown hinzugefügt ---
         let variantenHTML = '';
         if (hatSixpack) {
-            // Dropdown anzeigen
             variantenHTML = `
-            <select class="varianten-auswahl">
+            <select class="varianten-auswahl" data-ean="${produkt.ean}">
                 <option value="${hauptEinheit.toLowerCase()}">${hauptEinheit}</option>
                 <option value="sechser">6er-Pack</option>
             </select>
             `;
         } else {
-            // Kein Sixpack? Dann nur ein unsichtbares Feld für unser JavaScript!
             variantenHTML = `<input type="hidden" class="varianten-auswahl" value="${hauptEinheit.toLowerCase()}">`;
         }
 
-        
-
-        // 5. Die komplette Karte zusammensetzen
+        // --- ÄNDERUNG 2: Der neue Bilderrahmen und die Etiketten (data-kasten & data-flasche) ---
         produktHTML += `
             <div class="produkt-karte">
                 <a href="produkt.html?ean=${produkt.ean}" class="produkt-detail-link" style="text-decoration: none; color: inherit;">
-                    <img src="images/produkte/icons/${produkt.bild}" alt="${produkt.name}" class="produkt-bild">
+                    
+                    <div class="produkt-bild-container">
+                        <img id="bild-${produkt.ean}" 
+                             src="images/icons/${produkt.bild_kasten || produkt.bild_flasche || produkt.bild}" 
+                             alt="${produkt.name}" 
+                             class="produkt-bild"
+                             data-kasten="${produkt.bild_kasten || produkt.bild}"
+                             data-flasche="${produkt.bild_flasche || produkt.bild}">
+                    </div>
+                    
                     <h3>${produkt.name}</h3>
                 </a>
                 
@@ -142,6 +148,38 @@ function zeigeProdukteImShop(produkte, kategorienName = "Produkte") {
     
     // Alles auf einmal ins HTML schieben
     htmlContainer.innerHTML += produktHTML;
+
+    // ==========================================
+    // --- ÄNDERUNG 3: DER BILDWECHSEL-ZAUBER ---
+    // (Muss hier stehen, weil das HTML erst ab jetzt existiert!)
+    // ==========================================
+    const alleDropdowns = document.querySelectorAll('.varianten-auswahl');
+
+    alleDropdowns.forEach(dropdown => {
+        dropdown.addEventListener('change', (event) => {
+            const gewaehlteVariante = event.target.value;
+            const produktEan = event.target.getAttribute('data-ean'); // Welche EAN hat das geklickte Dropdown?
+            
+            // Das Bild zur passenden EAN finden
+            const passendesBild = document.getElementById(`bild-${produktEan}`);
+            
+            if (passendesBild) {
+                const kastenDatei = passendesBild.getAttribute('data-kasten');
+                const flaschenDatei = passendesBild.getAttribute('data-flasche');
+                
+                // Bild austauschen, falls Dateinamen existieren
+                if (gewaehlteVariante === 'sechser' || gewaehlteVariante === 'flasche') {
+                    if (flaschenDatei && flaschenDatei !== 'undefined') {
+                        passendesBild.src = `images/icons/${flaschenDatei}`;
+                    }
+                } else {
+                    if (kastenDatei && kastenDatei !== 'undefined') {
+                        passendesBild.src = `images/icons/${kastenDatei}`;
+                    }
+                }
+            }
+        });
+    });
 }
 
 

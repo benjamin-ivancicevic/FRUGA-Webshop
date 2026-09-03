@@ -50,7 +50,7 @@ async function ladeProduktDetails() {
             const detailHTML = `
                 <div class="detail-grid">
                     <div class="detail-bild-box">
-                        <img src="images/produkte/icons/${gesuchtesProdukt.bild}" alt="${gesuchtesProdukt.name}">
+                        <img id="detail-produkt-bild" src="images/icons/${gesuchtesProdukt.bild_kasten || gesuchtesProdukt.bild_flasche || gesuchtesProdukt.bild}" alt="${gesuchtesProdukt.name}">
                     </div>
                     
                     <div class="detail-info-box">
@@ -71,6 +71,25 @@ async function ladeProduktDetails() {
             `;
             
             document.getElementById('einzelprodukt-container').innerHTML = detailHTML;
+            // Das Dropdown-Menü und das Bild aus dem HTML greifen
+            const variantenDropdown = document.getElementById('detail-variante');
+            const produktBild = document.getElementById('detail-produkt-bild');
+
+            // Prüfen, ob das Dropdown existiert (manche Produkte haben ja keine Auswahl)
+            if (variantenDropdown && produktBild) {
+                variantenDropdown.addEventListener('change', (event) => {
+                    const gewaehlteVariante = event.target.value;
+                    
+                    // Wenn "6er-Pack" (oder Einzelflasche) gewählt wird -> Flaschenbild zeigen
+                    if (gewaehlteVariante === 'sechser') {
+                        produktBild.src = `images/icons/${gesuchtesProdukt.bild_flasche}`;
+                    } 
+                    // Ansonsten (Kasten) -> Kastenbild zeigen
+                    else {
+                        produktBild.src = `images/icons/${gesuchtesProdukt.bild_kasten}`;
+                    }
+                });
+}
 
             // ==========================================
             // NEU: Dem Button das Leben einhauchen!

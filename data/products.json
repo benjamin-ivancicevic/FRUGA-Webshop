@@ -2,11 +2,13 @@
   {
     "ean": "4016843002008",
     "name": "Flötzinger Helles 0,5",
+    "marke": "Flötzinger",
     "preis_kasten": 21.99,
     "preis_sechser": 8.99,
     "pfand_kasten": 3.1,
     "pfand_sechser": 0.48,
-    "bild": "floetzinger_helles_0_5.jpg",
+    "bild_kasten": "floetzinger_helles_0_5_kasten.png",
+    "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "bier"
   },
   {
@@ -16,7 +18,8 @@
     "preis_sechser": 8.99,
     "pfand_kasten": 3.1,
     "pfand_sechser": 0.48,
-    "bild": "augustiner_helles_0_5.jpg",
+    "bild_kasten": "floetzinger_helles_0_5_kasten.png",
+    "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "bier"
   },
   {
@@ -26,77 +29,90 @@
     "preis_sechser": 8.99,
     "pfand_kasten": 3.1,
     "pfand_sechser": 0.48,
-    "bild": "augustiner_spezial_0_5.jpg",
+    "bild_kasten": "floetzinger_helles_0_5_kasten.png",
+    "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "bier"
   },
   {
     "ean": "4016843002947",
     "name": "Flötzinger 1543 0,5",
+    "marke": "Flötzinger",
     "preis_kasten": 22.99,
     "preis_sechser": 8.99,
     "pfand_kasten": 3.1,
     "pfand_sechser": 0.48,
-    "bild": "floetzinger_1543_0_5.jpg",
-    "kategorie": "bier"
+    "bild_kasten": "floetzinger_1543_0_5_kasten.png",
+    "bild_flasche": "floetzinger_1543_0_5_flasche.png",    "kategorie": "bier"
   },
   {
     "ean": "4016843002404",
     "name": "Flötzinger Märzen 0,5",
+    "marke": "Flötzinger",
     "preis_kasten": 22.99,
     "preis_sechser": 8.99,
     "pfand_kasten": 3.1,
     "pfand_sechser": 0.48,
-    "bild": "floetzinger_maerzen_0_5.jpg",
+    "bild_kasten": "floetzinger_maerzen_helles_0_5_kasten.png",
+    "bild_flasche": "floetzinger_maerzen_helles_0_5_flasche.png",
     "kategorie": "bier"
   },
   {
     "ean": "4016843003982",
     "name": "Flötzinger Alkoholfrei Hell 0,5",
+    "marke": "Flötzinger",
     "preis_kasten": 22.99,
     "preis_sechser": 8.99,
     "pfand_kasten": 3.1,
     "pfand_sechser": 0.48,
-    "bild": "floetzinger_alkoholfrei_hell_0_5.jpg",
+    "bild_kasten": "floetzinger_alkoholfrei_0_5_kasten.png",
+    "bild_flasche": "floetzinger_alkoholfrei_0_5_flasche.png",
     "kategorie": "bier"
   },
   {
     "ean": "4016843004842",
     "name": "Flötzinger Radler 0,5",
+    "marke": "Flötzinger",
     "preis_kasten": 20.99,
     "preis_sechser": 8.49,
     "pfand_kasten": 3.1,
     "pfand_sechser": 0.48,
-    "bild": "floetzinger_radler_0_5.jpg",
+    "bild_kasten": "floetzinger_helles_0_5_kasten.png",
+    "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "bier"
   },
   {
     "ean": "4016843003944",
     "name": "Flötzinger Radler 0,0 %",
+    "marke": "Flötzinger",
     "preis_kasten": 20.99,
     "preis_sechser": 8.49,
     "pfand_kasten": 3.1,
     "pfand_sechser": 0.48,
-    "bild": "floetzinger_radler_0_0_%.jpg",
+    "bild_kasten": "floetzinger_radler_alkoholfrei_0_5_kasten.png",
+    "bild_flasche": "floetzinger_radler_alkoholfrei_0_5_flasche.png",
     "kategorie": "bier"
   },
   {
     "ean": "4016843004866",
     "name": "Flötzinger Russ´n 0,5",
+    "marke": "Flötzinger",
     "preis_kasten": 22.99,
     "preis_sechser": 8.49,
     "pfand_kasten": 3.1,
     "pfand_sechser": 0.48,
-    "bild": "floetzinger_russ´n_0_5.jpg",
+    "bild_kasten": "floetzinger_russn_0_5_kasten.png",
+    "bild_flasche": "floetzinger_russn_0_5_flasche.png",
     "kategorie": "bier"
   },
   {
     "ean": "4016843002992",
-    "name": "Bierbichler Weißier 0,5",
+    "name": "Bierbichler Weißbier 0,5",
     "preis_kasten": 24.49,
     "preis_sechser": 8.99,
     "pfand_kasten": 3.1,
     "pfand_sechser": 0.48,
-    "bild": "bierbichler_weissier_0_5.jpg",
+    "bild_kasten": "bierbichler_weißbier_0_5_kasten.png",
+    "bild_flasche": "bierbichler_weißbier_0_5_flasche.png",
     "kategorie": "bier"
   },
   {
@@ -106,7 +122,8 @@
     "preis_sechser": 8.99,
     "pfand_kasten": 3.1,
     "pfand_sechser": 0.48,
-    "bild": "auer_braeu_hell_0_5.jpg",
+    "bild_kasten": "floetzinger_helles_0_5_kasten.png",
+    "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "bier"
   },
   {
@@ -116,7 +133,8 @@
     "preis_sechser": 8.99,
     "pfand_kasten": 3.1,
     "pfand_sechser": 0.48,
-    "bild": "auer_braeu_weissbier_0_5.jpg",
+    "bild_kasten": "floetzinger_helles_0_5_kasten.png",
+    "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "bier"
   },
   {
@@ -126,7 +144,8 @@
     "preis_sechser": 8.49,
     "pfand_kasten": 3.1,
     "pfand_sechser": 0.48,
-    "bild": "auer_braeu_radler_naturtrueb_0_5.jpg",
+    "bild_kasten": "floetzinger_helles_0_5_kasten.png",
+    "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "bier"
   },
   {
@@ -136,7 +155,8 @@
     "preis_sechser": 8.99,
     "pfand_kasten": 3.1,
     "pfand_sechser": 0.48,
-    "bild": "johann_auer_spezial_hell_0_5.jpg",
+    "bild_kasten": "floetzinger_helles_0_5_kasten.png",
+    "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "bier"
   },
   {
@@ -146,7 +166,8 @@
     "preis_sechser": 7.99,
     "pfand_kasten": 3.1,
     "pfand_sechser": 0.48,
-    "bild": "auer_braeu_111_zwickl_0_33.jpg",
+    "bild_kasten": "floetzinger_helles_0_5_kasten.png",
+    "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "bier"
   },
   {
@@ -156,7 +177,8 @@
     "preis_sechser": 7.49,
     "pfand_kasten": 3.1,
     "pfand_sechser": 0.48,
-    "bild": "auer_braeu_111_radler_0_33.jpg",
+    "bild_kasten": "floetzinger_helles_0_5_kasten.png",
+    "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "bier"
   },
   {
@@ -166,7 +188,8 @@
     "preis_sechser": 12.49,
     "pfand_kasten": 3.1,
     "pfand_sechser": 0.48,
-    "bild": "simsseer_zwickl_0_5.jpg",
+    "bild_kasten": "floetzinger_helles_0_5_kasten.png",
+    "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "bier"
   },
   {
@@ -176,7 +199,8 @@
     "preis_sechser": 12.49,
     "pfand_kasten": 3.1,
     "pfand_sechser": 0.48,
-    "bild": "simsseer_volle_pulle_alkoholfrei_0_5.jpg",
+    "bild_kasten": "floetzinger_helles_0_5_kasten.png",
+    "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "bier"
   },
   {
@@ -186,7 +210,8 @@
     "preis_sechser": 8.99,
     "pfand_kasten": 3.1,
     "pfand_sechser": 0.48,
-    "bild": "tegernseer_hell_0_5.jpg",
+    "bild_kasten": "floetzinger_helles_0_5_kasten.png",
+    "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "bier"
   },
   {
@@ -196,7 +221,8 @@
     "preis_sechser": 8.99,
     "pfand_kasten": 3.1,
     "pfand_sechser": 0.48,
-    "bild": "tegernseer_spezial_0_5.jpg",
+    "bild_kasten": "floetzinger_helles_0_5_kasten.png",
+    "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "bier"
   },
   {
@@ -206,7 +232,8 @@
     "preis_sechser": 7.99,
     "pfand_kasten": 3.42,
     "pfand_sechser": 0.48,
-    "bild": "tegernseer_pils_0_33.jpg",
+    "bild_kasten": "floetzinger_helles_0_5_kasten.png",
+    "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "bier"
   },
   {
@@ -216,7 +243,8 @@
     "preis_sechser": 8.99,
     "pfand_kasten": 3.1,
     "pfand_sechser": 0.48,
-    "bild": "maxlrainer_maxl_helles_0_5.jpg",
+    "bild_kasten": "floetzinger_helles_0_5_kasten.png",
+    "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "bier"
   },
   {
@@ -226,7 +254,8 @@
     "preis_sechser": 8.99,
     "pfand_kasten": 3.1,
     "pfand_sechser": 0.48,
-    "bild": "wildbraeu_helles_0_5.jpg",
+    "bild_kasten": "floetzinger_helles_0_5_kasten.png",
+    "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "bier"
   },
   {
@@ -236,7 +265,8 @@
     "preis_sechser": 10.99,
     "pfand_kasten": 3.1,
     "pfand_sechser": 0.48,
-    "bild": "hoppebraeu_helles_0_5.jpg",
+    "bild_kasten": "floetzinger_helles_0_5_kasten.png",
+    "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "bier"
   },
   {
@@ -246,7 +276,8 @@
     "preis_sechser": 10.99,
     "pfand_kasten": 3.1,
     "pfand_sechser": 0.48,
-    "bild": "hoppebraeu_ruhige_kugel_alkoholfrei_0_5.jpg",
+    "bild_kasten": "floetzinger_helles_0_5_kasten.png",
+    "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "bier"
   },
   {
@@ -256,17 +287,19 @@
     "preis_sechser": 9.99,
     "pfand_kasten": 3.1,
     "pfand_sechser": 0.48,
-    "bild": "hofbraeuhaus_traunstein_helles_0_5.jpg",
+    "bild_kasten": "floetzinger_helles_0_5_kasten.png",
+    "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "bier"
   },
   {
     "ean": "42268888",
-    "name": "Giesiniger Erhellung 0,5",
+    "name": "Giesinger Erhellung 0,5",
     "preis_kasten": 28.99,
     "preis_sechser": 10.99,
     "pfand_kasten": 3.1,
     "pfand_sechser": 0.48,
-    "bild": "giesiniger_erhellung_0_5.jpg",
+    "bild_kasten": "giesinger_erhellung_kasten.png",
+    "bild_flasche": "giesinger_erhellung_flasche.png",
     "kategorie": "bier"
   },
   {
@@ -276,7 +309,8 @@
     "preis_sechser": 9.99,
     "pfand_kasten": 3.1,
     "pfand_sechser": 0.48,
-    "bild": "schoenramer_hell_0_5.jpg",
+    "bild_kasten": "floetzinger_helles_0_5_kasten.png",
+    "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "bier"
   },
   {
@@ -286,7 +320,8 @@
     "preis_sechser": 8.99,
     "pfand_kasten": 3.1,
     "pfand_sechser": 0.48,
-    "bild": "paulaner_muenchner_hell_0_5.jpg",
+    "bild_kasten": "floetzinger_helles_0_5_kasten.png",
+    "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "bier"
   },
   {
@@ -296,7 +331,8 @@
     "preis_sechser": 8.99,
     "pfand_kasten": 3.1,
     "pfand_sechser": 0.48,
-    "bild": "paulaner_weissbier_zitrone_0_0.jpg",
+    "bild_kasten": "floetzinger_helles_0_5_kasten.png",
+    "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "bier"
   },
   {
@@ -306,7 +342,8 @@
     "preis_sechser": 8.99,
     "pfand_kasten": 3.1,
     "pfand_sechser": 0.48,
-    "bild": "paulaner_muencher_hell_alkoholfrei.jpg",
+    "bild_kasten": "floetzinger_helles_0_5_kasten.png",
+    "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "bier"
   },
   {
@@ -316,7 +353,8 @@
     "preis_sechser": 10.99,
     "pfand_kasten": 3.1,
     "pfand_sechser": 0.48,
-    "bild": "camba_hell_0_5.jpg",
+    "bild_kasten": "floetzinger_helles_0_5_kasten.png",
+    "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "bier"
   },
   {
@@ -326,7 +364,8 @@
     "preis_sechser": 8.99,
     "pfand_kasten": 3.1,
     "pfand_sechser": 0.48,
-    "bild": "paulaner_hefe-weissbier_0_5.jpg",
+    "bild_kasten": "floetzinger_helles_0_5_kasten.png",
+    "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "bier"
   },
   {
@@ -336,7 +375,8 @@
     "preis_sechser": 8.99,
     "pfand_kasten": 2.3,
     "pfand_sechser": 0.48,
-    "bild": "lammsbraeu_bio_alkoholfrei_0_33.jpg",
+    "bild_kasten": "lammsbraeu_bio_alkoholfrei_kasten.png",
+    "bild_flasche": "lammsbraeu_bio_alkoholfrei_flasche.png",
     "kategorie": "bier"
   },
   {
@@ -346,7 +386,8 @@
     "preis_sechser": 8.99,
     "pfand_kasten": 2.3,
     "pfand_sechser": 0.48,
-    "bild": "lammsbraeu_zzzisch_bio_pils_0_33.jpg",
+    "bild_kasten": "lammsbraeu_zzzisch_flasche.png",
+    "bild_flasche": "lammsbraeu_zzzisch_flasche.png",
     "kategorie": "bier"
   },
   {
@@ -356,7 +397,8 @@
     "preis_sechser": 8.99,
     "pfand_kasten": 3.1,
     "pfand_sechser": 0.48,
-    "bild": "paulaner_weissbier_alkoholfrei_0_0.jpg",
+    "bild_kasten": "floetzinger_helles_0_5_kasten.png",
+    "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "bier"
   },
   {
@@ -366,7 +408,8 @@
     "preis_sechser": 9.99,
     "pfand_kasten": 3.1,
     "pfand_sechser": 0.48,
-    "bild": "unertl_weissbier_0_5.jpg",
+    "bild_kasten": "floetzinger_helles_0_5_kasten.png",
+    "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "bier"
   },
   {
@@ -376,17 +419,19 @@
     "preis_sechser": 9.99,
     "pfand_kasten": 3.1,
     "pfand_sechser": 0.48,
-    "bild": "unertl_leichte_weisse_0_5.jpg",
+    "bild_kasten": "floetzinger_helles_0_5_kasten.png",
+    "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "bier"
   },
   {
     "ean": "42230755",
-    "name": "Unterl Weißbier Alkoholfrei 0,5",
+    "name": "Unertl Weißbier Alkoholfrei 0,5",
     "preis_kasten": 24.99,
     "preis_sechser": 9.99,
     "pfand_kasten": 3.1,
     "pfand_sechser": 0.48,
-    "bild": "unterl_weissbier_alkoholfrei_0_5.jpg",
+    "bild_kasten": "floetzinger_helles_0_5_kasten.png",
+    "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "bier"
   },
   {
@@ -396,7 +441,8 @@
     "preis_sechser": 9.99,
     "pfand_kasten": 3.1,
     "pfand_sechser": 0.48,
-    "bild": "steiner-bier_hell_0_5.jpg",
+    "bild_kasten": "floetzinger_helles_0_5_kasten.png",
+    "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "bier"
   },
   {
@@ -406,7 +452,8 @@
     "preis_sechser": 15.99,
     "pfand_kasten": 3.42,
     "pfand_sechser": 0.48,
-    "bild": "corona_extra_0_33.jpg",
+    "bild_kasten": "floetzinger_helles_0_5_kasten.png",
+    "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "bier"
   },
   {
@@ -416,17 +463,19 @@
     "preis_sechser": 8.99,
     "pfand_kasten": 3.1,
     "pfand_sechser": 0.48,
-    "bild": "steiner-bier_alkoholfreies_bio_zwickl_0_5.jpg",
+    "bild_kasten": "floetzinger_helles_0_5_kasten.png",
+    "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "bier"
   },
   {
     "ean": "40534534",
-    "name": "Clausthaler Klassik Alkoholfrei 0,5",
+    "name": "Clausthaler Original Alkoholfrei 0,5",
     "preis_kasten": 21.99,
     "preis_sechser": 8.99,
     "pfand_kasten": 3.1,
     "pfand_sechser": 0.48,
-    "bild": "clausthaler_klassik_alkoholfrei_0_5.jpg",
+    "bild_kasten": "clausthaler_original_alkoholfrei_kasten.png",
+    "bild_flasche": "clausthaler_original_alkoholfrei_flasche.png",
     "kategorie": "bier"
   },
   {
@@ -436,7 +485,8 @@
     "preis_sechser": 8.99,
     "pfand_kasten": 3.1,
     "pfand_sechser": 0.48,
-    "bild": "jever_fun_alkoholfrei_0_5.jpg",
+    "bild_kasten": "jever_fun_alkoholfrei_kasten.png",
+    "bild_flasche": "jever_fun_alkoholfrei_flasche.png",
     "kategorie": "bier"
   },
   {
@@ -446,7 +496,8 @@
     "preis_sechser": 8.99,
     "pfand_kasten": 3.1,
     "pfand_sechser": 0.48,
-    "bild": "jever_pilsener_0_5.jpg",
+    "bild_kasten": "jever_pilsener_0_5_kasten.png",
+    "bild_flasche": "jever_pilsener_0_5_flasche.png",
     "kategorie": "bier"
   },
   {
@@ -456,7 +507,8 @@
     "preis_sechser": 16.99,
     "pfand_kasten": 3.42,
     "pfand_sechser": 0.48,
-    "bild": "desperado_original_0_33.jpg",
+    "bild_kasten": "floetzinger_helles_0_5_kasten.png",
+    "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "bier"
   },
   {
@@ -466,7 +518,8 @@
     "preis_sechser": 10.99,
     "pfand_kasten": 3.42,
     "pfand_sechser": 0.48,
-    "bild": "beck's_green_lemon_0_33.jpg",
+    "bild_kasten": "floetzinger_helles_0_5_kasten.png",
+    "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "bier"
   },
   {
@@ -476,7 +529,8 @@
     "preis_sechser": 10.99,
     "pfand_kasten": 3.42,
     "pfand_sechser": 0.48,
-    "bild": "beck's_original_0_33.jpg",
+    "bild_kasten": "floetzinger_helles_0_5_kasten.png",
+    "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "bier"
   },
   {
@@ -486,7 +540,8 @@
     "preis_sechser": 8.99,
     "pfand_kasten": 3.1,
     "pfand_sechser": 0.48,
-    "bild": "oro_klare_schorle_0_5.jpg",
+    "bild_kasten": "floetzinger_helles_0_5_kasten.png",
+    "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "limo_schorle"
   },
   {
@@ -496,7 +551,8 @@
     "preis_sechser": 8.99,
     "pfand_kasten": 3.1,
     "pfand_sechser": 0.48,
-    "bild": "oro_johann_schorle_0_5.jpg",
+    "bild_kasten": "floetzinger_helles_0_5_kasten.png",
+    "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "limo_schorle"
   },
   {
@@ -506,7 +562,8 @@
     "preis_sechser": 8.99,
     "pfand_kasten": 3.1,
     "pfand_sechser": 0.48,
-    "bild": "oro_truebe_schorle_0_5.jpg",
+    "bild_kasten": "floetzinger_helles_0_5_kasten.png",
+    "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "limo_schorle"
   },
   {
@@ -516,77 +573,92 @@
     "preis_sechser": 8.99,
     "pfand_kasten": 3.1,
     "pfand_sechser": 0.48,
-    "bild": "oro_rote_fruchtschorle_0_5.jpg",
+    "bild_kasten": "floetzinger_helles_0_5_kasten.png",
+    "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "limo_schorle"
   },
   {
     "ean": "4016843008802",
-    "name": "Flötzinger Apfelschorle  Trübe 0,5",
+    "name": "Flötzinger Apfelschorle Trübe 0,5",
+    "marke": "Flötzinger",
     "preis_kasten": 23.99,
     "preis_sechser": 8.99,
     "pfand_kasten": 3.1,
     "pfand_sechser": 0.48,
-    "bild": "floetzinger_apfelschorle__truebe_0_5.jpg",
+    "bild_kasten": "floetzinger_apfelschore_naturtrueb_0_5_flasche.png",
+    "bild_flasche": "floetzinger_apfelschore_naturtrueb_0_5_flasche.png",
     "kategorie": "limo_schorle"
   },
   {
     "ean": "4016843004484",
     "name": "Flötzinger Kracherl Apfel Johannisbeere 0,5",
+    "marke": "Flötzinger",
     "preis_kasten": 16.99,
     "preis_sechser": 7.99,
     "pfand_kasten": 3.1,
     "pfand_sechser": 0.48,
-    "bild": "floetzinger_kracherl_apfel_johannisbeere_0_5.jpg",
+    "bild_kasten": "floetzinger_kracherl_apfel_johannisbeere_0_5_kasten.png",
+    "bild_flasche": "floetzinger_kracherl_apfel_johannisbeere_0_5_flasche.png",
     "kategorie": "limo_schorle"
   },
   {
     "ean": "4016843004309",
     "name": "Flötzinger Limo Orange 0,5",
+    "marke": "Flötzinger",
     "preis_kasten": 13.49,
     "preis_sechser": 7.49,
     "pfand_kasten": 3.1,
     "pfand_sechser": 0.48,
-    "bild": "floetzinger_limo_orange_0_5.jpg",
+    "bild_kasten": "floetzinger_orangen_limonade_0_5_kasten.png",
+    "bild_flasche": "floetzinger_orangen_limonade_0_5_flasche.png",
     "kategorie": "limo_schorle"
   },
   {
     "ean": "4016843004507",
     "name": "Flötzinger Cola Mix 0,5",
+    "marke": "Flötzinger",
     "preis_kasten": 14.99,
     "preis_sechser": 7.49,
     "pfand_kasten": 3.1,
     "pfand_sechser": 0.48,
-    "bild": "floetzinger_cola_mix_0_5.jpg",
+    "bild_kasten": "floetzinger_cola_mix_0_5_kasten.png",
+    "bild_flasche": "floetzinger_cola_mix_0_5_flasche.png",
     "kategorie": "limo_schorle"
   },
   {
     "ean": "4016843004514",
     "name": "Flötzinger Cola Mix Zero 0,5",
+    "marke": "Flötzinger",
     "preis_kasten": 14.99,
     "preis_sechser": 7.49,
     "pfand_kasten": 3.1,
     "pfand_sechser": 0.48,
-    "bild": "floetzinger_cola_mix_zero_0_5.jpg",
+    "bild_kasten": "floetzinger_cola_mix_zero_0_5_kasten.png",
+    "bild_flasche": "floetzinger_cola_mix_zero_0_5_flasche.png",
     "kategorie": "limo_schorle"
   },
   {
     "ean": "4016843004002",
     "name": "Flötzinger Limo Zitrone 0,5",
+    "marke": "Flötzinger",
     "preis_kasten": 13.49,
     "preis_sechser": 7.49,
     "pfand_kasten": 3.1,
     "pfand_sechser": 0.48,
-    "bild": "floetzinger_limo_zitrone_0_5.jpg",
+    "bild_kasten": "floetzinger_zitronen_limonade_0_5_kasten.png",
+    "bild_flasche": "floetzinger_zitronen_limonade_0_5_flasche.png",
     "kategorie": "limo_schorle"
   },
   {
     "ean": "4015843004453",
     "name": "Flötzinger Apfelschorle Regional 0,5",
+    "marke": "Flötzinger",
     "preis_kasten": 14.49,
     "preis_sechser": 8.99,
     "pfand_kasten": 3.1,
     "pfand_sechser": 0.48,
-    "bild": "floetzinger_apfelschorle_regional_0_5.jpg",
+    "bild_kasten": "floetzinger_apfelschore_regional_0_5_kasten.png",
+    "bild_flasche": "floetzinger_apfelschore_regional_0_5_flasche.png",
     "kategorie": "limo_schorle"
   },
   {
@@ -596,7 +668,8 @@
     "preis_sechser": 7.99,
     "pfand_kasten": 3.1,
     "pfand_sechser": 0.48,
-    "bild": "paulaner_spezi_0_5.jpg",
+    "bild_kasten": "floetzinger_helles_0_5_kasten.png",
+    "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "limo_schorle"
   },
   {
@@ -606,17 +679,20 @@
     "preis_sechser": 7.99,
     "pfand_kasten": 3.1,
     "pfand_sechser": 0.48,
-    "bild": "paulaner_spezi_zero_0_5.jpg",
+    "bild_kasten": "floetzinger_helles_0_5_kasten.png",
+    "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "limo_schorle"
   },
   {
     "ean": "4016843008819",
     "name": "Flötzinger Johannisbeer Nektar-Schorle 0,5",
+    "marke": "Flötzinger",
     "preis_kasten": 22.99,
     "preis_sechser": 8.99,
     "pfand_kasten": 3.1,
     "pfand_sechser": 0.48,
-    "bild": "floetzinger_johannisbeer_nektar-schorle_0_5.jpg",
+    "bild_kasten": "floetzinger_johannisbeer_nektar_schorle_0_5_flasche.png",
+    "bild_flasche": "floetzinger_johannisbeer_nektar_schorle_0_5_flasche.png",
     "kategorie": "limo_schorle"
   },
   {
@@ -626,7 +702,8 @@
     "preis_sechser": 9.99,
     "pfand_kasten": 5.1,
     "pfand_sechser": 0.9,
-    "bild": "coca_cola_original_0_33.jpg",
+    "bild_kasten": "floetzinger_helles_0_5_kasten.png",
+    "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "limo_schorle"
   },
   {
@@ -636,7 +713,8 @@
     "preis_sechser": 9.99,
     "pfand_kasten": 5.1,
     "pfand_sechser": 0.9,
-    "bild": "coca_cola_zero_0_33.jpg",
+    "bild_kasten": "floetzinger_helles_0_5_kasten.png",
+    "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "limo_schorle"
   },
   {
@@ -646,7 +724,8 @@
     "preis_sechser": 9.99,
     "pfand_kasten": 5.1,
     "pfand_sechser": 0.9,
-    "bild": "fanta_orange_0_33.jpg",
+    "bild_kasten": "floetzinger_helles_0_5_kasten.png",
+    "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "limo_schorle"
   },
   {
@@ -656,7 +735,8 @@
     "preis_sechser": 9.99,
     "pfand_kasten": 5.1,
     "pfand_sechser": 0.9,
-    "bild": "sprite_0_33.jpg",
+    "bild_kasten": "floetzinger_helles_0_5_kasten.png",
+    "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "limo_schorle"
   },
   {
@@ -666,7 +746,8 @@
     "preis_sechser": 10.99,
     "pfand_kasten": 3.42,
     "pfand_sechser": 0.48,
-    "bild": "fritz-kola_original_0_33.jpg",
+    "bild_kasten": "fritz_kola_classic_glas_kasten.png",
+    "bild_flasche": "fritz_kola_classic_glas_flasche.png",
     "kategorie": "limo_schorle"
   },
   {
@@ -676,7 +757,8 @@
     "preis_sechser": 10.99,
     "pfand_kasten": 3.42,
     "pfand_sechser": 0.48,
-    "bild": "fritz-kola_classic_light_0_33.jpg",
+    "bild_kasten": "fritz_kola_classic_light_glas_kasten.png",
+    "bild_flasche": "fritz_kola_classic_light_glas_flasche.png",
     "kategorie": "limo_schorle"
   },
   {
@@ -686,7 +768,8 @@
     "preis_sechser": 10.99,
     "pfand_kasten": 3.42,
     "pfand_sechser": 0.48,
-    "bild": "fritz-kola_classic_zero_0_33.jpg",
+    "bild_kasten": "fritz_kola_zero_glas_kasten.png",
+    "bild_flasche": "fritz_kola_zero_glas_flasche.png",
     "kategorie": "limo_schorle"
   },
   {
@@ -696,7 +779,8 @@
     "preis_sechser": 7.49,
     "pfand_kasten": 3.1,
     "pfand_sechser": 0.48,
-    "bild": "frucade_cola_mix_0_5.jpg",
+    "bild_kasten": "frucade_colamix_0_5_glas_kasten.png",
+    "bild_flasche": "frucade_colamix_0_5_glas_flasche.png",
     "kategorie": "limo_schorle"
   },
   {
@@ -706,7 +790,8 @@
     "preis_sechser": 7.49,
     "pfand_kasten": 3.1,
     "pfand_sechser": 0.48,
-    "bild": "frucade_zitronenlimonade_0_5.jpg",
+    "bild_kasten": "frucade_zitronenlimonade_0_5_glas_kasten.png",
+    "bild_flasche": "frucade_zitronenlimonade_0_5_glas_flasche.png",
     "kategorie": "limo_schorle"
   },
   {
@@ -716,7 +801,8 @@
     "preis_sechser": 7.99,
     "pfand_kasten": 3.1,
     "pfand_sechser": 0.48,
-    "bild": "frucade_sport_grapefruit-zitrone_0_5.jpg",
+    "bild_kasten": "frucade_sport_grapefruit_zitrone_0_5_glas_kasten.png",
+    "bild_flasche": "frucade_sport_grapefruit_zitrone_0_5_glas_flasche.png",
     "kategorie": "limo_schorle"
   },
   {
@@ -726,7 +812,8 @@
     "preis_sechser": 7.49,
     "pfand_kasten": 3.1,
     "pfand_sechser": 0.48,
-    "bild": "frucade_orangen_limonade_0_5.jpg",
+    "bild_kasten": "frucade_orangenlimonade_0_5_glas_kasten.png",
+    "bild_flasche": "frucade_orangenlimonade_0_5_glas_flasche.png",
     "kategorie": "limo_schorle"
   },
   {
@@ -736,7 +823,8 @@
     "preis_sechser": 7.99,
     "pfand_kasten": 3.1,
     "pfand_sechser": 0.48,
-    "bild": "frucade_apfelschorle_0_5.jpg",
+    "bild_kasten": "frucade_apfelschorle_0_5_glas_kasten.png",
+    "bild_flasche": "frucade_apfelschorle_0_5_glas_flasche.png",
     "kategorie": "limo_schorle"
   },
   {
@@ -746,7 +834,8 @@
     "preis_sechser": 7.49,
     "pfand_kasten": 3.1,
     "pfand_sechser": 0.48,
-    "bild": "spezi_original_0_5.jpg",
+    "bild_kasten": "floetzinger_helles_0_5_kasten.png",
+    "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "limo_schorle"
   },
   {
@@ -756,7 +845,8 @@
     "preis_sechser": 7.49,
     "pfand_kasten": 3.1,
     "pfand_sechser": 0.48,
-    "bild": "spezi_zero_0_5.jpg",
+    "bild_kasten": "floetzinger_helles_0_5_kasten.png",
+    "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "limo_schorle"
   },
   {
@@ -766,7 +856,8 @@
     "preis_sechser": 8.99,
     "pfand_kasten": 3.42,
     "pfand_sechser": 0.48,
-    "bild": "spezi_energy_0_33.jpg",
+    "bild_kasten": "floetzinger_helles_0_5_kasten.png",
+    "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "limo_schorle"
   },
   {
@@ -776,7 +867,8 @@
     "preis_sechser": 7.49,
     "pfand_kasten": 2.46,
     "pfand_sechser": 0.48,
-    "bild": "bionade_naturtruebe_zitrone_0_33.jpg",
+    "bild_kasten": "floetzinger_helles_0_5_kasten.png",
+    "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "limo_schorle"
   },
   {
@@ -786,7 +878,8 @@
     "preis_sechser": 7.49,
     "pfand_kasten": 2.46,
     "pfand_sechser": 0.48,
-    "bild": "bionade_holunder_0_33.jpg",
+    "bild_kasten": "floetzinger_helles_0_5_kasten.png",
+    "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "limo_schorle"
   },
   {
@@ -796,7 +889,8 @@
     "preis_sechser": 7.49,
     "pfand_kasten": 2.46,
     "pfand_sechser": 0.48,
-    "bild": "bionade_schwarze_johannisbeere-rosmarin_0_33.jpg",
+    "bild_kasten": "floetzinger_helles_0_5_kasten.png",
+    "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "limo_schorle"
   },
   {
@@ -806,7 +900,8 @@
     "preis_sechser": 7.49,
     "pfand_kasten": 2.46,
     "pfand_sechser": 0.48,
-    "bild": "bionade_ingwer-orange_0_33.jpg",
+    "bild_kasten": "floetzinger_helles_0_5_kasten.png",
+    "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "limo_schorle"
   },
   {
@@ -816,7 +911,8 @@
     "preis_sechser": 7.49,
     "pfand_kasten": 2.46,
     "pfand_sechser": 0.48,
-    "bild": "bionade_zitrone-bergamotte_0_33.jpg",
+    "bild_kasten": "floetzinger_helles_0_5_kasten.png",
+    "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "limo_schorle"
   },
   {
@@ -826,7 +922,8 @@
     "preis_sechser": 7.49,
     "pfand_kasten": 2.46,
     "pfand_sechser": 0.48,
-    "bild": "bionade_kraeuter_0_33.jpg",
+    "bild_kasten": "floetzinger_helles_0_5_kasten.png",
+    "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "limo_schorle"
   },
   {
@@ -836,7 +933,8 @@
     "preis_sechser": 7.49,
     "pfand_kasten": 2.46,
     "pfand_sechser": 0.48,
-    "bild": "bionade_naturtruebe_orange_0_33.jpg",
+    "bild_kasten": "floetzinger_helles_0_5_kasten.png",
+    "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "limo_schorle"
   },
   {
@@ -846,7 +944,8 @@
     "preis_sechser": 8.99,
     "pfand_kasten": 4.5,
     "pfand_sechser": 0.9,
-    "bild": "club-mate_original_0_5.jpg",
+    "bild_kasten": "club_mate_original_glas_kasten.png",
+    "bild_flasche": "club_mate_original_glas_flasche.png",
     "kategorie": "limo_schorle"
   },
   {
@@ -856,7 +955,8 @@
     "preis_sechser": 9.99,
     "pfand_kasten": 5.1,
     "pfand_sechser": 0.48,
-    "bild": "almdudler_0_35.jpg",
+    "bild_kasten": "floetzinger_helles_0_5_kasten.png",
+    "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "limo_schorle"
   },
   {
@@ -866,7 +966,8 @@
     "preis_sechser": 8.99,
     "pfand_kasten": 3.1,
     "pfand_sechser": 0.48,
-    "bild": "malzdrink_karamalz_classic_0_5.jpg",
+    "bild_kasten": "floetzinger_helles_0_5_kasten.png",
+    "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "limo_schorle"
   },
   {
@@ -876,7 +977,8 @@
     "preis_sechser": 7.49,
     "pfand_kasten": 3.1,
     "pfand_sechser": 0.48,
-    "bild": "brunnthaler_iso-sport_mango_0_5.jpg",
+    "bild_kasten": "floetzinger_helles_0_5_kasten.png",
+    "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "limo_schorle"
   },
   {
@@ -886,7 +988,8 @@
     "preis_sechser": 7.49,
     "pfand_kasten": 3.1,
     "pfand_sechser": 0.48,
-    "bild": "brunnthaler_apfel-kirsch_0_5.jpg",
+    "bild_kasten": "floetzinger_helles_0_5_kasten.png",
+    "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "limo_schorle"
   },
   {
@@ -896,7 +999,8 @@
     "preis_sechser": 7.49,
     "pfand_kasten": 3.1,
     "pfand_sechser": 0.48,
-    "bild": "brunnthaler_iso-sport_kirsche_0_5.jpg",
+    "bild_kasten": "floetzinger_helles_0_5_kasten.png",
+    "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "limo_schorle"
   },
   {
@@ -906,7 +1010,8 @@
     "preis_sechser": 7.49,
     "pfand_kasten": 3.1,
     "pfand_sechser": 0.48,
-    "bild": "brunnthaler_eistee_pfirsich_0_5.jpg",
+    "bild_kasten": "floetzinger_helles_0_5_kasten.png",
+    "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "limo_schorle"
   },
   {
@@ -916,7 +1021,8 @@
     "preis_sechser": 7.49,
     "pfand_kasten": 3.1,
     "pfand_sechser": 0.48,
-    "bild": "brunnthaler_kraeuter_limo_0_5.jpg",
+    "bild_kasten": "floetzinger_helles_0_5_kasten.png",
+    "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "limo_schorle"
   },
   {
@@ -926,7 +1032,8 @@
     "preis_sechser": 7.49,
     "pfand_kasten": 3.1,
     "pfand_sechser": 0.48,
-    "bild": "brunnthaler_bruny_10_0_5.jpg",
+    "bild_kasten": "floetzinger_helles_0_5_kasten.png",
+    "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "limo_schorle"
   },
   {
@@ -936,7 +1043,7 @@
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
-    "bild": "adelholzener_eistee_pfirsich_0_5p.jpg",
+    "bild": "adelholzener_eistee_pfirsich_0_5_pet_kasten.png",
     "kategorie": "limo_schorle"
   },
   {
@@ -946,7 +1053,7 @@
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
-    "bild": "adelholzener_eistee_waldbeeren_0_5p.jpg",
+    "bild": "adelholzener_eistee_waldbeere_0_5_pet_kasten.png",
     "kategorie": "limo_schorle"
   },
   {
@@ -956,7 +1063,7 @@
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
-    "bild": "adelholzener_eistee_zitrone_0_5p.jpg",
+    "bild": "adelholzener_eistee_zitrone_0_5_pet_kasten.png",
     "kategorie": "limo_schorle"
   },
   {
@@ -966,27 +1073,17 @@
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
-    "bild": "adelholzener_zitrone_0_5p.jpg",
-    "kategorie": "limo_schorle"
-  },
-  {
-    "ean": "4005906002857",
-    "name": "Adelholzener Eistee Zitrone 0,5P",
-    "preis_kasten": 12.49,
-    "preis_sechser": 0.0,
-    "pfand_kasten": 3.3,
-    "pfand_sechser": 0.0,
-    "bild": "adelholzener_eistee_zitrone_0_5p.jpg",
+    "bild": "adelholzener_zitrone_0_5_pet_kasten.png",
     "kategorie": "limo_schorle"
   },
   {
     "ean": "4005906002833",
-    "name": "Adelholzener Johanissbeere 0,5P",
+    "name": "Adelholzener Johannisbeere 0,5P",
     "preis_kasten": 12.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
-    "bild": "adelholzener_johanissbeere_0_5p.jpg",
+    "bild": "adelholzener_johannisbeere_0_5_pet_kasten.png",
     "kategorie": "limo_schorle"
   },
   {
@@ -996,7 +1093,7 @@
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
-    "bild": "adelholzener_pfirsich_holunderbluete_0_5p.jpg",
+    "bild": "adelholzener_pfirsich_holunderbluete_0_5_pet_kasten.png",
     "kategorie": "limo_schorle"
   },
   {
@@ -1006,7 +1103,7 @@
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
-    "bild": "adelholzener_cola_mix_0_5p.jpg",
+    "bild": "adelholzener_colamix_0_5_pet_kasten.png",
     "kategorie": "limo_schorle"
   },
   {
@@ -1016,7 +1113,7 @@
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
-    "bild": "adelholzener_apfel_kraeuter_0_5p.jpg",
+    "bild": "adelholzener_apfel_kraeuter_0_5_pet_kasten.png",
     "kategorie": "limo_schorle"
   },
   {
@@ -1026,7 +1123,7 @@
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
-    "bild": "adelholzener_mandarine_0_5p.jpg",
+    "bild": "adelholzener_mandarine_0_5_pet_kasten.png",
     "kategorie": "limo_schorle"
   },
   {
@@ -1036,7 +1133,7 @@
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
-    "bild": "adelholzener_orange_0_5p.jpg",
+    "bild": "adelholzener_orange_0_5_pet_kasten.png",
     "kategorie": "limo_schorle"
   },
   {
@@ -1046,7 +1143,7 @@
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
-    "bild": "adelholzener_rote_johannisbeere_kraeuter_0_5p.jpg",
+    "bild": "adelholzener_rote_johannisbeere_kraeuter_0_5_pet_kasten.png",
     "kategorie": "limo_schorle"
   },
   {
@@ -1056,7 +1153,7 @@
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
-    "bild": "adelholzener_tropic_0_5p.jpg",
+    "bild": "adelholzener_tropic_0_5_pet_kasten.png",
     "kategorie": "limo_schorle"
   },
   {
@@ -1066,7 +1163,7 @@
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
-    "bild": "adelholzener_roter_multivitamin_0_5p.jpg",
+    "bild": "adelholzener_roter_multivitamin_0_5_pet_kasten.png",
     "kategorie": "limo_schorle"
   },
   {
@@ -1076,7 +1173,7 @@
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
-    "bild": "adelholzener_bif_maracuja_orange_0_5p.jpg",
+    "bild": "adelholzener_bif_maracuja_orange_0_5_pet_kasten.png",
     "kategorie": "limo_schorle"
   },
   {
@@ -1086,7 +1183,7 @@
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
-    "bild": "adelholzener_limette_0_5p.jpg",
+    "bild": "adelholzener_limette_0_5_pet_kasten.png",
     "kategorie": "limo_schorle"
   },
   {
@@ -1096,7 +1193,7 @@
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
-    "bild": "adelholzener_bif_sunny_orange_0_5p.jpg",
+    "bild": "adelholzener_bif_sunny_orange_0_5_pet_kasten.png",
     "kategorie": "limo_schorle"
   },
   {
@@ -1106,7 +1203,7 @@
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
-    "bild": "adelholzener_bif_zitrone_0_5p.jpg",
+    "bild": "adelholzener_bif_zitrone_0_5_pet_kasten.png",
     "kategorie": "limo_schorle"
   },
   {
@@ -1116,7 +1213,7 @@
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
-    "bild": "adelholzener_orange_sport_0_5p.jpg",
+    "bild": "adelholzener_orange_sport_0_5_pet_kasten.png",
     "kategorie": "limo_schorle"
   },
   {
@@ -1126,7 +1223,7 @@
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
-    "bild": "adelholzener_bif_grapefruit_0_5p.jpg",
+    "bild": "adelholzener_bif_grapefruit_0_5_pet_kasten.png",
     "kategorie": "limo_schorle"
   },
   {
@@ -1136,7 +1233,7 @@
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
-    "bild": "adelholzener_rote_schorle_0_5p.jpg",
+    "bild": "adelholzener_rote_schorle_0_5_pet_kasten.png",
     "kategorie": "limo_schorle"
   },
   {
@@ -1146,7 +1243,7 @@
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
-    "bild": "adelholzener_kirsche_sport_0_5p.jpg",
+    "bild": "adelholzener_kirsche_sport_0_5_pet_kasten.png",
     "kategorie": "limo_schorle"
   },
   {
@@ -1156,7 +1253,7 @@
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
-    "bild": "adelholzener_apfelschorle_0_5p.jpg",
+    "bild": "adelholzener_apfelschorle_0_5_pet_kasten.png",
     "kategorie": "limo_schorle"
   },
   {
@@ -1166,7 +1263,7 @@
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
-    "bild": "adelholzener_pink_grapefruit_sport_0_5p.jpg",
+    "bild": "adelholzener_pink_grapefruit_0_5_pet_kasten.png",
     "kategorie": "limo_schorle"
   },
   {
@@ -1176,7 +1273,7 @@
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
-    "bild": "adelholzener_kirsche_0_5p.jpg",
+    "bild": "adelholzener_kirsche_0_5_pet_kasten.png",
     "kategorie": "limo_schorle"
   },
   {
@@ -1186,7 +1283,7 @@
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
-    "bild": "adelholzener_brombeer_holunder_0_5p.jpg",
+    "bild": "adelholzener_brombeer_holunder_0_5_pet_kasten.png",
     "kategorie": "limo_schorle"
   },
   {
@@ -1196,7 +1293,7 @@
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
-    "bild": "adelholzener_sport_schorle_0_5p.jpg",
+    "bild": "adelholzener_sport_schorle_0_5_pet_kasten.png",
     "kategorie": "limo_schorle"
   },
   {
@@ -1206,7 +1303,7 @@
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
-    "bild": "adelholzener_ace_0_5p.jpg",
+    "bild": "adelholzener_ace_0_5_pet_kasten.png",
     "kategorie": "limo_schorle"
   },
   {
@@ -1216,7 +1313,7 @@
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
-    "bild": "adelholzener_multivitamin_0_5p.jpg",
+    "bild": "adelholzener_multivitamin_0_5_pet_kasten.png",
     "kategorie": "limo_schorle"
   },
   {
@@ -1486,7 +1583,7 @@
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
-    "bild": "adelholzener_sanft_0_5.jpg",
+    "bild": "adelholzener_mineralwasser_sanft_0_5_glas_kasten.png",
     "kategorie": "wasser"
   },
   {
@@ -1496,7 +1593,7 @@
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
-    "bild": "adelholzener_naturell_0_5.jpg",
+    "bild": "adelholzener_mineralwasser_naturell_0_5_glas_kasten.png",
     "kategorie": "wasser"
   },
   {
@@ -1506,7 +1603,7 @@
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
-    "bild": "adelholzener_classic_0_5.jpg",
+    "bild": "adelholzener_classic_0_5_glas_kasten.png",
     "kategorie": "wasser"
   },
   {
@@ -1536,7 +1633,7 @@
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
-    "bild": "adelholzener_sanft_0_75.jpg",
+    "bild": "adelholzener_mineralwasser_sanft_0_75_glas_kasten.png",
     "kategorie": "wasser"
   },
   {
@@ -1546,7 +1643,7 @@
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
-    "bild": "adelholzener_naturell_0_75.jpg",
+    "bild": "adelholzener_mineralwasser_naturell_0_75_glas_kasten.png",
     "kategorie": "wasser"
   },
   {
@@ -1556,7 +1653,7 @@
     "preis_sechser": 0.0,
     "pfand_kasten": 4.8,
     "pfand_sechser": 0.0,
-    "bild": "adelholzener_classic_1_0.jpg",
+    "bild": "adelholzener_classic_1_0_pet_kasten.png",
     "kategorie": "wasser"
   },
   {
@@ -1566,7 +1663,7 @@
     "preis_sechser": 0.0,
     "pfand_kasten": 4.8,
     "pfand_sechser": 0.0,
-    "bild": "adelholzener_sanft_1_0.jpg",
+    "bild": "adelholzener_mineralwasser_sanft_1_0_pet_kasten.png",
     "kategorie": "wasser"
   },
   {
@@ -1576,7 +1673,7 @@
     "preis_sechser": 0.0,
     "pfand_kasten": 4.8,
     "pfand_sechser": 0.0,
-    "bild": "adelholzener_naturell_1_0.jpg",
+    "bild": "adelholzener_mineralwasser_naturell_1_0_pet_kasten.png",
     "kategorie": "wasser"
   },
   {
@@ -1596,7 +1693,7 @@
     "preis_sechser": 0.0,
     "pfand_kasten": 4.8,
     "pfand_sechser": 0.0,
-    "bild": "adelholzener_lemon_+_1_0.jpg",
+    "bild": "adelholzener_lemon_plus_1_0_pet_kasten.png",
     "kategorie": "wasser"
   },
   {
@@ -1606,7 +1703,7 @@
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
-    "bild": "adelholzener_sanft_0_5p.jpg",
+    "bild": "adelholzener_mineralwasser_sanft_0_5_pet_kasten.png",
     "kategorie": "wasser"
   },
   {
@@ -1616,7 +1713,7 @@
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
-    "bild": "adelholzener_extra_still_0_5p.jpg",
+    "bild": "adelholzener_mineralwasser_extra_still_0_5_pet_kasten.png",
     "kategorie": "wasser"
   },
   {
@@ -1626,7 +1723,7 @@
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
-    "bild": "adelholzener_classic_0_5p.jpg",
+    "bild": "adelholzener_classic_0_5_pet_kasten.png",
     "kategorie": "wasser"
   },
   {
@@ -1636,7 +1733,7 @@
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
-    "bild": "adelholzener_naturell_0_5p.jpg",
+    "bild": "adelholzener_mineralwasser_naturell_0_5_pet_kasten.png",
     "kategorie": "wasser"
   },
   {
@@ -1646,7 +1743,7 @@
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
-    "bild": "adelholzener_lemon_+_0_5p.jpg",
+    "bild": "adelholzener_lemon_plus_0_5_pet_kasten.png",
     "kategorie": "wasser"
   },
   {
@@ -1656,7 +1753,7 @@
     "preis_sechser": 0.0,
     "pfand_kasten": 2.4,
     "pfand_sechser": 0.0,
-    "bild": "st.leonhards_mondquelle_1_0.jpg",
+    "bild": "st_leonhardsquelle_mondquelle_1_0_glas_flasche.png",
     "kategorie": "wasser"
   },
   {
@@ -1666,7 +1763,7 @@
     "preis_sechser": 0.0,
     "pfand_kasten": 2.4,
     "pfand_sechser": 0.0,
-    "bild": "st._georgs_quelle_1_0.jpg",
+    "bild": "st_georgsquelle_1_0_glas_flasche.png",
     "kategorie": "wasser"
   },
   {
@@ -1676,7 +1773,7 @@
     "preis_sechser": 0.0,
     "pfand_kasten": 2.4,
     "pfand_sechser": 0.0,
-    "bild": "st._leonhards_quelle_still_1_0.jpg",
+    "bild": "st_leonhardsquelle_still_1_0_glas_flasche.png",
     "kategorie": "wasser"
   },
   {
@@ -1686,7 +1783,7 @@
     "preis_sechser": 0.0,
     "pfand_kasten": 2.4,
     "pfand_sechser": 0.0,
-    "bild": "st._leonhards_licht_quelle.jpg",
+    "bild": "st_leonhardsquelle_lichtquelle_1_0_glas_flasche.png",
     "kategorie": "wasser"
   },
   {
@@ -1696,7 +1793,7 @@
     "preis_sechser": 0.0,
     "pfand_kasten": 2.4,
     "pfand_sechser": 0.0,
-    "bild": "st._leonhards_quelle_medium_1_0.jpg",
+    "bild": "st_leonhardsquelle_medium_1_0_glas_flasche.png",
     "kategorie": "wasser"
   },
   {
@@ -1706,7 +1803,7 @@
     "preis_sechser": 0.0,
     "pfand_kasten": 2.4,
     "pfand_sechser": 0.0,
-    "bild": "st._leonhards_quelle_sonnen_quelle_1_0.jpg",
+    "bild": "st_leonhardsquelle_sonnenquelle_1_0_glas_flasche.png",
     "kategorie": "wasser"
   },
   {
@@ -1716,7 +1813,7 @@
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
-    "bild": "abenstaler_quelle_medium_0_7.jpg",
+    "bild": "abenstaler_medium_0_7_glas_kasten.png",
     "kategorie": "wasser"
   },
   {
@@ -1726,7 +1823,7 @@
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
-    "bild": "abenstaler_quelle_naturell_0_7.jpg",
+    "bild": "abenstaler_still_0_7_glas_kasten.png",
     "kategorie": "wasser"
   },
   {
@@ -1736,7 +1833,7 @@
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
-    "bild": "abenstaler_quelle_spritzig_0_7.jpg",
+    "bild": "abenstaler_spritzig_0_7_glas_kasten.png",
     "kategorie": "wasser"
   },
   {
@@ -1746,7 +1843,7 @@
     "preis_sechser": 0.0,
     "pfand_kasten": 4.5,
     "pfand_sechser": 0.0,
-    "bild": "abenstaler_spritzig_1_0_p.jpg",
+    "bild": "abenstaler_spritzig_1_0_pet_kasten.png",
     "kategorie": "wasser"
   },
   {
@@ -1756,7 +1853,7 @@
     "preis_sechser": 0.0,
     "pfand_kasten": 4.5,
     "pfand_sechser": 0.0,
-    "bild": "abenstaler_medium_1_0_p.jpg",
+    "bild": "abenstaler_medium_1_0_pet_kasten.png",
     "kategorie": "wasser"
   },
   {
@@ -1766,7 +1863,7 @@
     "preis_sechser": 0.0,
     "pfand_kasten": 4.5,
     "pfand_sechser": 0.0,
-    "bild": "abenstaler_naturell_1_0_p.jpg",
+    "bild": "abenstaler_still_1_0_pet_kasten.png",
     "kategorie": "wasser"
   },
   {
@@ -2065,7 +2162,7 @@
     "preis_sechser": 0.0,
     "pfand_kasten": 0.0,
     "pfand_sechser": 0.0,
-    "bild": "toro_spumante_millesimato_0_75.jpg",
+    "bild": "stettner_toro_spumante_flasche.png",
     "kategorie": "wein_spirituosen",
     "einheit": "Flasche"
   },
@@ -2131,7 +2228,7 @@
     "preis_sechser": 0.0,
     "pfand_kasten": 0.0,
     "pfand_sechser": 0.0,
-    "bild": "hugo_holunder_limette_minze_alkoholfrei_0_75.jpg",
+    "bild": "stettner_hugo_alkoholfrei_flasche.png",
     "kategorie": "wein_spirituosen",
     "einheit": "Flasche"
   },
@@ -2142,7 +2239,7 @@
     "preis_sechser": 0.0,
     "pfand_kasten": 0.0,
     "pfand_sechser": 0.0,
-    "bild": "hugo_holunder_limette_minze_0_75.jpg",
+    "bild": "stettner_hugo_flasche.png",
     "kategorie": "wein_spirituosen",
     "einheit": "Flasche"
   },
@@ -2153,7 +2250,7 @@
     "preis_sechser": 0.0,
     "pfand_kasten": 0.0,
     "pfand_sechser": 0.0,
-    "bild": "sprizz_orange-bitter_aperitif_0_75.jpg",
+    "bild": "stettner_sprizz_flasche.png",
     "kategorie": "wein_spirituosen",
     "einheit": "Flasche"
   },
@@ -2164,7 +2261,7 @@
     "preis_sechser": 0.0,
     "pfand_kasten": 0.0,
     "pfand_sechser": 0.0,
-    "bild": "sprizz_orange-bitter_aperitif_alkoholfrei_0_75.jpg",
+    "bild": "stettner_sprizz_alkoholfrei_flasche.png",
     "kategorie": "wein_spirituosen",
     "einheit": "Flasche"
   },
@@ -2175,7 +2272,7 @@
     "preis_sechser": 0.0,
     "pfand_kasten": 0.0,
     "pfand_sechser": 0.0,
-    "bild": "stettner_secco_bianco_0_75.jpg",
+    "bild": "stettner_secco_bianco_flasche.png",
     "kategorie": "wein_spirituosen",
     "einheit": "Flasche"
   },
@@ -2186,7 +2283,7 @@
     "preis_sechser": 0.0,
     "pfand_kasten": 0.25,
     "pfand_sechser": 0.0,
-    "bild": "gutmayer_gruener_veltliner_1_0.jpg",
+    "bild": "gutmayer_gruener_veltliner_flasche.png",
     "kategorie": "wein_spirituosen",
     "einheit": "Flasche"
   },
@@ -2197,7 +2294,7 @@
     "preis_sechser": 0.0,
     "pfand_kasten": 0.25,
     "pfand_sechser": 0.0,
-    "bild": "gutmayer_blauer_zweigelt_1_0.jpg",
+    "bild": "gutmayer_blauer_zweigelt_flasche.png",
     "kategorie": "wein_spirituosen",
     "einheit": "Flasche"
   },
@@ -2208,7 +2305,8 @@
     "preis_sechser": 8.99,
     "pfand_kasten": 2.3,
     "pfand_sechser": 0.48,
-    "bild": "augusta_weinschorle_sauer_0_5.jpg",
+    "bild_kasten": "floetzinger_helles_0_5_kasten.png",
+    "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "wein_spirituosen",
     "einheit": "Kasten"
   },
@@ -2219,7 +2317,8 @@
     "preis_sechser": 10.99,
     "pfand_kasten": 2.46,
     "pfand_sechser": 0.48,
-    "bild": "winzz_weinschorle_sauer_0_33.jpg",
+    "bild_kasten": "winzz_weinschorle_sauer_flasche.png",
+    "bild_flasche": "winzz_weinschorle_sauer_flasche.png",
     "kategorie": "wein_spirituosen",
     "einheit": "Kasten"
   },
@@ -2230,7 +2329,8 @@
     "preis_sechser": 10.99,
     "pfand_kasten": 2.46,
     "pfand_sechser": 0.48,
-    "bild": "winzz_weinschorle_rose_0_33.jpg",
+    "bild_kasten": "winzz_weinschorle_rose_flasche.png",
+    "bild_flasche": "winzz_weinschorle_rose_flasche.png",
     "kategorie": "wein_spirituosen",
     "einheit": "Kasten"
   }
