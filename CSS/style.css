@@ -308,6 +308,38 @@ body {
     background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('../images/icons/5.png');
 }
 
+.marken-leiste {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    flex-wrap: wrap; /* Bricht um, wenn es zu viele Marken für den Bildschirm sind */
+}
+
+.marken-button {
+    padding: 8px 16px;
+    background-color: #f1f2f6;
+    border: 2px solid transparent;
+    border-radius: 20px; /* Macht den Button schön rund (Pillenform) */
+    cursor: pointer;
+    font-size: 1rem;
+    font-weight: bold;
+    color: #2c3e50;
+    transition: all 0.2s ease;
+}
+
+.marken-button:hover {
+    background-color: #dfe4ea;
+}
+
+/* Wenn der Button aktiv (ausgewählt) ist */
+.marken-button.aktiv {
+    background-color: #2c3e50;
+    color: white;
+    border-color: #2c3e50;
+}
+
 /* Der unsichtbare Rahmen für alle Bilder (Startseite und Detailseite) */
 .produkt-bild-container {
     width: 100%;

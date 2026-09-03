@@ -32,23 +32,37 @@ if (kategorieContainer) {
         // Wenn man daneben geklickt hat, mach nichts
         if (!geklickteKarte) return;
 
+        // --- Dein Rahmen-Zauber von vorhin ---
         document.querySelectorAll('.kategorie-karte').forEach(karte => {
-        karte.classList.remove('ausgewaehlt');
-    });
+            karte.classList.remove('ausgewaehlt');
+        });
+        geklickteKarte.classList.add('ausgewaehlt');
+        // -------------------------------------
 
-    // 2. Gib nur der aktuell geklickten Karte den Rahmen (Stempel)
-    geklickteKarte.classList.add('ausgewaehlt');
-
-        // Welche Kategorie steht im 'data-kategorie' Attribut? (z.B. "bier")
+        // Welche Kategorie steht im 'data-kategorie' Attribut?
         const gewaehlteKategorie = geklickteKarte.dataset.kategorie;
 
-        // DEN FILTER ANWENDEN!
-        // Nimm alle Produkte und behalte nur die, deren Kategorie passt
+        // Produkte filtern (z.B. nur alle Weine/Spirituosen holen)
         const gefilterteProdukte = alleProdukteDaten.filter((produkt) => {
             return produkt.kategorie === gewaehlteKategorie;
         });
 
-        // Jetzt schicken wir nur diese kleine, gefilterte Liste an unsere Anzeige-Funktion!
+
+        // ==============================================================
+        // HIER IST SCHRITT 5: DIE INTELLIGENTE WEICHE FÜR DIE UNTER-FILTER
+        // ==============================================================
+        
+        // Wir prüfen: Heißt die geklickte Kategorie "wein_spirituosen"? 
+        // Wenn JA -> suche nach "art". Wenn NEIN -> suche nach "marke".
+        let suchWort = (gewaehlteKategorie === 'wein_spirituosen') ? 'art' : 'marke';
+
+        // Jetzt rufen wir die neue Funktion auf, die die kleinen Buttons baut!
+        erstelleUnterFilter(gefilterteProdukte, geklickteKarte.innerText, suchWort);
+        
+        // ==============================================================
+
+
+        // Zum Schluss wie gewohnt die Produkte auf der Seite anzeigen
         zeigeProdukteImShop(gefilterteProdukte, geklickteKarte.innerText);
     });
 }
@@ -177,6 +191,46 @@ function zeigeProdukteImShop(produkte, kategorienName = "Produkte") {
                         passendesBild.src = `images/icons/${kastenDatei}`;
                     }
                 }
+            }
+        });
+    });
+}
+
+// Die Funktion bekommt jetzt ein drittes Wort mitgeliefert: filterEigenschaft (z.B. 'marke' oder 'art')
+function erstelleUnterFilter(produkte, kategorieName, filterEigenschaft) {
+    const markenContainer = document.getElementById('marken-filter-container');
+    markenContainer.innerHTML = ''; 
+
+    // Wir holen dynamisch entweder die Marke ODER die Art aus der JSON!
+    const alleWerte = produkte.map(produkt => produkt[filterEigenschaft]).filter(wert => wert !== undefined);
+    const eindeutigeWerte = [...new Set(alleWerte)];
+
+    if (eindeutigeWerte.length === 0) return;
+
+    let filterHTML = `<button class="marken-button aktiv" data-filter="alle">Alle</button>`;
+
+    eindeutigeWerte.forEach(wert => {
+        filterHTML += `<button class="marken-button" data-filter="${wert}">${wert}</button>`;
+    });
+
+    markenContainer.innerHTML = filterHTML;
+
+    // Klick-Logik für die neuen Buttons
+    const markenButtons = markenContainer.querySelectorAll('.marken-button');
+    
+    markenButtons.forEach(button => {
+        button.addEventListener('click', (event) => {
+            markenButtons.forEach(b => b.classList.remove('aktiv'));
+            event.target.classList.add('aktiv');
+
+            const gewaehlterFilter = event.target.getAttribute('data-filter');
+
+            if (gewaehlterFilter === 'alle') {
+                zeigeProdukteImShop(produkte, kategorieName);
+            } else {
+                // Hier filtert er jetzt schlau nach 'marke' oder 'art'
+                const gefilterteProdukte = produkte.filter(p => p[filterEigenschaft] === gewaehlterFilter);
+                zeigeProdukteImShop(gefilterteProdukte, gewaehlterFilter);
             }
         });
     });

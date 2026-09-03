@@ -2101,7 +2101,7 @@
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
-    "bild": "aqua_roemer_classic_0_75.jpg",
+    "bild": "aqua_roemer_classic_0_75_glas_kasten.png",
     "kategorie": "wasser"
   },
   {
@@ -2112,7 +2112,7 @@
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
-    "bild": "aqua_roemer_naturelle_0_75.jpg",
+    "bild": "aqua_roemer_naturelle_0_75_glas_kasten.png",
     "kategorie": "wasser"
   },
   {
@@ -2123,7 +2123,7 @@
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
-    "bild": "aqua_roemer_medium_0_75.jpg",
+    "bild": "aqua_roemer_medium_0_75_glas_kasten.png",
     "kategorie": "wasser"
   },
   {
@@ -2280,7 +2280,7 @@
     "preis_sechser": 0.0,
     "pfand_kasten": 0.15,
     "pfand_sechser": 0.0,
-    "bild": "kessler_zink_chardonnay_trocken_1_0.jpg",
+    "bild": "kessler_zink_chardonnay_trocken_flasche.png",
     "kategorie": "wein_spirituosen",
     "einheit": "Flasche"
   },
@@ -2292,7 +2292,7 @@
     "preis_sechser": 0.0,
     "pfand_kasten": 0.15,
     "pfand_sechser": 0.0,
-    "bild": "kessler_zink_pinot_grigio_la_corona_1_0.jpg",
+    "bild": "kessler_zink_chardonnay_trocken_flasche.png",
     "kategorie": "wein_spirituosen",
     "einheit": "Flasche"
   },
@@ -2304,7 +2304,7 @@
     "preis_sechser": 0.0,
     "pfand_kasten": 0.15,
     "pfand_sechser": 0.0,
-    "bild": "kessler_zink_merlot_la_corona_1_0.jpg",
+    "bild": "kessler_zink_merlot_la_corona_flasche.png",
     "kategorie": "wein_spirituosen",
     "einheit": "Flasche"
   },
@@ -2316,7 +2316,7 @@
     "preis_sechser": 0.0,
     "pfand_kasten": 0.15,
     "pfand_sechser": 0.0,
-    "bild": "kessler_zink_grauer_burgunder_trocken_1_0.jpg",
+    "bild": "kessler_zink_grauer_burgunder_trocken_flasche.png",
     "kategorie": "wein_spirituosen",
     "einheit": "Flasche"
   },
@@ -2508,8 +2508,8 @@
     "preis_sechser": 8.99,
     "pfand_kasten": 2.3,
     "pfand_sechser": 0.48,
-    "bild_kasten": "floetzinger_helles_0_5_kasten.png",
-    "bild_flasche": "floetzinger_helles_0_5_flasche.png",
+    "bild_kasten": "augusta_weinschorle_sauer_0_5_glas_kasten.png",
+    "bild_flasche": "augusta_weinschorle_sauer_0_5_glas_flasche.png",
     "kategorie": "wein_spirituosen",
     "einheit": "Kasten"
   },
