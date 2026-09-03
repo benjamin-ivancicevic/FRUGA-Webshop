@@ -14,6 +14,7 @@
   {
     "ean": "4105250022003",
     "name": "Augustiner Helles 0,5",
+    "marke": "Augustiner",
     "preis_kasten": 23.49,
     "preis_sechser": 8.99,
     "pfand_kasten": 3.1,
@@ -25,6 +26,7 @@
   {
     "ean": "4105250024007",
     "name": "Augustiner Spezial 0,5",
+    "marke": "Augustiner",
     "preis_kasten": 23.49,
     "preis_sechser": 8.99,
     "pfand_kasten": 3.1,
@@ -107,6 +109,7 @@
   {
     "ean": "4016843002992",
     "name": "Bierbichler Weißbier 0,5",
+    "marke": "Bierbichler",
     "preis_kasten": 24.49,
     "preis_sechser": 8.99,
     "pfand_kasten": 3.1,
@@ -118,6 +121,7 @@
   {
     "ean": "4006693800114",
     "name": "Auer Bräu Hell 0,5",
+    "marke": "Auer Bräu",
     "preis_kasten": 22.49,
     "preis_sechser": 8.99,
     "pfand_kasten": 3.1,
@@ -129,6 +133,7 @@
   {
     "ean": "4006693800183",
     "name": "Auer Bräu Weißbier 0,5",
+    "marke": "Auer Bräu",
     "preis_kasten": 22.49,
     "preis_sechser": 8.99,
     "pfand_kasten": 3.1,
@@ -140,6 +145,7 @@
   {
     "ean": "4006699083610",
     "name": "Auer Bräu Radler naturtrüb 0,5",
+    "marke": "Auer Bräu",
     "preis_kasten": 21.49,
     "preis_sechser": 8.49,
     "pfand_kasten": 3.1,
@@ -151,6 +157,7 @@
   {
     "ean": "4006693800138",
     "name": "Johann Auer Spezial Hell 0,5",
+    "marke": "Auer Bräu",
     "preis_kasten": 22.99,
     "preis_sechser": 8.99,
     "pfand_kasten": 3.1,
@@ -162,6 +169,7 @@
   {
     "ean": "4006693800190",
     "name": "Auer Bräu 111 Zwickl 0,33",
+    "marke": "Auer Bräu",
     "preis_kasten": 20.99,
     "preis_sechser": 7.99,
     "pfand_kasten": 3.1,
@@ -173,6 +181,7 @@
   {
     "ean": "4006693800220",
     "name": "Auer Bräu 111 Radler 0,33",
+    "marke": "Auer Bräu",
     "preis_kasten": 16.99,
     "preis_sechser": 7.49,
     "pfand_kasten": 3.1,
@@ -184,6 +193,7 @@
   {
     "ean": "4260604750053",
     "name": "Simsseer Zwickl 0,5",
+    "marke": "Simsseer",
     "preis_kasten": 34.49,
     "preis_sechser": 12.49,
     "pfand_kasten": 3.1,
@@ -195,6 +205,7 @@
   {
     "ean": "4260604750084",
     "name": "Simsseer Volle Pulle Alkoholfrei 0,5",
+    "marke": "Simsseer",
     "preis_kasten": 34.49,
     "preis_sechser": 12.49,
     "pfand_kasten": 3.1,
@@ -206,6 +217,7 @@
   {
     "ean": "4022396000026",
     "name": "Tegernseer Hell 0,5",
+    "marke": "Tegernseer",
     "preis_kasten": 23.99,
     "preis_sechser": 8.99,
     "pfand_kasten": 3.1,
@@ -217,6 +229,7 @@
   {
     "ean": "4022396000033",
     "name": "Tegernseer Spezial 0,5",
+    "marke": "Tegernseer",
     "preis_kasten": 23.99,
     "preis_sechser": 8.99,
     "pfand_kasten": 3.1,
@@ -228,6 +241,7 @@
   {
     "ean": "4022396000057",
     "name": "Tegernseer Pils 0,33",
+    "marke": "Tegernseer",
     "preis_kasten": 24.49,
     "preis_sechser": 7.99,
     "pfand_kasten": 3.42,
@@ -239,6 +253,7 @@
   {
     "ean": "4220138",
     "name": "Maxlrainer Maxl Helles 0,5",
+    "marke": "Maxlrainer",
     "preis_kasten": 21.99,
     "preis_sechser": 8.99,
     "pfand_kasten": 3.1,
@@ -250,6 +265,7 @@
   {
     "ean": "42065333",
     "name": "Wildbräu Helles 0,5",
+    "marke": "Wildbräu",
     "preis_kasten": 21.99,
     "preis_sechser": 8.99,
     "pfand_kasten": 3.1,
@@ -261,6 +277,7 @@
   {
     "ean": "4260449220124",
     "name": "Hoppebräu Helles 0,5",
+    "marke": "Hoppebräu",
     "preis_kasten": 28.49,
     "preis_sechser": 10.99,
     "pfand_kasten": 3.1,
@@ -272,6 +289,7 @@
   {
     "ean": "4006693800138",
     "name": "Hoppebräu Ruhige Kugel Alkoholfrei 0,5",
+    "marke": "Hoppebräu",
     "preis_kasten": 28.49,
     "preis_sechser": 10.99,
     "pfand_kasten": 3.1,
@@ -283,6 +301,7 @@
   {
     "ean": "42022091",
     "name": "Hofbräuhaus Traunstein Helles 0,5",
+    "marke": "Hofbräuhaus Traunstein",
     "preis_kasten": 24.99,
     "preis_sechser": 9.99,
     "pfand_kasten": 3.1,
@@ -294,6 +313,7 @@
   {
     "ean": "42268888",
     "name": "Giesinger Erhellung 0,5",
+    "marke": "Giesinger",
     "preis_kasten": 28.99,
     "preis_sechser": 10.99,
     "pfand_kasten": 3.1,
@@ -305,6 +325,7 @@
   {
     "ean": "4036328000015",
     "name": "Schönramer Hell 0,5",
+    "marke": "Schönramer",
     "preis_kasten": 25.49,
     "preis_sechser": 9.99,
     "pfand_kasten": 3.1,
@@ -316,6 +337,7 @@
   {
     "ean": "4066600251101",
     "name": "Paulaner Münchner Hell 0,5",
+    "marke": "Paulaner",
     "preis_kasten": 22.99,
     "preis_sechser": 8.99,
     "pfand_kasten": 3.1,
@@ -327,6 +349,7 @@
   {
     "ean": "4066600242024",
     "name": "Paulaner Weißbier Zitrone 0,0",
+    "marke": "Paulaner",
     "preis_kasten": 23.99,
     "preis_sechser": 8.99,
     "pfand_kasten": 3.1,
@@ -338,6 +361,7 @@
   {
     "ean": "4066600231011",
     "name": "Paulaner Müncher Hell Alkoholfrei",
+    "marke": "Paulaner",
     "preis_kasten": 23.99,
     "preis_sechser": 8.99,
     "pfand_kasten": 3.1,
@@ -349,6 +373,7 @@
   {
     "ean": "4260226252300",
     "name": "Camba Hell 0,5",
+    "marke": "Camba",
     "preis_kasten": 26.49,
     "preis_sechser": 10.99,
     "pfand_kasten": 3.1,
@@ -360,6 +385,7 @@
   {
     "ean": "4066600641964",
     "name": "Paulaner Hefe-Weißbier 0,5",
+    "marke": "Paulaner",
     "preis_kasten": 22.99,
     "preis_sechser": 8.99,
     "pfand_kasten": 3.1,
@@ -371,6 +397,7 @@
   {
     "ean": "4012852001650",
     "name": "Lammsbräu Bio Alkoholfrei 0,33",
+    "marke": "Lammsbräu",
     "preis_kasten": 13.49,
     "preis_sechser": 8.99,
     "pfand_kasten": 2.3,
@@ -382,6 +409,7 @@
   {
     "ean": "4012852001056",
     "name": "Lammsbräu Zzzisch Bio Pils 0,33",
+    "marke": "Lammsbräu",
     "preis_kasten": 13.49,
     "preis_sechser": 8.99,
     "pfand_kasten": 2.3,
@@ -393,6 +421,7 @@
   {
     "ean": "4066600242918",
     "name": "Paulaner Weißbier Alkoholfrei 0,0",
+    "marke": "Paulaner",
     "preis_kasten": 22.99,
     "preis_sechser": 8.99,
     "pfand_kasten": 3.1,
@@ -404,6 +433,7 @@
   {
     "ean": "42043362",
     "name": "Unertl Weißbier 0,5",
+    "marke": "Unertl",
     "preis_kasten": 24.99,
     "preis_sechser": 9.99,
     "pfand_kasten": 3.1,
@@ -415,6 +445,7 @@
   {
     "ean": "42043379",
     "name": "Unertl Leichte Weisse 0,5",
+    "marke": "Unertl",
     "preis_kasten": 24.99,
     "preis_sechser": 9.99,
     "pfand_kasten": 3.1,
@@ -426,6 +457,7 @@
   {
     "ean": "42230755",
     "name": "Unertl Weißbier Alkoholfrei 0,5",
+    "marke": "Unertl",
     "preis_kasten": 24.99,
     "preis_sechser": 9.99,
     "pfand_kasten": 3.1,
@@ -437,6 +469,7 @@
   {
     "ean": "4025435101081",
     "name": "Steiner-Bier Hell 0,5",
+    "marke": "Steiner-Bier",
     "preis_kasten": 24.99,
     "preis_sechser": 9.99,
     "pfand_kasten": 3.1,
@@ -448,6 +481,7 @@
   {
     "ean": "75033927",
     "name": "Corona Extra 0,33",
+    "marke": "Corona",
     "preis_kasten": 45.99,
     "preis_sechser": 15.99,
     "pfand_kasten": 3.42,
@@ -459,6 +493,7 @@
   {
     "ean": "4025435101173",
     "name": "Steiner-Bier Alkoholfreies Bio Zwickl 0,5",
+    "marke": "Steiner-Bier",
     "preis_kasten": 24.99,
     "preis_sechser": 8.99,
     "pfand_kasten": 3.1,
@@ -470,6 +505,7 @@
   {
     "ean": "40534534",
     "name": "Clausthaler Original Alkoholfrei 0,5",
+    "marke": "Clausthaler",
     "preis_kasten": 21.99,
     "preis_sechser": 8.99,
     "pfand_kasten": 3.1,
@@ -481,6 +517,7 @@
   {
     "ean": "4008948194016",
     "name": "Jever FUN Alkoholfrei 0,5",
+    "marke": "Jever",
     "preis_kasten": 22.99,
     "preis_sechser": 8.99,
     "pfand_kasten": 3.1,
@@ -492,6 +529,7 @@
   {
     "ean": "4008948027000",
     "name": "Jever Pilsener 0,5",
+    "marke": "Jever",
     "preis_kasten": 22.99,
     "preis_sechser": 8.99,
     "pfand_kasten": 3.1,
@@ -503,6 +541,7 @@
   {
     "ean": "3155930001324",
     "name": "Desperado Original 0,33",
+    "marke": "Desperado",
     "preis_kasten": 49.49,
     "preis_sechser": 16.99,
     "pfand_kasten": 3.42,
@@ -514,6 +553,7 @@
   {
     "ean": "42111202",
     "name": "Beck's Green Lemon 0,33",
+    "marke": "Beck's",
     "preis_kasten": 27.49,
     "preis_sechser": 10.99,
     "pfand_kasten": 3.42,
@@ -525,6 +565,7 @@
   {
     "ean": "41001301",
     "name": "Beck's Original 0,33",
+    "marke": "Beck's",
     "preis_kasten": 27.49,
     "preis_sechser": 10.99,
     "pfand_kasten": 3.42,
@@ -536,6 +577,7 @@
   {
     "ean": "4006878005211",
     "name": "ORO Klare Schorle 0,5",
+    "marke": "ORO",
     "preis_kasten": 21.99,
     "preis_sechser": 8.99,
     "pfand_kasten": 3.1,
@@ -547,6 +589,7 @@
   {
     "ean": "4006878005112",
     "name": "ORO Johann Schorle 0,5",
+    "marke": "ORO",
     "preis_kasten": 22.99,
     "preis_sechser": 8.99,
     "pfand_kasten": 3.1,
@@ -558,6 +601,7 @@
   {
     "ean": "4006878005228",
     "name": "ORO Trübe Schorle 0,5",
+    "marke": "ORO",
     "preis_kasten": 21.99,
     "preis_sechser": 8.99,
     "pfand_kasten": 3.1,
@@ -569,6 +613,7 @@
   {
     "ean": "4006878005204",
     "name": "ORO Rote Fruchtschorle 0,5",
+    "marke": "ORO",
     "preis_kasten": 22.99,
     "preis_sechser": 8.99,
     "pfand_kasten": 3.1,
@@ -664,6 +709,7 @@
   {
     "ean": "4066600603405",
     "name": "Paulaner Spezi 0,5",
+    "marke": "Paulaner",
     "preis_kasten": 17.99,
     "preis_sechser": 7.99,
     "pfand_kasten": 3.1,
@@ -675,6 +721,7 @@
   {
     "ean": "4066600603405",
     "name": "Paulaner Spezi Zero 0,5",
+    "marke": "Paulaner",
     "preis_kasten": 17.99,
     "preis_sechser": 7.99,
     "pfand_kasten": 3.1,
@@ -698,6 +745,7 @@
   {
     "ean": "87126853",
     "name": "Coca Cola Original 0,33",
+    "marke": "Coca Cola",
     "preis_kasten": 24.99,
     "preis_sechser": 9.99,
     "pfand_kasten": 5.1,
@@ -709,6 +757,7 @@
   {
     "ean": "90357879",
     "name": "Coca Cola Zero 0,33",
+    "marke": "Coca Cola",
     "preis_kasten": 24.99,
     "preis_sechser": 9.99,
     "pfand_kasten": 5.1,
@@ -720,6 +769,7 @@
   {
     "ean": "87126860",
     "name": "Fanta Orange 0,33",
+    "marke": "Fanta",
     "preis_kasten": 24.99,
     "preis_sechser": 9.99,
     "pfand_kasten": 5.1,
@@ -731,6 +781,7 @@
   {
     "ean": "50112135",
     "name": "Sprite 0,33",
+    "marke": "Sprite",
     "preis_kasten": 24.99,
     "preis_sechser": 9.99,
     "pfand_kasten": 5.1,
@@ -742,6 +793,7 @@
   {
     "ean": "4260107220015",
     "name": "Fritz-Kola Original 0,33",
+    "marke": "Fritz-Kola",
     "preis_kasten": 31.99,
     "preis_sechser": 10.99,
     "pfand_kasten": 3.42,
@@ -753,6 +805,7 @@
   {
     "ean": "4260107220022",
     "name": "Fritz-Kola Classic Light 0,33",
+    "marke": "Fritz-Kola",
     "preis_kasten": 31.99,
     "preis_sechser": 10.99,
     "pfand_kasten": 3.42,
@@ -764,6 +817,7 @@
   {
     "ean": "4260629550096",
     "name": "Fritz-Kola Classic Zero 0,33",
+    "marke": "Fritz-Kola",
     "preis_kasten": 31.99,
     "preis_sechser": 10.99,
     "pfand_kasten": 3.42,
@@ -775,6 +829,7 @@
   {
     "ean": "42031864",
     "name": "Frucade Cola Mix 0,5",
+    "marke": "Frucade",
     "preis_kasten": 14.49,
     "preis_sechser": 7.49,
     "pfand_kasten": 3.1,
@@ -786,6 +841,7 @@
   {
     "ean": "42030164",
     "name": "Frucade Zitronenlimonade 0,5",
+    "marke": "Frucade",
     "preis_kasten": 12.49,
     "preis_sechser": 7.49,
     "pfand_kasten": 3.1,
@@ -797,6 +853,7 @@
   {
     "ean": "42030232",
     "name": "Frucade Sport Grapefruit-Zitrone 0,5",
+    "marke": "Frucade",
     "preis_kasten": 16.99,
     "preis_sechser": 7.99,
     "pfand_kasten": 3.1,
@@ -808,6 +865,7 @@
   {
     "ean": "42045694",
     "name": "Frucade Orangen Limonade 0,5",
+    "marke": "Frucade",
     "preis_kasten": 12.49,
     "preis_sechser": 7.49,
     "pfand_kasten": 3.1,
@@ -819,6 +877,7 @@
   {
     "ean": "42030249",
     "name": "Frucade Apfelschorle 0,5",
+    "marke": "Frucade",
     "preis_kasten": 18.49,
     "preis_sechser": 7.99,
     "pfand_kasten": 3.1,
@@ -830,6 +889,7 @@
   {
     "ean": "4105750000747",
     "name": "Spezi Original 0,5",
+    "marke": "Spezi",
     "preis_kasten": 14.99,
     "preis_sechser": 7.49,
     "pfand_kasten": 3.1,
@@ -841,6 +901,7 @@
   {
     "ean": "4105750000754",
     "name": "Spezi Zero 0,5",
+    "marke": "Spezi",
     "preis_kasten": 14.99,
     "preis_sechser": 7.49,
     "pfand_kasten": 3.1,
@@ -852,6 +913,7 @@
   {
     "ean": "4104580070609",
     "name": "Spezi Energy 0,33",
+    "marke": "Spezi",
     "preis_kasten": 22.99,
     "preis_sechser": 8.99,
     "pfand_kasten": 3.42,
@@ -863,6 +925,7 @@
   {
     "ean": "4014472280095",
     "name": "Bionade Naturtrübe Zitrone 0,33",
+    "marke": "Bionade",
     "preis_kasten": 14.49,
     "preis_sechser": 7.49,
     "pfand_kasten": 2.46,
@@ -874,6 +937,7 @@
   {
     "ean": "4014472002512",
     "name": "Bionade Holunder 0,33",
+    "marke": "Bionade",
     "preis_kasten": 14.49,
     "preis_sechser": 7.49,
     "pfand_kasten": 2.46,
@@ -885,6 +949,7 @@
   {
     "ean": "4053400201634",
     "name": "Bionade Schwarze Johannisbeere-Rosmarin 0,33",
+    "marke": "Bionade",
     "preis_kasten": 14.49,
     "preis_sechser": 7.49,
     "pfand_kasten": 2.46,
@@ -896,6 +961,7 @@
   {
     "ean": "4014472002529",
     "name": "Bionade Ingwer-Orange 0,33",
+    "marke": "Bionade",
     "preis_kasten": 14.49,
     "preis_sechser": 7.49,
     "pfand_kasten": 2.46,
@@ -907,6 +973,7 @@
   {
     "ean": "4014472281719",
     "name": "Bionade Zitrone-Bergamotte 0,33",
+    "marke": "Bionade",
     "preis_kasten": 14.49,
     "preis_sechser": 7.49,
     "pfand_kasten": 2.46,
@@ -918,6 +985,7 @@
   {
     "ean": "4014472002482",
     "name": "Bionade Kräuter 0,33",
+    "marke": "Bionade",
     "preis_kasten": 14.49,
     "preis_sechser": 7.49,
     "pfand_kasten": 2.46,
@@ -929,6 +997,7 @@
   {
     "ean": "414472280101",
     "name": "Bionade Naturtrübe Orange 0,33",
+    "marke": "Bionade",
     "preis_kasten": 14.49,
     "preis_sechser": 7.49,
     "pfand_kasten": 2.46,
@@ -940,6 +1009,7 @@
   {
     "ean": "4029764001807",
     "name": "Club-Mate Original 0,5",
+    "marke": "Club-Mate",
     "preis_kasten": 20.49,
     "preis_sechser": 8.99,
     "pfand_kasten": 4.5,
@@ -951,6 +1021,7 @@
   {
     "ean": "90151620",
     "name": "Almdudler 0,35",
+    "marke": "Almdudler",
     "preis_kasten": 28.99,
     "preis_sechser": 9.99,
     "pfand_kasten": 5.1,
@@ -962,6 +1033,7 @@
   {
     "ean": "40518169",
     "name": "Malzdrink Karamalz Classic 0,5",
+    "marke": "Malzdrink",
     "preis_kasten": 20.49,
     "preis_sechser": 8.99,
     "pfand_kasten": 3.1,
@@ -973,6 +1045,7 @@
   {
     "ean": "4027425000756",
     "name": "Brunnthaler Iso-Sport Mango 0,5",
+    "marke": "Brunnthaler",
     "preis_kasten": 15.99,
     "preis_sechser": 7.49,
     "pfand_kasten": 3.1,
@@ -984,6 +1057,7 @@
   {
     "ean": "4027425000466",
     "name": "Brunnthaler Apfel-Kirsch 0,5",
+    "marke": "Brunnthaler",
     "preis_kasten": 15.99,
     "preis_sechser": 7.49,
     "pfand_kasten": 3.1,
@@ -995,6 +1069,7 @@
   {
     "ean": "4027425000633",
     "name": "Brunnthaler Iso-Sport Kirsche 0,5",
+    "marke": "Brunnthaler",
     "preis_kasten": 14.99,
     "preis_sechser": 7.49,
     "pfand_kasten": 3.1,
@@ -1006,6 +1081,7 @@
   {
     "ean": "4027425000602",
     "name": "Brunnthaler Eistee Pfirsich 0,5",
+    "marke": "Brunnthaler",
     "preis_kasten": 15.99,
     "preis_sechser": 7.49,
     "pfand_kasten": 3.1,
@@ -1017,6 +1093,7 @@
   {
     "ean": "4027425000787",
     "name": "Brunnthaler Kräuter Limo 0,5",
+    "marke": "Brunnthaler",
     "preis_kasten": 12.49,
     "preis_sechser": 7.49,
     "pfand_kasten": 3.1,
@@ -1028,6 +1105,7 @@
   {
     "ean": "4027425000589",
     "name": "Brunnthaler Bruny 10 0,5",
+    "marke": "Brunnthaler",
     "preis_kasten": 15.99,
     "preis_sechser": 7.49,
     "pfand_kasten": 3.1,
@@ -1039,6 +1117,7 @@
   {
     "ean": "4005906002680",
     "name": "Adelholzener Eistee Pfirsich 0,5P",
+    "marke": "Adelholzener",
     "preis_kasten": 12.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
@@ -1049,6 +1128,7 @@
   {
     "ean": "4005906002697",
     "name": "Adelholzener Eistee Waldbeeren 0,5P",
+    "marke": "Adelholzener",
     "preis_kasten": 12.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
@@ -1059,6 +1139,7 @@
   {
     "ean": "4005906002857",
     "name": "Adelholzener Eistee Zitrone 0,5P",
+    "marke": "Adelholzener",
     "preis_kasten": 12.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
@@ -1069,6 +1150,7 @@
   {
     "ean": "4005906002642",
     "name": "Adelholzener Zitrone 0,5P",
+    "marke": "Adelholzener",
     "preis_kasten": 12.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
@@ -1079,6 +1161,7 @@
   {
     "ean": "4005906002833",
     "name": "Adelholzener Johannisbeere 0,5P",
+    "marke": "Adelholzener",
     "preis_kasten": 12.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
@@ -1089,6 +1172,7 @@
   {
     "ean": "4005906002277",
     "name": "Adelholzener Pfirsich Holunderblüte 0,5P",
+    "marke": "Adelholzener",
     "preis_kasten": 12.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
@@ -1099,6 +1183,7 @@
   {
     "ean": "4005906002666",
     "name": "Adelholzener Cola Mix 0,5P",
+    "marke": "Adelholzener",
     "preis_kasten": 12.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
@@ -1109,6 +1194,7 @@
   {
     "ean": "4005906003014",
     "name": "Adelholzener Apfel Kräuter 0,5P",
+    "marke": "Adelholzener",
     "preis_kasten": 12.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
@@ -1119,6 +1205,7 @@
   {
     "ean": "4005906002611",
     "name": "Adelholzener Mandarine 0,5P",
+    "marke": "Adelholzener",
     "preis_kasten": 12.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
@@ -1129,6 +1216,7 @@
   {
     "ean": "4005906002635",
     "name": "Adelholzener Orange 0,5P",
+    "marke": "Adelholzener",
     "preis_kasten": 12.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
@@ -1139,6 +1227,7 @@
   {
     "ean": "4005906003045",
     "name": "Adelholzener Rote Johannisbeere Kräuter 0,5P",
+    "marke": "Adelholzener",
     "preis_kasten": 12.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
@@ -1149,6 +1238,7 @@
   {
     "ean": "4005906002260",
     "name": "Adelholzener Tropic 0,5P",
+    "marke": "Adelholzener",
     "preis_kasten": 12.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
@@ -1159,6 +1249,7 @@
   {
     "ean": "4005906003021",
     "name": "Adelholzener Roter Multivitamin 0,5P",
+    "marke": "Adelholzener",
     "preis_kasten": 12.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
@@ -1169,6 +1260,7 @@
   {
     "ean": "4005906003397",
     "name": "Adelholzener BiF Maracuja Orange 0,5P",
+    "marke": "Adelholzener",
     "preis_kasten": 12.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
@@ -1179,6 +1271,7 @@
   {
     "ean": "4005906002628",
     "name": "Adelholzener Limette 0,5P",
+    "marke": "Adelholzener",
     "preis_kasten": 12.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
@@ -1189,6 +1282,7 @@
   {
     "ean": "4005906003373",
     "name": "Adelholzener BiF Sunny Orange 0,5P",
+    "marke": "Adelholzener",
     "preis_kasten": 12.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
@@ -1199,6 +1293,7 @@
   {
     "ean": "4005906003366",
     "name": "Adelholzener BiF Zitrone 0,5P",
+    "marke": "Adelholzener",
     "preis_kasten": 12.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
@@ -1209,6 +1304,7 @@
   {
     "ean": "4005906002246",
     "name": "Adelholzener Orange Sport 0,5P",
+    "marke": "Adelholzener",
     "preis_kasten": 12.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
@@ -1219,6 +1315,7 @@
   {
     "ean": "4005906003380",
     "name": "Adelholzener BiF Grapefruit 0,5P",
+    "marke": "Adelholzener",
     "preis_kasten": 12.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
@@ -1229,6 +1326,7 @@
   {
     "ean": "4005906002468",
     "name": "Adelholzener Rote Schorle 0,5P",
+    "marke": "Adelholzener",
     "preis_kasten": 12.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
@@ -1239,6 +1337,7 @@
   {
     "ean": "4005906002208",
     "name": "Adelholzener Kirsche Sport 0,5P",
+    "marke": "Adelholzener",
     "preis_kasten": 12.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
@@ -1249,6 +1348,7 @@
   {
     "ean": "4005906002765",
     "name": "Adelholzener Apfelschorle 0,5P",
+    "marke": "Adelholzener",
     "preis_kasten": 12.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
@@ -1259,6 +1359,7 @@
   {
     "ean": "4005906002253",
     "name": "Adelholzener Pink Grapefruit Sport 0,5P",
+    "marke": "Adelholzener",
     "preis_kasten": 12.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
@@ -1269,6 +1370,7 @@
   {
     "ean": "4005906002338",
     "name": "Adelholzener Kirsche 0,5P",
+    "marke": "Adelholzener",
     "preis_kasten": 12.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
@@ -1279,6 +1381,7 @@
   {
     "ean": "4005906002444",
     "name": "Adelholzener Brombeer Holunder 0,5P",
+    "marke": "Adelholzener",
     "preis_kasten": 12.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
@@ -1289,6 +1392,7 @@
   {
     "ean": "4005906002383",
     "name": "Adelholzener Sport Schorle 0,5P",
+    "marke": "Adelholzener",
     "preis_kasten": 12.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
@@ -1299,6 +1403,7 @@
   {
     "ean": "4005906002710",
     "name": "Adelholzener ACE 0,5P",
+    "marke": "Adelholzener",
     "preis_kasten": 13.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
@@ -1309,6 +1414,7 @@
   {
     "ean": "4005906002598",
     "name": "Adelholzener Multivitamin 0,5P",
+    "marke": "Adelholzener",
     "preis_kasten": 13.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
@@ -1319,6 +1425,7 @@
   {
     "ean": "4005906002932",
     "name": "Adelholzener Bio Zitronen Limonade 0,5P",
+    "marke": "Adelholzener",
     "preis_kasten": 13.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
@@ -1329,6 +1436,7 @@
   {
     "ean": "4000140011528",
     "name": "Schweppes Indian Tonic Water 1,0",
+    "marke": "Schweppes",
     "preis_kasten": 14.99,
     "preis_sechser": 0.0,
     "pfand_kasten": 2.4,
@@ -1339,6 +1447,7 @@
   {
     "ean": "4000140700583",
     "name": "Schweppes Original Wild Berry 1,0",
+    "marke": "Schweppes",
     "preis_kasten": 14.99,
     "preis_sechser": 0.0,
     "pfand_kasten": 2.4,
@@ -1349,6 +1458,7 @@
   {
     "ean": "4000140716966",
     "name": "Schweppes Virgin Mojito Alkoholfrei 1,0",
+    "marke": "Schweppes",
     "preis_kasten": 14.99,
     "preis_sechser": 0.0,
     "pfand_kasten": 2.4,
@@ -1359,6 +1469,7 @@
   {
     "ean": "4000140011498",
     "name": "Schweppes Original Bitter Lemon 1,0",
+    "marke": "Schweppes",
     "preis_kasten": 14.99,
     "preis_sechser": 0.0,
     "pfand_kasten": 2.4,
@@ -1369,6 +1480,7 @@
   {
     "ean": "4000140718991",
     "name": "Schweppes Pomegranate 1,0",
+    "marke": "Schweppes",
     "preis_kasten": 14.99,
     "preis_sechser": 0.0,
     "pfand_kasten": 2.4,
@@ -1379,6 +1491,7 @@
   {
     "ean": "4000140721403",
     "name": "Schweppes Virgin Orange Spritz Alkoholfrei 1,0",
+    "marke": "Schweppes",
     "preis_kasten": 14.99,
     "preis_sechser": 0.0,
     "pfand_kasten": 2.4,
@@ -1389,6 +1502,7 @@
   {
     "ean": "4000140011559",
     "name": "Schweppes American Ginger Ale 1,0",
+    "marke": "Schweppes",
     "preis_kasten": 14.99,
     "preis_sechser": 0.0,
     "pfand_kasten": 2.4,
@@ -1399,6 +1513,7 @@
   {
     "ean": "4000140714818",
     "name": "Schweppes White Peach 1,0",
+    "marke": "Schweppes",
     "preis_kasten": 14.99,
     "preis_sechser": 0.0,
     "pfand_kasten": 2.4,
@@ -1409,6 +1524,7 @@
   {
     "ean": "4006878000094",
     "name": "ORO Bio Apfelsaft naturtrüb 1,0",
+    "marke": "ORO",
     "preis_kasten": 16.99,
     "preis_sechser": 0.0,
     "pfand_kasten": 2.4,
@@ -1419,6 +1535,7 @@
   {
     "ean": "4006878000353",
     "name": "ORO Apfel Holunder Saft 1,0",
+    "marke": "ORO",
     "preis_kasten": 20.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 2.4,
@@ -1429,6 +1546,7 @@
   {
     "ean": "4006878000377",
     "name": "ORO Apfel Holunder Johannisbeer 1,0",
+    "marke": "ORO",
     "preis_kasten": 21.99,
     "preis_sechser": 0.0,
     "pfand_kasten": 2.4,
@@ -1439,6 +1557,7 @@
   {
     "ean": "4006878000018",
     "name": "ORO klarer Apfelsaft Direktsaft 1,0",
+    "marke": "ORO",
     "preis_kasten": 16.99,
     "preis_sechser": 0.0,
     "pfand_kasten": 2.4,
@@ -1449,6 +1568,7 @@
   {
     "ean": "4006878000445",
     "name": "ORO Multivitamin Mehrfruchtsaft 1,0",
+    "marke": "ORO",
     "preis_kasten": 21.99,
     "preis_sechser": 0.0,
     "pfand_kasten": 2.4,
@@ -1459,6 +1579,7 @@
   {
     "ean": "4006878000025",
     "name": "ORO naturtrüber Apfelsaft Direktsaft 1,0",
+    "marke": "ORO",
     "preis_kasten": 16.99,
     "preis_sechser": 0.0,
     "pfand_kasten": 2.4,
@@ -1469,6 +1590,7 @@
   {
     "ean": "4006878000216",
     "name": "ORO Weißer Traubensaft Direktsaft 1,0",
+    "marke": "ORO",
     "preis_kasten": 18.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 2.4,
@@ -1479,6 +1601,7 @@
   {
     "ean": "4006878000100",
     "name": "ORO Roter Johannisbeer 1,0",
+    "marke": "ORO",
     "preis_kasten": 18.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 2.4,
@@ -1489,6 +1612,7 @@
   {
     "ean": "4006878000438",
     "name": "ORO Orangen Maracuja 1,0",
+    "marke": "ORO",
     "preis_kasten": 18.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 2.4,
@@ -1499,6 +1623,7 @@
   {
     "ean": "4006878000308",
     "name": "ORO Sauer Kirsch 1,0",
+    "marke": "ORO",
     "preis_kasten": 20.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 2.4,
@@ -1509,6 +1634,7 @@
   {
     "ean": "4006878000452",
     "name": "ORO Ananas Saft 1,0",
+    "marke": "ORO",
     "preis_kasten": 21.99,
     "preis_sechser": 0.0,
     "pfand_kasten": 2.4,
@@ -1519,6 +1645,7 @@
   {
     "ean": "4006878000407",
     "name": "ORO Apfel Orange 1,0",
+    "marke": "ORO",
     "preis_kasten": 16.99,
     "preis_sechser": 0.0,
     "pfand_kasten": 2.4,
@@ -1529,6 +1656,7 @@
   {
     "ean": "4006878000414",
     "name": "ORO Orangensaft Direktsaft 1,0",
+    "marke": "ORO",
     "preis_kasten": 24.99,
     "preis_sechser": 0.0,
     "pfand_kasten": 2.4,
@@ -1539,6 +1667,7 @@
   {
     "ean": "4006878000117",
     "name": "ORO Schwarzer Johannisbeer 1,0",
+    "marke": "ORO",
     "preis_kasten": 21.99,
     "preis_sechser": 0.0,
     "pfand_kasten": 2.4,
@@ -1549,6 +1678,7 @@
   {
     "ean": "4006878000049",
     "name": "ORO Birnensaft Direktsaft 1,0",
+    "marke": "ORO",
     "preis_kasten": 15.99,
     "preis_sechser": 0.0,
     "pfand_kasten": 2.4,
@@ -1559,6 +1689,7 @@
   {
     "ean": "4006878000209",
     "name": "ORO Traubensaft Direktsaft 1,0",
+    "marke": "ORO",
     "preis_kasten": 18.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 2.4,
@@ -1569,6 +1700,7 @@
   {
     "ean": "4006878000476",
     "name": "ORO Mango 1,0",
+    "marke": "ORO",
     "preis_kasten": 19.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 2.4,
@@ -1579,6 +1711,7 @@
   {
     "ean": "4005906003410",
     "name": "Adelholzener sanft 0,5",
+    "marke": "Adelholzener",
     "preis_kasten": 8.99,
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
@@ -1589,6 +1722,7 @@
   {
     "ean": "4005906003427",
     "name": "Adelholzener naturell 0,5",
+    "marke": "Adelholzener",
     "preis_kasten": 8.99,
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
@@ -1599,6 +1733,7 @@
   {
     "ean": "4005906003403",
     "name": "Adelholzener classic 0,5",
+    "marke": "Adelholzener",
     "preis_kasten": 8.99,
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
@@ -1609,6 +1744,7 @@
   {
     "ean": "4005906003502",
     "name": "Adelholzener St. Primus Heilwasser 0,75",
+    "marke": "Adelholzener",
     "preis_kasten": 11.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 4.8,
@@ -1619,6 +1755,7 @@
   {
     "ean": "4005906003700",
     "name": "Adelholzener classic 0,75",
+    "marke": "Adelholzener",
     "preis_kasten": 10.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
@@ -1629,6 +1766,7 @@
   {
     "ean": "4005906003717",
     "name": "Adelholzener sanft 0,75",
+    "marke": "Adelholzener",
     "preis_kasten": 10.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
@@ -1639,6 +1777,7 @@
   {
     "ean": "4005906003724",
     "name": "Adelholzener naturell 0,75",
+    "marke": "Adelholzener",
     "preis_kasten": 10.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
@@ -1649,6 +1788,7 @@
   {
     "ean": "4005906002079",
     "name": "Adelholzener classic 1,0",
+    "marke": "Adelholzener",
     "preis_kasten": 11.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 4.8,
@@ -1659,6 +1799,7 @@
   {
     "ean": "4005906002062",
     "name": "Adelholzener sanft 1,0",
+    "marke": "Adelholzener",
     "preis_kasten": 11.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 4.8,
@@ -1669,6 +1810,7 @@
   {
     "ean": "4005906002048",
     "name": "Adelholzener naturell 1,0",
+    "marke": "Adelholzener",
     "preis_kasten": 11.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 4.8,
@@ -1679,6 +1821,7 @@
   {
     "ean": "4005906002055",
     "name": "Adelholzener extra still 1,0",
+    "marke": "Adelholzener",
     "preis_kasten": 11.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 4.8,
@@ -1689,6 +1832,7 @@
   {
     "ean": "4005906002949",
     "name": "Adelholzener Lemon + 1,0",
+    "marke": "Adelholzener",
     "preis_kasten": 12.99,
     "preis_sechser": 0.0,
     "pfand_kasten": 4.8,
@@ -1699,6 +1843,7 @@
   {
     "ean": "4005906002116",
     "name": "Adelholzener sanft 0,5P",
+    "marke": "Adelholzener",
     "preis_kasten": 8.99,
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
@@ -1709,6 +1854,7 @@
   {
     "ean": "4005906002130",
     "name": "Adelholzener extra still 0,5P",
+    "marke": "Adelholzener",
     "preis_kasten": 8.99,
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
@@ -1719,6 +1865,7 @@
   {
     "ean": "4005906002123",
     "name": "Adelholzener classic 0,5P",
+    "marke": "Adelholzener",
     "preis_kasten": 8.99,
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
@@ -1729,6 +1876,7 @@
   {
     "ean": "4005906002109",
     "name": "Adelholzener naturell 0,5P",
+    "marke": "Adelholzener",
     "preis_kasten": 8.99,
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
@@ -1739,6 +1887,7 @@
   {
     "ean": "4005906002178",
     "name": "Adelholzener Lemon + 0,5P",
+    "marke": "Adelholzener",
     "preis_kasten": 8.99,
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
@@ -1749,6 +1898,7 @@
   {
     "ean": "4022569140009",
     "name": "St.Leonhards Mondquelle 1,0",
+    "marke": "St.Leonhards",
     "preis_kasten": 13.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 2.4,
@@ -1759,6 +1909,7 @@
   {
     "ean": "4047679110025",
     "name": "St. Georgs Quelle 1,0",
+    "marke": "St.Leonhards",
     "preis_kasten": 9.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 2.4,
@@ -1769,6 +1920,7 @@
   {
     "ean": "4022569110002",
     "name": "St. Leonhards Quelle still 1,0",
+    "marke": "St.Leonhards",
     "preis_kasten": 9.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 2.4,
@@ -1779,6 +1931,7 @@
   {
     "ean": "4022569150008",
     "name": "St. Leonhards Licht Quelle",
+    "marke": "St.Leonhards",
     "preis_kasten": 12.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 2.4,
@@ -1789,6 +1942,7 @@
   {
     "ean": "4022569150003",
     "name": "St. Leonhards Quelle Medium 1,0",
+    "marke": "St.Leonhards",
     "preis_kasten": 9.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 2.4,
@@ -1799,6 +1953,7 @@
   {
     "ean": "4022569160007",
     "name": "St. Leonhards Quelle Sonnen Quelle 1,0",
+    "marke": "St.Leonhards",
     "preis_kasten": 13.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 2.4,
@@ -1809,6 +1964,7 @@
   {
     "ean": "4020655031002",
     "name": "Abenstaler Quelle Medium 0,7",
+    "marke": "Abenstaler",
     "preis_kasten": 7.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
@@ -1819,6 +1975,7 @@
   {
     "ean": "4020655033006",
     "name": "Abenstaler Quelle Naturell 0,7",
+    "marke": "Abenstaler",
     "preis_kasten": 7.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
@@ -1829,6 +1986,7 @@
   {
     "ean": "4020655030005",
     "name": "Abenstaler Quelle Spritzig 0,7",
+    "marke": "Abenstaler",
     "preis_kasten": 7.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
@@ -1839,6 +1997,7 @@
   {
     "ean": "4020655230016",
     "name": "Abenstaler Spritzig 1,0 P",
+    "marke": "Abenstaler",
     "preis_kasten": 8.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 4.5,
@@ -1849,6 +2008,7 @@
   {
     "ean": "4020655231013",
     "name": "Abenstaler Medium 1,0 P",
+    "marke": "Abenstaler",
     "preis_kasten": 8.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 4.5,
@@ -1859,6 +2019,7 @@
   {
     "ean": "4020655243009",
     "name": "Abenstaler Naturell 1,0 P",
+    "marke": "Abenstaler",
     "preis_kasten": 8.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 4.5,
@@ -1869,6 +2030,7 @@
   {
     "ean": "4313042579714",
     "name": "Bad Reichenhaller Classic 0,7",
+    "marke": "Bad Reichenhaller",
     "preis_kasten": 9.99,
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
@@ -1879,6 +2041,7 @@
   {
     "ean": "4313042579738",
     "name": "Bad Reichenhaller Still 0,7",
+    "marke": "Bad Reichenhaller",
     "preis_kasten": 9.99,
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
@@ -1889,6 +2052,7 @@
   {
     "ean": "4313042579721",
     "name": "Bad Reichenhaller Medium 0,7",
+    "marke": "Bad Reichenhaller",
     "preis_kasten": 9.99,
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
@@ -1899,6 +2063,7 @@
   {
     "ean": "4025243133717",
     "name": "Lidwinen Naturell 0,7",
+    "marke": "Lidwinen",
     "preis_kasten": 7.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
@@ -1909,6 +2074,7 @@
   {
     "ean": "4025243132710",
     "name": "Lidwinen Medium 0,7",
+    "marke": "Lidwinen",
     "preis_kasten": 7.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
@@ -1919,6 +2085,7 @@
   {
     "ean": "4025243131713",
     "name": "Lidwinen Klassik 0,7",
+    "marke": "Lidwinen",
     "preis_kasten": 7.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
@@ -1929,6 +2096,7 @@
   {
     "ean": "4001325003888",
     "name": "Aqua Römer Classic 0,75",
+    "marke": "Aqua Römer",
     "preis_kasten": 9.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
@@ -1939,6 +2107,7 @@
   {
     "ean": "4001325002584",
     "name": "Aqua Römer Naturelle 0,75",
+    "marke": "Aqua Römer",
     "preis_kasten": 9.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
@@ -1949,6 +2118,7 @@
   {
     "ean": "4001325002881",
     "name": "Aqua Römer Medium 0,75",
+    "marke": "Aqua Römer",
     "preis_kasten": 9.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
@@ -1959,6 +2129,7 @@
   {
     "ean": "4002627801721",
     "name": "Franken Brunnen Medium 1,0",
+    "marke": "Franken Brunnen",
     "preis_kasten": 10.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
@@ -1969,6 +2140,7 @@
   {
     "ean": "4002627801714",
     "name": "Franken Brunnen Spritzig 1,0",
+    "marke": "Franken Brunnen",
     "preis_kasten": 10.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
@@ -1979,6 +2151,7 @@
   {
     "ean": "8004192103107",
     "name": "Lauretana 1,0",
+    "marke": "Lauretana",
     "preis_kasten": 13.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 3.4,
@@ -1989,6 +2162,7 @@
   {
     "ean": "4101090000607",
     "name": "Staatl Fachingen 0,75",
+    "marke": "Staatl",
     "preis_kasten": 14.99,
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
@@ -1999,6 +2173,7 @@
   {
     "ean": "4104760401865",
     "name": "Black Forest 0,7",
+    "marke": "Black Forest",
     "preis_kasten": 13.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
@@ -2009,6 +2184,7 @@
   {
     "ean": "8017870000018",
     "name": "Plose Naturale 1,0",
+    "marke": "Plose",
     "preis_kasten": 10.99,
     "preis_sechser": 0.0,
     "pfand_kasten": 2.4,
@@ -2019,6 +2195,7 @@
   {
     "ean": "8017870000100",
     "name": "Plose Medium 1,0",
+    "marke": "Plose",
     "preis_kasten": 10.99,
     "preis_sechser": 0.0,
     "pfand_kasten": 2.4,
@@ -2029,6 +2206,7 @@
   {
     "ean": "4260080753333",
     "name": "è Aqua Kaffeewasser 1,5",
+    "marke": "è Aqua",
     "preis_kasten": 8.99,
     "preis_sechser": 0.0,
     "pfand_kasten": 3.0,
@@ -2039,6 +2217,7 @@
   {
     "ean": "4001513000613",
     "name": "Gerolsteiner Sprudel 1,0",
+    "marke": "Gerolsteiner",
     "preis_kasten": 13.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
@@ -2049,6 +2228,7 @@
   {
     "ean": "4001513000620",
     "name": "Gerolsteiner Medium 1,0",
+    "marke": "Gerolsteiner",
     "preis_kasten": 13.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 3.3,
@@ -2059,6 +2239,7 @@
   {
     "ean": "8034108440019",
     "name": "Bulgarini Lugana 0,75",
+    "art": "Weißwein",
     "preis_kasten": 17.99,
     "preis_sechser": 0.0,
     "pfand_kasten": 0.0,
@@ -2070,6 +2251,7 @@
   {
     "ean": "42213277",
     "name": "Monkey 47 Schwarzwald Dry Gin 0,5",
+    "art": "Gin",
     "preis_kasten": 52.99,
     "preis_sechser": 0.0,
     "pfand_kasten": 0.0,
@@ -2081,6 +2263,7 @@
   {
     "ean": "5010327755014",
     "name": "Hendrick's Gin 0,7",
+    "art": "Gin",
     "preis_kasten": 48.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 0.0,
@@ -2092,6 +2275,7 @@
   {
     "ean": "4011474301100",
     "name": "Kessler Zink Chardonnay Trocken 1,0",
+    "art": "Weißwein",
     "preis_kasten": 7.99,
     "preis_sechser": 0.0,
     "pfand_kasten": 0.15,
@@ -2103,6 +2287,7 @@
   {
     "ean": "4011474305023",
     "name": "Kessler Zink Pinot Grigio La Corona 1,0",
+    "art": "Weißwein",
     "preis_kasten": 7.99,
     "preis_sechser": 0.0,
     "pfand_kasten": 0.15,
@@ -2114,6 +2299,7 @@
   {
     "ean": "4011474305009",
     "name": "Kessler Zink Merlot La Corona 1,0",
+    "art": "Rotwein",
     "preis_kasten": 8.99,
     "preis_sechser": 0.0,
     "pfand_kasten": 0.15,
@@ -2125,6 +2311,7 @@
   {
     "ean": "4011474300165",
     "name": "Kessler Zink Grauer Burgunder Trocken 1,0",
+    "art": "Weißwein",
     "preis_kasten": 7.99,
     "preis_sechser": 0.0,
     "pfand_kasten": 0.15,
@@ -2136,6 +2323,7 @@
   {
     "ean": "8003373030201",
     "name": "Ca' Vegar Lugana 0,75",
+    "art": "Weißwein",
     "preis_kasten": 14.99,
     "preis_sechser": 0.0,
     "pfand_kasten": 0.0,
@@ -2147,6 +2335,7 @@
   {
     "ean": "4067700011015",
     "name": "Jägermeister 0,7",
+    "art": "Kräuterlikör",
     "preis_kasten": 21.99,
     "preis_sechser": 0.0,
     "pfand_kasten": 0.0,
@@ -2158,6 +2347,7 @@
   {
     "ean": "8001906999667",
     "name": "Toro Spumante Millesimato 0,75",
+    "art": "Sekt & Prosecco",
     "preis_kasten": 14.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 0.0,
@@ -2169,6 +2359,7 @@
   {
     "ean": "3057230000277",
     "name": "Lillet Rosé 0,75",
+    "art": "Aperitif",
     "preis_kasten": 22.99,
     "preis_sechser": 0.0,
     "pfand_kasten": 0.0,
@@ -2180,6 +2371,7 @@
   {
     "ean": "8006550301040",
     "name": "Ramazzotti Amaro 0,7",
+    "art": "Kräuterlikör",
     "preis_kasten": 22.99,
     "preis_sechser": 0.0,
     "pfand_kasten": 0.0,
@@ -2191,6 +2383,7 @@
   {
     "ean": "7312040017683",
     "name": "Absolut Vodka 0,7",
+    "art": "Wodka",
     "preis_kasten": 21.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 0.0,
@@ -2202,6 +2395,7 @@
   {
     "ean": "5099873089798",
     "name": "Jack Daniel's Whiskey 0,7",
+    "art": "Whiskey",
     "preis_kasten": 25.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 0.0,
@@ -2213,6 +2407,7 @@
   {
     "ean": "8002335104066",
     "name": "Valdo Prosecco 0,75",
+    "art": "Sekt & Prosecco",
     "preis_kasten": 14.99,
     "preis_sechser": 0.0,
     "pfand_kasten": 0.0,
@@ -2224,6 +2419,7 @@
   {
     "ean": "4006606078319",
     "name": "Hugo Holunder Limette Minze Alkoholfrei 0,75",
+    "art": "Aperitif",
     "preis_kasten": 7.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 0.0,
@@ -2235,6 +2431,7 @@
   {
     "ean": "4006606760016",
     "name": "Hugo Holunder Limette Minze 0,75",
+    "art": "Aperitif",
     "preis_kasten": 7.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 0.0,
@@ -2246,6 +2443,7 @@
   {
     "ean": "4006606077510",
     "name": "Sprizz Orange-Bitter Aperitif 0,75",
+    "art": "Aperitif",
     "preis_kasten": 7.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 0.0,
@@ -2257,6 +2455,7 @@
   {
     "ean": "4006606076810",
     "name": "Sprizz Orange-Bitter Aperitif Alkoholfrei 0,75",
+    "art": "Aperitif",
     "preis_kasten": 7.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 0.0,
@@ -2268,6 +2467,7 @@
   {
     "ean": "4006606700111",
     "name": "Stettner Secco Bianco 0,75",
+    "art": "Sekt & Prosecco",
     "preis_kasten": 7.49,
     "preis_sechser": 0.0,
     "pfand_kasten": 0.0,
@@ -2279,6 +2479,7 @@
   {
     "ean": "678247683135",
     "name": "Gutmayer Grüner Veltliner 1,0",
+    "art": "Weißwein",
     "preis_kasten": 8.99,
     "preis_sechser": 0.0,
     "pfand_kasten": 0.25,
@@ -2290,6 +2491,7 @@
   {
     "ean": "678247683142",
     "name": "Gutmayer Blauer Zweigelt 1,0",
+    "art": "Rotwein",
     "preis_kasten": 8.99,
     "preis_sechser": 0.0,
     "pfand_kasten": 0.25,
@@ -2301,6 +2503,7 @@
   {
     "ean": "4101660300014",
     "name": "Augusta Weinschorle Sauer 0,5",
+    "art": "Weinschorle",
     "preis_kasten": 12.49,
     "preis_sechser": 8.99,
     "pfand_kasten": 2.3,
@@ -2313,6 +2516,7 @@
   {
     "ean": "4270001990907",
     "name": "Winzz Weinschorle Sauer 0,33",
+    "art": "Weinschorle",
     "preis_kasten": 21.99,
     "preis_sechser": 10.99,
     "pfand_kasten": 2.46,
@@ -2325,6 +2529,7 @@
   {
     "ean": "4270001990945",
     "name": "Winzz Weinschorle Rosé 0,33",
+    "art": "Weinschorle",
     "preis_kasten": 21.99,
     "preis_sechser": 10.99,
     "pfand_kasten": 2.46,
