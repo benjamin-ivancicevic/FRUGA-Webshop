@@ -9,7 +9,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
-    "kategorie": "bier"
+    "kategorie": "bier",
+    "allergene": "Enthält: Gerstenmalz (Gluten)"
   },
   {
     "ean": "4105250022003",
@@ -21,7 +22,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
-    "kategorie": "bier"
+    "kategorie": "bier",
+    "allergene": "Enthält: Gerstenmalz (Gluten)"
   },
   {
     "ean": "4105250024007",
@@ -33,7 +35,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
-    "kategorie": "bier"
+    "kategorie": "bier",
+    "allergene": "Enthält: Gerstenmalz (Gluten)"
   },
   {
     "ean": "4016843002947",
@@ -44,7 +47,9 @@
     "pfand_kasten": 3.1,
     "pfand_sechser": 0.48,
     "bild_kasten": "floetzinger_1543_0_5_kasten.png",
-    "bild_flasche": "floetzinger_1543_0_5_flasche.png",    "kategorie": "bier"
+    "bild_flasche": "floetzinger_1543_0_5_flasche.png",
+    "kategorie": "bier",
+    "allergene": "Enthält: Weizenmalz, Gerstenmalz (Gluten)"
   },
   {
     "ean": "4016843002404",
@@ -56,7 +61,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "floetzinger_maerzen_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_maerzen_helles_0_5_flasche.png",
-    "kategorie": "bier"
+    "kategorie": "bier",
+    "allergene": "Enthält: Gerstenmalz (Gluten)"
   },
   {
     "ean": "4016843003982",
@@ -68,7 +74,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "floetzinger_alkoholfrei_0_5_kasten.png",
     "bild_flasche": "floetzinger_alkoholfrei_0_5_flasche.png",
-    "kategorie": "bier"
+    "kategorie": "bier",
+    "allergene": "Enthält: Gerstenmalz (Gluten)"
   },
   {
     "ean": "4016843004842",
@@ -80,7 +87,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
-    "kategorie": "bier"
+    "kategorie": "bier",
+    "allergene": "Enthält: Gerstenmalz (Gluten)"
   },
   {
     "ean": "4016843003944",
@@ -92,7 +100,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "floetzinger_radler_alkoholfrei_0_5_kasten.png",
     "bild_flasche": "floetzinger_radler_alkoholfrei_0_5_flasche.png",
-    "kategorie": "bier"
+    "kategorie": "bier",
+    "allergene": "Enthält: Gerstenmalz (Gluten)"
   },
   {
     "ean": "4016843004866",
@@ -104,7 +113,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "floetzinger_russn_0_5_kasten.png",
     "bild_flasche": "floetzinger_russn_0_5_flasche.png",
-    "kategorie": "bier"
+    "kategorie": "bier",
+    "allergene": "Enthält: Weizenmalz, Gerstenmalz (Gluten)"
   },
   {
     "ean": "4016843002992",
@@ -116,7 +126,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "bierbichler_weißbier_0_5_kasten.png",
     "bild_flasche": "bierbichler_weißbier_0_5_flasche.png",
-    "kategorie": "bier"
+    "kategorie": "bier",
+    "allergene": "Enthält: Weizenmalz, Gerstenmalz (Gluten)"
   },
   {
     "ean": "4006693800114",
@@ -128,7 +139,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
-    "kategorie": "bier"
+    "kategorie": "bier",
+    "allergene": "Enthält: Gerstenmalz (Gluten)"
   },
   {
     "ean": "4006693800183",
@@ -140,7 +152,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
-    "kategorie": "bier"
+    "kategorie": "bier",
+    "allergene": "Enthält: Weizenmalz, Gerstenmalz (Gluten)"
   },
   {
     "ean": "4006699083610",
@@ -152,7 +165,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
-    "kategorie": "bier"
+    "kategorie": "bier",
+    "allergene": "Enthält: Gerstenmalz (Gluten)"
   },
   {
     "ean": "4006693800138",
@@ -164,7 +178,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
-    "kategorie": "bier"
+    "kategorie": "bier",
+    "allergene": "Enthält: Gerstenmalz (Gluten)"
   },
   {
     "ean": "4006693800190",
@@ -176,7 +191,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
-    "kategorie": "bier"
+    "kategorie": "bier",
+    "allergene": "Enthält: Gerstenmalz (Gluten)"
   },
   {
     "ean": "4006693800220",
@@ -188,7 +204,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
-    "kategorie": "bier"
+    "kategorie": "bier",
+    "allergene": "Enthält: Gerstenmalz (Gluten)"
   },
   {
     "ean": "4260604750053",
@@ -200,7 +217,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
-    "kategorie": "bier"
+    "kategorie": "bier",
+    "allergene": "Enthält: Gerstenmalz (Gluten)"
   },
   {
     "ean": "4260604750084",
@@ -212,7 +230,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
-    "kategorie": "bier"
+    "kategorie": "bier",
+    "allergene": "Enthält: Gerstenmalz (Gluten)"
   },
   {
     "ean": "4022396000026",
@@ -224,7 +243,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
-    "kategorie": "bier"
+    "kategorie": "bier",
+    "allergene": "Enthält: Gerstenmalz (Gluten)"
   },
   {
     "ean": "4022396000033",
@@ -236,7 +256,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
-    "kategorie": "bier"
+    "kategorie": "bier",
+    "allergene": "Enthält: Gerstenmalz (Gluten)"
   },
   {
     "ean": "4022396000057",
@@ -248,7 +269,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
-    "kategorie": "bier"
+    "kategorie": "bier",
+    "allergene": "Enthält: Gerstenmalz (Gluten)"
   },
   {
     "ean": "4220138",
@@ -260,7 +282,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
-    "kategorie": "bier"
+    "kategorie": "bier",
+    "allergene": "Enthält: Gerstenmalz (Gluten)"
   },
   {
     "ean": "42065333",
@@ -272,7 +295,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
-    "kategorie": "bier"
+    "kategorie": "bier",
+    "allergene": "Enthält: Gerstenmalz (Gluten)"
   },
   {
     "ean": "4260449220124",
@@ -284,7 +308,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
-    "kategorie": "bier"
+    "kategorie": "bier",
+    "allergene": "Enthält: Gerstenmalz (Gluten)"
   },
   {
     "ean": "4006693800138",
@@ -296,7 +321,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
-    "kategorie": "bier"
+    "kategorie": "bier",
+    "allergene": "Enthält: Gerstenmalz (Gluten)"
   },
   {
     "ean": "42022091",
@@ -308,7 +334,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
-    "kategorie": "bier"
+    "kategorie": "bier",
+    "allergene": "Enthält: Gerstenmalz (Gluten)"
   },
   {
     "ean": "42268888",
@@ -320,7 +347,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "giesinger_erhellung_kasten.png",
     "bild_flasche": "giesinger_erhellung_flasche.png",
-    "kategorie": "bier"
+    "kategorie": "bier",
+    "allergene": "Enthält: Gerstenmalz (Gluten)"
   },
   {
     "ean": "4036328000015",
@@ -332,7 +360,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
-    "kategorie": "bier"
+    "kategorie": "bier",
+    "allergene": "Enthält: Gerstenmalz (Gluten)"
   },
   {
     "ean": "4066600251101",
@@ -344,7 +373,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
-    "kategorie": "bier"
+    "kategorie": "bier",
+    "allergene": "Enthält: Gerstenmalz (Gluten)"
   },
   {
     "ean": "4066600242024",
@@ -356,7 +386,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
-    "kategorie": "bier"
+    "kategorie": "bier",
+    "allergene": "Enthält: Weizenmalz, Gerstenmalz (Gluten)"
   },
   {
     "ean": "4066600231011",
@@ -368,7 +399,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
-    "kategorie": "bier"
+    "kategorie": "bier",
+    "allergene": "Enthält: Gerstenmalz (Gluten)"
   },
   {
     "ean": "4260226252300",
@@ -380,7 +412,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
-    "kategorie": "bier"
+    "kategorie": "bier",
+    "allergene": "Enthält: Gerstenmalz (Gluten)"
   },
   {
     "ean": "4066600641964",
@@ -392,7 +425,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
-    "kategorie": "bier"
+    "kategorie": "bier",
+    "allergene": "Enthält: Weizenmalz, Gerstenmalz (Gluten)"
   },
   {
     "ean": "4012852001650",
@@ -404,7 +438,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "lammsbraeu_bio_alkoholfrei_kasten.png",
     "bild_flasche": "lammsbraeu_bio_alkoholfrei_flasche.png",
-    "kategorie": "bier"
+    "kategorie": "bier",
+    "allergene": "Enthält: Gerstenmalz (Gluten)"
   },
   {
     "ean": "4012852001056",
@@ -416,7 +451,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "lammsbraeu_zzzisch_flasche.png",
     "bild_flasche": "lammsbraeu_zzzisch_flasche.png",
-    "kategorie": "bier"
+    "kategorie": "bier",
+    "allergene": "Enthält: Gerstenmalz (Gluten)"
   },
   {
     "ean": "4066600242918",
@@ -428,7 +464,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
-    "kategorie": "bier"
+    "kategorie": "bier",
+    "allergene": "Enthält: Weizenmalz, Gerstenmalz (Gluten)"
   },
   {
     "ean": "42043362",
@@ -440,7 +477,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
-    "kategorie": "bier"
+    "kategorie": "bier",
+    "allergene": "Enthält: Weizenmalz, Gerstenmalz (Gluten)"
   },
   {
     "ean": "42043379",
@@ -452,7 +490,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
-    "kategorie": "bier"
+    "kategorie": "bier",
+    "allergene": "Enthält: Weizenmalz, Gerstenmalz (Gluten)"
   },
   {
     "ean": "42230755",
@@ -464,7 +503,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
-    "kategorie": "bier"
+    "kategorie": "bier",
+    "allergene": "Enthält: Weizenmalz, Gerstenmalz (Gluten)"
   },
   {
     "ean": "4025435101081",
@@ -476,7 +516,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
-    "kategorie": "bier"
+    "kategorie": "bier",
+    "allergene": "Enthält: Gerstenmalz (Gluten)"
   },
   {
     "ean": "75033927",
@@ -488,7 +529,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
-    "kategorie": "bier"
+    "kategorie": "bier",
+    "allergene": "Enthält: Gerstenmalz (Gluten)"
   },
   {
     "ean": "4025435101173",
@@ -500,7 +542,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
-    "kategorie": "bier"
+    "kategorie": "bier",
+    "allergene": "Enthält: Gerstenmalz (Gluten)"
   },
   {
     "ean": "40534534",
@@ -512,7 +555,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "clausthaler_original_alkoholfrei_kasten.png",
     "bild_flasche": "clausthaler_original_alkoholfrei_flasche.png",
-    "kategorie": "bier"
+    "kategorie": "bier",
+    "allergene": "Enthält: Gerstenmalz (Gluten)"
   },
   {
     "ean": "4008948194016",
@@ -524,7 +568,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "jever_fun_alkoholfrei_kasten.png",
     "bild_flasche": "jever_fun_alkoholfrei_flasche.png",
-    "kategorie": "bier"
+    "kategorie": "bier",
+    "allergene": "Enthält: Gerstenmalz (Gluten)"
   },
   {
     "ean": "4008948027000",
@@ -536,7 +581,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "jever_pilsener_0_5_kasten.png",
     "bild_flasche": "jever_pilsener_0_5_flasche.png",
-    "kategorie": "bier"
+    "kategorie": "bier",
+    "allergene": "Enthält: Gerstenmalz (Gluten)"
   },
   {
     "ean": "3155930001324",
@@ -548,7 +594,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
-    "kategorie": "bier"
+    "kategorie": "bier",
+    "allergene": "Enthält: Gerstenmalz (Gluten)"
   },
   {
     "ean": "42111202",
@@ -560,7 +607,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
-    "kategorie": "bier"
+    "kategorie": "bier",
+    "allergene": "Enthält: Gerstenmalz (Gluten)"
   },
   {
     "ean": "41001301",
@@ -572,7 +620,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
-    "kategorie": "bier"
+    "kategorie": "bier",
+    "allergene": "Enthält: Gerstenmalz (Gluten)"
   },
   {
     "ean": "4006878005211",
@@ -1040,7 +1089,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "allergene": "Enthält: Gerstenmalz (Gluten)"
   },
   {
     "ean": "4027425000756",
@@ -2246,7 +2296,8 @@
     "pfand_sechser": 0.0,
     "bild": "bulgarini_lugana_0_75.jpg",
     "kategorie": "wein_spirituosen",
-    "einheit": "Flasche"
+    "einheit": "Flasche",
+    "allergene": "Enthält: Sulfite"
   },
   {
     "ean": "42213277",
@@ -2282,7 +2333,8 @@
     "pfand_sechser": 0.0,
     "bild": "kessler_zink_chardonnay_trocken_flasche.png",
     "kategorie": "wein_spirituosen",
-    "einheit": "Flasche"
+    "einheit": "Flasche",
+    "allergene": "Enthält: Sulfite"
   },
   {
     "ean": "4011474305023",
@@ -2294,7 +2346,8 @@
     "pfand_sechser": 0.0,
     "bild": "kessler_zink_chardonnay_trocken_flasche.png",
     "kategorie": "wein_spirituosen",
-    "einheit": "Flasche"
+    "einheit": "Flasche",
+    "allergene": "Enthält: Sulfite"
   },
   {
     "ean": "4011474305009",
@@ -2306,7 +2359,8 @@
     "pfand_sechser": 0.0,
     "bild": "kessler_zink_merlot_la_corona_flasche.png",
     "kategorie": "wein_spirituosen",
-    "einheit": "Flasche"
+    "einheit": "Flasche",
+    "allergene": "Enthält: Sulfite"
   },
   {
     "ean": "4011474300165",
@@ -2318,7 +2372,8 @@
     "pfand_sechser": 0.0,
     "bild": "kessler_zink_grauer_burgunder_trocken_flasche.png",
     "kategorie": "wein_spirituosen",
-    "einheit": "Flasche"
+    "einheit": "Flasche",
+    "allergene": "Enthält: Sulfite"
   },
   {
     "ean": "8003373030201",
@@ -2330,7 +2385,8 @@
     "pfand_sechser": 0.0,
     "bild": "ca'_vegar_lugana_0_75.jpg",
     "kategorie": "wein_spirituosen",
-    "einheit": "Flasche"
+    "einheit": "Flasche",
+    "allergene": "Enthält: Sulfite"
   },
   {
     "ean": "4067700011015",
@@ -2354,7 +2410,8 @@
     "pfand_sechser": 0.0,
     "bild": "stettner_toro_spumante_flasche.png",
     "kategorie": "wein_spirituosen",
-    "einheit": "Flasche"
+    "einheit": "Flasche",
+    "allergene": "Enthält: Sulfite"
   },
   {
     "ean": "3057230000277",
@@ -2366,7 +2423,8 @@
     "pfand_sechser": 0.0,
     "bild": "lillet_rose_0_75.jpg",
     "kategorie": "wein_spirituosen",
-    "einheit": "Flasche"
+    "einheit": "Flasche",
+    "allergene": "Enthält: Sulfite"
   },
   {
     "ean": "8006550301040",
@@ -2414,7 +2472,8 @@
     "pfand_sechser": 0.0,
     "bild": "valdo_prosecco_0_75.jpg",
     "kategorie": "wein_spirituosen",
-    "einheit": "Flasche"
+    "einheit": "Flasche",
+    "allergene": "Enthält: Sulfite"
   },
   {
     "ean": "4006606078319",
@@ -2426,7 +2485,8 @@
     "pfand_sechser": 0.0,
     "bild": "stettner_hugo_alkoholfrei_flasche.png",
     "kategorie": "wein_spirituosen",
-    "einheit": "Flasche"
+    "einheit": "Flasche",
+    "allergene": "Enthält: Sulfite"
   },
   {
     "ean": "4006606760016",
@@ -2438,7 +2498,8 @@
     "pfand_sechser": 0.0,
     "bild": "stettner_hugo_flasche.png",
     "kategorie": "wein_spirituosen",
-    "einheit": "Flasche"
+    "einheit": "Flasche",
+    "allergene": "Enthält: Sulfite"
   },
   {
     "ean": "4006606077510",
@@ -2450,7 +2511,8 @@
     "pfand_sechser": 0.0,
     "bild": "stettner_sprizz_flasche.png",
     "kategorie": "wein_spirituosen",
-    "einheit": "Flasche"
+    "einheit": "Flasche",
+    "allergene": "Enthält: Sulfite"
   },
   {
     "ean": "4006606076810",
@@ -2462,7 +2524,8 @@
     "pfand_sechser": 0.0,
     "bild": "stettner_sprizz_alkoholfrei_flasche.png",
     "kategorie": "wein_spirituosen",
-    "einheit": "Flasche"
+    "einheit": "Flasche",
+    "allergene": "Enthält: Sulfite"
   },
   {
     "ean": "4006606700111",
@@ -2474,7 +2537,8 @@
     "pfand_sechser": 0.0,
     "bild": "stettner_secco_bianco_flasche.png",
     "kategorie": "wein_spirituosen",
-    "einheit": "Flasche"
+    "einheit": "Flasche",
+    "allergene": "Enthält: Sulfite"
   },
   {
     "ean": "678247683135",
@@ -2486,7 +2550,8 @@
     "pfand_sechser": 0.0,
     "bild": "gutmayer_gruener_veltliner_flasche.png",
     "kategorie": "wein_spirituosen",
-    "einheit": "Flasche"
+    "einheit": "Flasche",
+    "allergene": "Enthält: Sulfite"
   },
   {
     "ean": "678247683142",
@@ -2498,7 +2563,8 @@
     "pfand_sechser": 0.0,
     "bild": "gutmayer_blauer_zweigelt_flasche.png",
     "kategorie": "wein_spirituosen",
-    "einheit": "Flasche"
+    "einheit": "Flasche",
+    "allergene": "Enthält: Sulfite"
   },
   {
     "ean": "4101660300014",
@@ -2511,7 +2577,8 @@
     "bild_kasten": "augusta_weinschorle_sauer_0_5_glas_kasten.png",
     "bild_flasche": "augusta_weinschorle_sauer_0_5_glas_flasche.png",
     "kategorie": "wein_spirituosen",
-    "einheit": "Kasten"
+    "einheit": "Kasten",
+    "allergene": "Enthält: Sulfite"
   },
   {
     "ean": "4270001990907",
@@ -2524,7 +2591,8 @@
     "bild_kasten": "winzz_weinschorle_sauer_flasche.png",
     "bild_flasche": "winzz_weinschorle_sauer_flasche.png",
     "kategorie": "wein_spirituosen",
-    "einheit": "Kasten"
+    "einheit": "Kasten",
+    "allergene": "Enthält: Sulfite"
   },
   {
     "ean": "4270001990945",
@@ -2537,6 +2605,7 @@
     "bild_kasten": "winzz_weinschorle_rose_flasche.png",
     "bild_flasche": "winzz_weinschorle_rose_flasche.png",
     "kategorie": "wein_spirituosen",
-    "einheit": "Kasten"
+    "einheit": "Kasten",
+    "allergene": "Enthält: Sulfite"
   }
 ]

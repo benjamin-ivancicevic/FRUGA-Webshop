@@ -92,30 +92,50 @@ function zeigeProdukteImWarenkorb(produkte) {
         });
 
         if (matchingProduct) {
-            // 1. WELCHER PREIS GILT? (Kasten oder 6er-Pack)
+            // 1. WELCHER PREIS UND WELCHES BILD GILT?
+
             let itemPreis = 0;
             let itemPfand = 0;
             let artText = "";
+            let itemBild = matchingProduct.bild; // Standardbild
 
             if (produktArt === "Kasten" || produktArt === "kasten") {
                 itemPreis = matchingProduct.preis_kasten;
                 itemPfand = matchingProduct.pfand_kasten;
                 artText = "Kasten";
+                if (matchingProduct.bild_kasten) {
+                    itemBild = matchingProduct.bild_kasten;
+                }
+                
+            } else if (produktArt === "Flasche" || produktArt === "flasche") {
+                // NEU: Logik für Weine & Spirituosen
+                // In deiner JSON ist der Preis für Flaschen unter "preis_kasten" gespeichert
+                itemPreis = matchingProduct.preis_kasten;
+                itemPfand = matchingProduct.pfand_kasten;
+                artText = "Flasche";
+                // Das itemBild bleibt hier einfach auf dem Standardbild (matchingProduct.bild)
+                
             } else {
+                // Wenn es weder Kasten noch Flasche ist, MUSS es das Sixpack sein
                 itemPreis = matchingProduct.preis_sechser;
                 itemPfand = matchingProduct.pfand_sechser;
                 artText = "6er-Pack";
+                if (matchingProduct.bild_flasche) {
+                    itemBild = matchingProduct.bild_flasche;
+                }
             }
+
+            // 2. RECHNEN: Preis mal Menge
 
             // 2. RECHNEN: Preis mal Menge
             gesamtWarenwert += (itemPreis * cartItem.quantity);
             gesamtPfand += (itemPfand * cartItem.quantity);
 
-            // 3. HTML FÜR DEN ARTIKEL BAUEN
+            // 3. HTML FÜR DEN ARTIKEL BAUEN (Jetzt mit dynamischem Bild!)
             cartSummaryHTML += `
             <div class="cart-item-container">
                 <div class="cart-item-details-grid">
-                    <img class="produkt-image" src="images/produkte/icons/${matchingProduct.bild}">
+                    <img class="produkt-image" src="images/icons/${itemBild}">
                     <div class="cart-item-details">
                         <div class="produkt-name"><strong>${matchingProduct.name}</strong> (${artText})</div>
                         <div class="produkt-price">
@@ -164,7 +184,7 @@ function zeigeProdukteImWarenkorb(produkte) {
                 <span>${gesamtSumme.toFixed(2)} €</span>
             </div>
             <a href="checkout.html"> <button class="checkout-button">Zahlungspflichtig bestellen</button> </a>
-            <p class="hinweis-text">Bezahlung erfolgt in bar bei der Lieferung,oder per Überweisung im Anschluss.</p>
+            <p class="hinweis-text">Bezahlung erfolgt in bar bei der Lieferung, oder per Überweisung im Anschluss.</p>
         </div>
     `;
 
