@@ -10,7 +10,8 @@
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "bier",
-    "allergene": "Enthält: Gerstenmalz (Gluten)"
+    "allergene": "Enthält: Gerstenmalz (Gluten)",
+    "beschreibung": "Ein herrlich süffiges, traditionelles Helles aus Rosenheim. Mit seiner milden Hopfennote und dem weichen Geschmack ein echter bayrischer Klassiker."
   },
   {
     "ean": "4105250022003",
@@ -23,7 +24,8 @@
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "bier",
-    "allergene": "Enthält: Gerstenmalz (Gluten)"
+    "allergene": "Enthält: Gerstenmalz (Gluten)",
+    "beschreibung": "Der absolute Kult-Klassiker aus München. Ein besonders mildes, spritziges und lang gelagertes Helles, das zu jedem Anlass passt."
   },
   {
     "ean": "4105250024007",
@@ -36,7 +38,8 @@
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "bier",
-    "allergene": "Enthält: Gerstenmalz (Gluten)"
+    "allergene": "Enthält: Gerstenmalz (Gluten)",
+    "beschreibung": "Das etwas kräftigere Festbier von Augustiner. Deutlich malzbetonter, mit einer leicht dunkleren Farbe und vollmundigem Geschmack."
   },
   {
     "ean": "4016843002947",
@@ -49,7 +52,8 @@
     "bild_kasten": "floetzinger_1543_0_5_kasten.png",
     "bild_flasche": "floetzinger_1543_0_5_flasche.png",
     "kategorie": "bier",
-    "allergene": "Enthält: Weizenmalz, Gerstenmalz (Gluten)"
+    "allergene": "Enthält: Weizenmalz, Gerstenmalz (Gluten)",
+    "beschreibung": "Ein besonderes Hefe-Weißbier zum Jubiläum der Traditionsbrauerei. Bernsteinfarben, fruchtig und wunderbar spritzig."
   },
   {
     "ean": "4016843002404",
@@ -62,7 +66,8 @@
     "bild_kasten": "floetzinger_maerzen_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_maerzen_helles_0_5_flasche.png",
     "kategorie": "bier",
-    "allergene": "Enthält: Gerstenmalz (Gluten)"
+    "allergene": "Enthält: Gerstenmalz (Gluten)",
+    "beschreibung": "Das Rosenheimer Herbstfest-Bier. Kräftig eingebraut, vollmundig im Geschmack und mit einer wunderbar goldenen Farbe."
   },
   {
     "ean": "4016843003982",
@@ -75,7 +80,8 @@
     "bild_kasten": "floetzinger_alkoholfrei_0_5_kasten.png",
     "bild_flasche": "floetzinger_alkoholfrei_0_5_flasche.png",
     "kategorie": "bier",
-    "allergene": "Enthält: Gerstenmalz (Gluten)"
+    "allergene": "Enthält: Gerstenmalz (Gluten)",
+    "beschreibung": "Die perfekte Alternative für Autofahrer und Sportler. Voller, echter Biergeschmack, aber ganz ohne Alkohol."
   },
   {
     "ean": "4016843004842",
@@ -88,7 +94,8 @@
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "bier",
-    "allergene": "Enthält: Gerstenmalz (Gluten)"
+    "allergene": "Enthält: Gerstenmalz (Gluten)",
+    "beschreibung": "Der erfrischende Mix aus süffigem Flötzinger Hell und spritziger Zitronenlimonade. Der ideale Durstlöscher an heißen Tagen."
   },
   {
     "ean": "4016843003944",
@@ -101,7 +108,8 @@
     "bild_kasten": "floetzinger_radler_alkoholfrei_0_5_kasten.png",
     "bild_flasche": "floetzinger_radler_alkoholfrei_0_5_flasche.png",
     "kategorie": "bier",
-    "allergene": "Enthält: Gerstenmalz (Gluten)"
+    "allergene": "Enthält: Gerstenmalz (Gluten)",
+    "beschreibung": "Kompletter Radler-Genuss ganz ohne Alkohol. Fruchtig, frisch und die perfekte Erfrischung nach dem Sport."
   },
   {
     "ean": "4016843004866",
@@ -114,7 +122,8 @@
     "bild_kasten": "floetzinger_russn_0_5_kasten.png",
     "bild_flasche": "floetzinger_russn_0_5_flasche.png",
     "kategorie": "bier",
-    "allergene": "Enthält: Weizenmalz, Gerstenmalz (Gluten)"
+    "allergene": "Enthält: Weizenmalz, Gerstenmalz (Gluten)",
+    "beschreibung": "Der klassische bayrische Weißbier-Mix. Eine harmonische Mischung aus fruchtigem Weißbier und spritziger Zitronenlimonade."
   },
   {
     "ean": "4016843002992",
@@ -127,7 +136,8 @@
     "bild_kasten": "bierbichler_weißbier_0_5_kasten.png",
     "bild_flasche": "bierbichler_weißbier_0_5_flasche.png",
     "kategorie": "bier",
-    "allergene": "Enthält: Weizenmalz, Gerstenmalz (Gluten)"
+    "allergene": "Enthält: Weizenmalz, Gerstenmalz (Gluten)",
+    "beschreibung": "Ein traditionsreiches Weißbier mit feiner Hefetrübung. Überzeugt durch sein fruchtiges Aroma und die feine Bananennote."
   },
   {
     "ean": "4006693800114",
@@ -140,7 +150,8 @@
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "bier",
-    "allergene": "Enthält: Gerstenmalz (Gluten)"
+    "allergene": "Enthält: Gerstenmalz (Gluten)",
+    "beschreibung": "Ein goldgelbes, feinwürziges Helles mit einer eleganten Hopfennote. Süffig und herrlich erfrischend."
   },
   {
     "ean": "4006693800183",
@@ -153,7 +164,8 @@
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "bier",
-    "allergene": "Enthält: Weizenmalz, Gerstenmalz (Gluten)"
+    "allergene": "Enthält: Weizenmalz, Gerstenmalz (Gluten)",
+    "beschreibung": "Ein spritziges und naturtrübes Hefe-Weißbier. Herrlich erfrischend mit der typisch bayrischen Fruchtigkeit."
   },
   {
     "ean": "4006699083610",
@@ -166,7 +178,8 @@
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "bier",
-    "allergene": "Enthält: Gerstenmalz (Gluten)"
+    "allergene": "Enthält: Gerstenmalz (Gluten)",
+    "beschreibung": "Naturtrüber Biergenuss trifft auf fruchtige Zitrone. Ein weniger süßes, dafür umso erfrischenderes Biermischgetränk."
   },
   {
     "ean": "4006693800138",
@@ -179,7 +192,8 @@
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "bier",
-    "allergene": "Enthält: Gerstenmalz (Gluten)"
+    "allergene": "Enthält: Gerstenmalz (Gluten)",
+    "beschreibung": "Das kräftige Premium-Helle von Auer Bräu. Etwas stärker eingebraut, vollmundig und malzbetont im Charakter."
   },
   {
     "ean": "4006693800190",
@@ -192,7 +206,8 @@
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "bier",
-    "allergene": "Enthält: Gerstenmalz (Gluten)"
+    "allergene": "Enthält: Gerstenmalz (Gluten)",
+    "beschreibung": "Ein unfiltriertes, naturtrübes Kellerbier in der handlichen 0,33l Flasche. Sehr süffig und mit vollen, natürlichen Aromen."
   },
   {
     "ean": "4006693800220",
@@ -205,7 +220,8 @@
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "bier",
-    "allergene": "Enthält: Gerstenmalz (Gluten)"
+    "allergene": "Enthält: Gerstenmalz (Gluten)",
+    "beschreibung": "Die kleine Erfrischung für zwischendurch. Spritziges Radler in der kultigen 0,33l Flasche."
   },
   {
     "ean": "4260604750053",
@@ -218,7 +234,8 @@
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "bier",
-    "allergene": "Enthält: Gerstenmalz (Gluten)"
+    "allergene": "Enthält: Gerstenmalz (Gluten)",
+    "beschreibung": "Ein handwerklich gebrautes, unfiltriertes Zwicklbier. Voller Geschmack, naturbelassen und unglaublich süffig."
   },
   {
     "ean": "4260604750084",
@@ -231,7 +248,8 @@
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "bier",
-    "allergene": "Enthält: Gerstenmalz (Gluten)"
+    "allergene": "Enthält: Gerstenmalz (Gluten)",
+    "beschreibung": "Alkoholfreies Craft-Bier mit vollem Aroma. Perfekt kaltgehopft für eine zitrusartige, spritzige Frische ohne Reue."
   },
   {
     "ean": "4022396000026",
@@ -244,7 +262,8 @@
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "bier",
-    "allergene": "Enthält: Gerstenmalz (Gluten)"
+    "allergene": "Enthält: Gerstenmalz (Gluten)",
+    "beschreibung": "Eines der beliebtesten Hellen Bayerns. Frisch, würzig und mit einer legendären Süffigkeit aus dem Brauhaus am Tegernsee."
   },
   {
     "ean": "4022396000033",
@@ -257,7 +276,8 @@
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "bier",
-    "allergene": "Enthält: Gerstenmalz (Gluten)"
+    "allergene": "Enthält: Gerstenmalz (Gluten)",
+    "beschreibung": "Das kräftige Spezialbier vom Tegernsee. Etwas intensiver im Geschmack und goldgelb leuchtend im Glas."
   },
   {
     "ean": "4022396000057",
@@ -270,7 +290,8 @@
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "bier",
-    "allergene": "Enthält: Gerstenmalz (Gluten)"
+    "allergene": "Enthält: Gerstenmalz (Gluten)",
+    "beschreibung": "Ein feinherbes, schlankes Pilsener in der 0,33l Flasche. Elegant gehopft nach bester Tegernseer Brautradition."
   },
   {
     "ean": "4220138",
@@ -283,7 +304,8 @@
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "bier",
-    "allergene": "Enthält: Gerstenmalz (Gluten)"
+    "allergene": "Enthält: Gerstenmalz (Gluten)",
+    "beschreibung": "Mehrfach prämiertes Helles aus der Schlossbrauerei Maxlrain. Klassisch, mild und unglaublich rund im Geschmack."
   },
   {
     "ean": "42065333",
@@ -296,7 +318,8 @@
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "bier",
-    "allergene": "Enthält: Gerstenmalz (Gluten)"
+    "allergene": "Enthält: Gerstenmalz (Gluten)",
+    "beschreibung": "Traditionelles bayrisches Helles aus Grafing. Angenehm würzig, ehrlich und herrlich erfrischend."
   },
   {
     "ean": "4260449220124",
@@ -309,7 +332,8 @@
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "bier",
-    "allergene": "Enthält: Gerstenmalz (Gluten)"
+    "allergene": "Enthält: Gerstenmalz (Gluten)",
+    "beschreibung": "Junges, dynamisches Craft-Helles aus Waakirchen. Mild, leicht gehopft und extrem süffig - modern interpretiert."
   },
   {
     "ean": "4006693800138",
@@ -322,7 +346,8 @@
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "bier",
-    "allergene": "Enthält: Gerstenmalz (Gluten)"
+    "allergene": "Enthält: Gerstenmalz (Gluten)",
+    "beschreibung": "Ein kräftiges, kaltgehopftes alkoholfreies Bier. So viel Geschmack, dass man den Alkohol absolut nicht vermisst."
   },
   {
     "ean": "42022091",
@@ -335,7 +360,8 @@
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "bier",
-    "allergene": "Enthält: Gerstenmalz (Gluten)"
+    "allergene": "Enthält: Gerstenmalz (Gluten)",
+    "beschreibung": "Das Aushängeschild der Traunsteiner Brauerei. Mild gehopft, wunderbar malzig und berühmt für seine Qualität."
   },
   {
     "ean": "42268888",
@@ -348,7 +374,8 @@
     "bild_kasten": "giesinger_erhellung_kasten.png",
     "bild_flasche": "giesinger_erhellung_flasche.png",
     "kategorie": "bier",
-    "allergene": "Enthält: Gerstenmalz (Gluten)"
+    "allergene": "Enthält: Gerstenmalz (Gluten)",
+    "beschreibung": "Das unfiltrierte Kultbier aus München-Giesing. Naturtrüb, charakterstark und mit vollen Hefe-Aromen."
   },
   {
     "ean": "4036328000015",
@@ -361,7 +388,8 @@
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "bier",
-    "allergene": "Enthält: Gerstenmalz (Gluten)"
+    "allergene": "Enthält: Gerstenmalz (Gluten)",
+    "beschreibung": "Mehrfacher Goldmedaillen-Gewinner. Ein sensationell rundes Helles mit einer feinen, edlen Bitternote."
   },
   {
     "ean": "4066600251101",
@@ -374,7 +402,8 @@
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "bier",
-    "allergene": "Enthält: Gerstenmalz (Gluten)"
+    "allergene": "Enthält: Gerstenmalz (Gluten)",
+    "beschreibung": "Der Inbegriff des Münchner Hellen. Glanzfein, wunderbar harmonisch und mit einem leichten, eleganten Malzaroma."
   },
   {
     "ean": "4066600242024",
@@ -387,7 +416,8 @@
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "bier",
-    "allergene": "Enthält: Weizenmalz, Gerstenmalz (Gluten)"
+    "allergene": "Enthält: Weizenmalz, Gerstenmalz (Gluten)",
+    "beschreibung": "Naturtrübes Weißbier kombiniert mit spritziger Zitrone – und das komplett alkoholfrei (0,0%)."
   },
   {
     "ean": "4066600231011",
@@ -400,7 +430,8 @@
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "bier",
-    "allergene": "Enthält: Gerstenmalz (Gluten)"
+    "allergene": "Enthält: Gerstenmalz (Gluten)",
+    "beschreibung": "Der echte Münchner Hell-Geschmack, frisch, vollmundig und würzig, aber völlig ohne Alkohol."
   },
   {
     "ean": "4260226252300",
@@ -413,7 +444,8 @@
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "bier",
-    "allergene": "Enthält: Gerstenmalz (Gluten)"
+    "allergene": "Enthält: Gerstenmalz (Gluten)",
+    "beschreibung": "Ein klassisches, helles Lager aus der innovativen Camba Bavaria Brauerei am Chiemsee. Frisch und angenehm mild."
   },
   {
     "ean": "4066600641964",
@@ -426,7 +458,8 @@
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "bier",
-    "allergene": "Enthält: Weizenmalz, Gerstenmalz (Gluten)"
+    "allergene": "Enthält: Weizenmalz, Gerstenmalz (Gluten)",
+    "beschreibung": "Deutschlands Weißbier Nummer 1. Naturtrüb, samtig golden im Glas und mit feinen Aromen von Mango und Banane."
   },
   {
     "ean": "4012852001650",
@@ -439,7 +472,8 @@
     "bild_kasten": "lammsbraeu_bio_alkoholfrei_kasten.png",
     "bild_flasche": "lammsbraeu_bio_alkoholfrei_flasche.png",
     "kategorie": "bier",
-    "allergene": "Enthält: Gerstenmalz (Gluten)"
+    "allergene": "Enthält: Gerstenmalz (Gluten)",
+    "beschreibung": "100% Bio-Qualität aus Neumarkt. Ein echtes Premium-Alkoholfreies mit feiner Malzsüße und angenehmer Hopfenbittere."
   },
   {
     "ean": "4012852001056",
@@ -452,7 +486,8 @@
     "bild_kasten": "lammsbraeu_zzzisch_flasche.png",
     "bild_flasche": "lammsbraeu_zzzisch_flasche.png",
     "kategorie": "bier",
-    "allergene": "Enthält: Gerstenmalz (Gluten)"
+    "allergene": "Enthält: Gerstenmalz (Gluten)",
+    "beschreibung": "Das feinherbe Zzzisch Edelpils in feinster Bio-Qualität. Schlank im Körper und mit charakteristischer Hopfennote."
   },
   {
     "ean": "4066600242918",
@@ -465,7 +500,8 @@
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "bier",
-    "allergene": "Enthält: Weizenmalz, Gerstenmalz (Gluten)"
+    "allergene": "Enthält: Weizenmalz, Gerstenmalz (Gluten)",
+    "beschreibung": "Der ideale, isotonische Durstlöscher für aktive Menschen. Voller Weißbier-Genuss, völlig ohne Alkohol."
   },
   {
     "ean": "42043362",
@@ -478,7 +514,8 @@
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "bier",
-    "allergene": "Enthält: Weizenmalz, Gerstenmalz (Gluten)"
+    "allergene": "Enthält: Weizenmalz, Gerstenmalz (Gluten)",
+    "beschreibung": "Das dunkle Weißbier-Original aus Haag. Urig, hefetrüb und mit unverwechselbaren, röstmalzigen Karamellnoten."
   },
   {
     "ean": "42043379",
@@ -491,7 +528,8 @@
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "bier",
-    "allergene": "Enthält: Weizenmalz, Gerstenmalz (Gluten)"
+    "allergene": "Enthält: Weizenmalz, Gerstenmalz (Gluten)",
+    "beschreibung": "Kalorienreduziert und leichter im Alkohol, aber typisch Unertl: aromatisch, hefetrüb und wunderbar erfrischend."
   },
   {
     "ean": "42230755",
@@ -504,7 +542,8 @@
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "bier",
-    "allergene": "Enthält: Weizenmalz, Gerstenmalz (Gluten)"
+    "allergene": "Enthält: Weizenmalz, Gerstenmalz (Gluten)",
+    "beschreibung": "Das beliebte Haager Weißbier als isotonische, alkoholfreie Variante. Kräftig in Farbe und Geschmack."
   },
   {
     "ean": "4025435101081",
@@ -517,7 +556,8 @@
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "bier",
-    "allergene": "Enthält: Gerstenmalz (Gluten)"
+    "allergene": "Enthält: Gerstenmalz (Gluten)",
+    "beschreibung": "Goldgelb und feinwürzig: Das beliebte Helle aus dem Chiemgau. Nach traditionellem Rezept gebraut."
   },
   {
     "ean": "75033927",
@@ -530,7 +570,8 @@
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "bier",
-    "allergene": "Enthält: Gerstenmalz (Gluten)"
+    "allergene": "Enthält: Gerstenmalz (Gluten)",
+    "beschreibung": "Das weltberühmte mexikanische Premium-Lagerbier. Eiskalt und am besten mit einem Stückchen Limette im Flaschenhals serviert."
   },
   {
     "ean": "4025435101173",
@@ -543,7 +584,8 @@
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "bier",
-    "allergene": "Enthält: Gerstenmalz (Gluten)"
+    "allergene": "Enthält: Gerstenmalz (Gluten)",
+    "beschreibung": "Ein alkoholfreies Zwickl aus besten Bio-Zutaten. Unfiltriert, erfrischend und voller natürlicher Aromen."
   },
   {
     "ean": "40534534",
@@ -556,7 +598,8 @@
     "bild_kasten": "clausthaler_original_alkoholfrei_kasten.png",
     "bild_flasche": "clausthaler_original_alkoholfrei_flasche.png",
     "kategorie": "bier",
-    "allergene": "Enthält: Gerstenmalz (Gluten)"
+    "allergene": "Enthält: Gerstenmalz (Gluten)",
+    "beschreibung": "Der Pionier unter den alkoholfreien Bieren. Würzig-herb im Geschmack und nach speziellem Verfahren gebraut."
   },
   {
     "ean": "4008948194016",
@@ -569,7 +612,8 @@
     "bild_kasten": "jever_fun_alkoholfrei_kasten.png",
     "bild_flasche": "jever_fun_alkoholfrei_flasche.png",
     "kategorie": "bier",
-    "allergene": "Enthält: Gerstenmalz (Gluten)"
+    "allergene": "Enthält: Gerstenmalz (Gluten)",
+    "beschreibung": "Das friesisch-herbe Erlebnis ganz ohne Alkohol. Vollmundiger, hopfiger Geschmack für echte Pils-Fans."
   },
   {
     "ean": "4008948027000",
@@ -582,7 +626,8 @@
     "bild_kasten": "jever_pilsener_0_5_kasten.png",
     "bild_flasche": "jever_pilsener_0_5_flasche.png",
     "kategorie": "bier",
-    "allergene": "Enthält: Gerstenmalz (Gluten)"
+    "allergene": "Enthält: Gerstenmalz (Gluten)",
+    "beschreibung": "Ein echtes Premium-Pils. Durch das weiche Brauwasser entsteht der typisch friesisch-herbe Geschmack."
   },
   {
     "ean": "3155930001324",
@@ -595,7 +640,8 @@
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "bier",
-    "allergene": "Enthält: Gerstenmalz (Gluten)"
+    "allergene": "Enthält: Gerstenmalz (Gluten)",
+    "beschreibung": "Erfrischendes Lagerbier, meisterhaft verfeinert mit einem Schuss Tequila-Flavour. Das ultimative Partygetränk."
   },
   {
     "ean": "42111202",
@@ -608,7 +654,8 @@
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "bier",
-    "allergene": "Enthält: Gerstenmalz (Gluten)"
+    "allergene": "Enthält: Gerstenmalz (Gluten)",
+    "beschreibung": "Eiskalte Erfrischung trifft auf spritzige Zitrone. Der perfekte Biermix für warme Sommerabende."
   },
   {
     "ean": "41001301",
@@ -621,7 +668,8 @@
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "bier",
-    "allergene": "Enthält: Gerstenmalz (Gluten)"
+    "allergene": "Enthält: Gerstenmalz (Gluten)",
+    "beschreibung": "Deutschlands bekanntestes Export-Pils. Charakterstark, hopfenbetont und in der ganzen Welt zuhause."
   },
   {
     "ean": "4006878005211",
@@ -633,7 +681,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Klar gefilterter Apfelsaft aus heimischen Gärten, gemischt mit spritzigem Mineralwasser. Erfrischend und leicht."
   },
   {
     "ean": "4006878005112",
@@ -645,7 +694,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Der fruchtig-herbe Genuss dunkler Johannisbeeren gepaart mit prickelndem Wasser. Ein belebender Durstlöscher."
   },
   {
     "ean": "4006878005228",
@@ -657,7 +707,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Naturtrüber Direktsaft für den vollen, natürlichen Apfelgeschmack. Gespritzt mit spritzigem Mineralwasser."
   },
   {
     "ean": "4006878005204",
@@ -669,7 +720,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Eine leckere Kombination aus roten Beerenfrüchten und frischem Wasser. Süß, spritzig und leuchtend rot."
   },
   {
     "ean": "4016843008802",
@@ -681,7 +733,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "floetzinger_apfelschore_naturtrueb_0_5_flasche.png",
     "bild_flasche": "floetzinger_apfelschore_naturtrueb_0_5_flasche.png",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Der natürliche Apfelgeschmack. Naturtrüb belassen und perfekt ausbalanciert mit feiner Kohlensäure."
   },
   {
     "ean": "4016843004484",
@@ -693,7 +746,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "floetzinger_kracherl_apfel_johannisbeere_0_5_kasten.png",
     "bild_flasche": "floetzinger_kracherl_apfel_johannisbeere_0_5_flasche.png",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Ein Kracherl wie früher! Süßer Apfel trifft auf herbe Johannisbeere – eine fruchtige Explosion."
   },
   {
     "ean": "4016843004309",
@@ -705,7 +759,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "floetzinger_orangen_limonade_0_5_kasten.png",
     "bild_flasche": "floetzinger_orangen_limonade_0_5_flasche.png",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Der Klassiker für Kids und Erwachsene. Sonnige, süße Orangenlimonade, die einfach gute Laune macht."
   },
   {
     "ean": "4016843004507",
@@ -717,7 +772,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "floetzinger_cola_mix_0_5_kasten.png",
     "bild_flasche": "floetzinger_cola_mix_0_5_flasche.png",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Die perfekte Spezi-Mischung aus Rosenheim. Fruchtige Orange trifft auf würzige Cola."
   },
   {
     "ean": "4016843004514",
@@ -729,7 +785,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "floetzinger_cola_mix_zero_0_5_kasten.png",
     "bild_flasche": "floetzinger_cola_mix_zero_0_5_flasche.png",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Der beliebte Cola Mix von Flötzinger, jedoch komplett zuckerfrei für leichten Genuss."
   },
   {
     "ean": "4016843004002",
@@ -741,7 +798,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "floetzinger_zitronen_limonade_0_5_kasten.png",
     "bild_flasche": "floetzinger_zitronen_limonade_0_5_flasche.png",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Herrlich spritzig und angenehm säuerlich. Eine klare Zitronenlimonade, ideal als Durstlöscher oder fürs Radler."
   },
   {
     "ean": "4015843004453",
@@ -753,7 +811,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "floetzinger_apfelschore_regional_0_5_kasten.png",
     "bild_flasche": "floetzinger_apfelschore_regional_0_5_flasche.png",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Mit bestem Apfelsaft aus regionalen Streuobstwiesen gekeltert. Schmeckt nach echter Heimat."
   },
   {
     "ean": "4066600603405",
@@ -765,7 +824,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Das Original! Der unverwechselbare Cola-Orangen-Mix, den nicht nur in Bayern jeder liebt."
   },
   {
     "ean": "4066600603405",
@@ -777,7 +837,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Der legendäre Spezi-Geschmack von Paulaner, jetzt auch mit null Zucker und wenig Kalorien."
   },
   {
     "ean": "4016843008819",
@@ -789,7 +850,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "floetzinger_johannisbeer_nektar_schorle_0_5_flasche.png",
     "bild_flasche": "floetzinger_johannisbeer_nektar_schorle_0_5_flasche.png",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Intensive, dunkle Johannisbeere trifft auf feinperliges Mineralwasser. Angenehm herb und fruchtig."
   },
   {
     "ean": "87126853",
@@ -801,7 +863,8 @@
     "pfand_sechser": 0.9,
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Das koffeinhaltige Kultgetränk aus den USA. Eiskalt serviert ein zeitloser Genuss."
   },
   {
     "ean": "90357879",
@@ -813,7 +876,8 @@
     "pfand_sechser": 0.9,
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Echter Coca Cola Geschmack ganz ohne Zucker. Perfekt für den leichten Erfrischungsmoment."
   },
   {
     "ean": "87126860",
@@ -825,7 +889,8 @@
     "pfand_sechser": 0.9,
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Fruchtiger Orangengeschmack, leuchtende Farbe und viel Kohlensäure. Der Limonaden-Klassiker."
   },
   {
     "ean": "50112135",
@@ -837,7 +902,8 @@
     "pfand_sechser": 0.9,
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Glasklare, spritzige Limonade mit dem intensiven, frischen Geschmack von Zitrone und Limette."
   },
   {
     "ean": "4260107220015",
@@ -849,7 +915,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "fritz_kola_classic_glas_kasten.png",
     "bild_flasche": "fritz_kola_classic_glas_flasche.png",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Die Indie-Kola aus Hamburg! Vielviel Koffein und eine leichte Zitrusnote machen sie so besonders."
   },
   {
     "ean": "4260107220022",
@@ -861,7 +928,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "fritz_kola_classic_light_glas_kasten.png",
     "bild_flasche": "fritz_kola_classic_light_glas_flasche.png",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Volle Koffein-Power, aber mit weniger Süße. Die kalorienreduzierte Alternative von Fritz."
   },
   {
     "ean": "4260629550096",
@@ -873,7 +941,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "fritz_kola_zero_glas_kasten.png",
     "bild_flasche": "fritz_kola_zero_glas_flasche.png",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Null Zucker, aber 100% Fritz. Stark koffeinhaltig für die langen Nächte."
   },
   {
     "ean": "42031864",
@@ -885,7 +954,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "frucade_colamix_0_5_glas_kasten.png",
     "bild_flasche": "frucade_colamix_0_5_glas_flasche.png",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Koffeinhaltiges Erfrischungsgetränk mit dem ausgewogenen Mix aus fruchtiger Orange und würziger Cola."
   },
   {
     "ean": "42030164",
@@ -897,7 +967,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "frucade_zitronenlimonade_0_5_glas_kasten.png",
     "bild_flasche": "frucade_zitronenlimonade_0_5_glas_flasche.png",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Trüb, fruchtig und angenehm sauer. Ein durstlöschender Limonadenklassiker aus Süddeutschland."
   },
   {
     "ean": "42030232",
@@ -909,7 +980,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "frucade_sport_grapefruit_zitrone_0_5_glas_kasten.png",
     "bild_flasche": "frucade_sport_grapefruit_zitrone_0_5_glas_flasche.png",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Isotonisch und fruchtig-herb. Die ideale Begleitung beim Sport oder an aktiven Tagen."
   },
   {
     "ean": "42045694",
@@ -921,7 +993,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "frucade_orangenlimonade_0_5_glas_kasten.png",
     "bild_flasche": "frucade_orangenlimonade_0_5_glas_flasche.png",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Viel Frucht, viel Geschmack. Ein intensiv-orangiges Limonadenerlebnis, das an Kindheitstage erinnert."
   },
   {
     "ean": "42030249",
@@ -933,7 +1006,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "frucade_apfelschorle_0_5_glas_kasten.png",
     "bild_flasche": "frucade_apfelschorle_0_5_glas_flasche.png",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Mit hohem Fruchtsaftanteil für ein ausgewogenes Verhältnis von Süße, Säure und prickelndem Wasser."
   },
   {
     "ean": "4105750000747",
@@ -945,7 +1019,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Das Augsburger Original, das dem Cola-Mix seinen Namen gab. Unverwechselbar fruchtig-würzig."
   },
   {
     "ean": "4105750000754",
@@ -957,7 +1032,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Voller Spezi-Geschmack für Kalorienbewusste. Zuckerfrei, aber mit dem originalen Cola-Orangen-Aroma."
   },
   {
     "ean": "4104580070609",
@@ -969,7 +1045,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Der Energie-Kick mit Spezi-Geschmack! Extra Taurin und Koffein in der handlichen Dose/Flasche."
   },
   {
     "ean": "4014472280095",
@@ -981,7 +1058,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Biologisch gebraut und herrlich zitronig. Weniger süß als herkömmliche Limos und erfrischend trüb."
   },
   {
     "ean": "4014472002512",
@@ -993,7 +1071,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Der Bionade-Klassiker schlechthin. Leicht süßliche Holunder-Noten treffen auf das einzigartig gebraute Erfrischungsgetränk."
   },
   {
     "ean": "4053400201634",
@@ -1005,7 +1084,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Spannende Bio-Limo, bei der fruchtige Johannisbeere auf eine feine, würzige Rosmarinnote trifft."
   },
   {
     "ean": "4014472002529",
@@ -1017,7 +1097,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Süße Orange harmoniert hier perfekt mit der leichten, anregenden Schärfe von echtem Bio-Ingwer."
   },
   {
     "ean": "4014472281719",
@@ -1029,7 +1110,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Eine edle Zitrus-Kombination. Erfrischende Zitrone wird durch das herbe, floral-fruchtige Aroma der Bergamotte ergänzt."
   },
   {
     "ean": "4014472002482",
@@ -1041,7 +1123,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Feinherb und einzigartig im Geschmack. Gebraut aus echten Kräutern für ein erfrischend anderes Limo-Erlebnis."
   },
   {
     "ean": "414472280101",
@@ -1053,7 +1136,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Viel Bio-Frucht und weniger Zucker machen diese naturtrübe Orangenlimo zur perfekten Erfrischung."
   },
   {
     "ean": "4029764001807",
@@ -1065,7 +1149,8 @@
     "pfand_sechser": 0.9,
     "bild_kasten": "club_mate_original_glas_kasten.png",
     "bild_flasche": "club_mate_original_glas_flasche.png",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Der kultige, koffeinhaltige Wachmacher aus Südamerika-Mate. Herbes, prickelndes Eistee-Getränk für lange Tage und Nächte."
   },
   {
     "ean": "90151620",
@@ -1077,7 +1162,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Österreichs Nationalgetränk. Einzigartige, natürliche Alpenkräuter-Limonade ohne Konservierungsstoffe."
   },
   {
     "ean": "40518169",
@@ -1090,7 +1176,8 @@
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
     "kategorie": "limo_schorle",
-    "allergene": "Enthält: Gerstenmalz (Gluten)"
+    "allergene": "Enthält: Gerstenmalz (Gluten)",
+    "beschreibung": "Ein nahrhafter, dunkler Malztrunk mit charakteristischer Karamellnote. Alkoholfrei und ideal für zwischendurch."
   },
   {
     "ean": "4027425000756",
@@ -1102,7 +1189,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Isotonisches Erfrischungsgetränk mit exotischem Mangogeschmack. Perfekt, um nach dem Sport die Reserven aufzufüllen."
   },
   {
     "ean": "4027425000466",
@@ -1114,7 +1202,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Die beliebte Schorlenkombination aus heimischem Apfel und aromatischer Kirsche."
   },
   {
     "ean": "4027425000633",
@@ -1126,7 +1215,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Isotonisches Fruchtgetränk mit leckerem Kirschgeschmack zur schnellen Mineralstoffversorgung."
   },
   {
     "ean": "4027425000602",
@@ -1138,7 +1228,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Süßer, fruchtiger Pfirsich-Eistee ohne Kohlensäure. An heißen Tagen eiskalt serviert ein Genuss."
   },
   {
     "ean": "4027425000787",
@@ -1150,7 +1241,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Erfrischende Limonade aus alpinen Kräutern. Eine wunderbar natürliche und feinherbe Alternative zu klassischer Limo."
   },
   {
     "ean": "4027425000589",
@@ -1162,7 +1254,8 @@
     "pfand_sechser": 0.48,
     "bild_kasten": "floetzinger_helles_0_5_kasten.png",
     "bild_flasche": "floetzinger_helles_0_5_flasche.png",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Ein Vitamingetränk der besonderen Art, das mit einem Mix aus 10 Früchten Energie und Geschmack liefert."
   },
   {
     "ean": "4005906002680",
@@ -1173,7 +1266,8 @@
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
     "bild": "adelholzener_eistee_pfirsich_0_5_pet_kasten.png",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Natürliches Mineralwasser ohne Kohlensäure trifft auf Schwarztee-Extrakt und saftigen Pfirsichgeschmack."
   },
   {
     "ean": "4005906002697",
@@ -1184,7 +1278,8 @@
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
     "bild": "adelholzener_eistee_waldbeere_0_5_pet_kasten.png",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Köstlicher Eistee mit der fruchtigen Süße heimischer Waldbeeren. Stilvoll und erfrischend."
   },
   {
     "ean": "4005906002857",
@@ -1195,7 +1290,8 @@
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
     "bild": "adelholzener_eistee_zitrone_0_5_pet_kasten.png",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Der belebende Eistee-Klassiker. Ausgewogene Schwarztee-Aromen mit einem ordentlichen Spritzer Zitrone."
   },
   {
     "ean": "4005906002642",
@@ -1206,7 +1302,8 @@
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
     "bild": "adelholzener_zitrone_0_5_pet_kasten.png",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Feinperliges Mineralwasser gepaart mit natürlichem Zitronensaft für die ultimative Frische."
   },
   {
     "ean": "4005906002833",
@@ -1217,7 +1314,8 @@
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
     "bild": "adelholzener_johannisbeere_0_5_pet_kasten.png",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Eine intensive Schorle aus schwarzem Johannisbeersaft und reinem Alpenwasser."
   },
   {
     "ean": "4005906002277",
@@ -1228,7 +1326,8 @@
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
     "bild": "adelholzener_pfirsich_holunderbluete_0_5_pet_kasten.png",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Eine leichte, elegante Kombination. Die feine Süße des Pfirsichs wird perfekt vom blumigen Holunder ergänzt."
   },
   {
     "ean": "4005906002666",
@@ -1239,7 +1338,8 @@
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
     "bild": "adelholzener_colamix_0_5_pet_kasten.png",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Erfrischender Limonaden-Mix auf Basis von Adelholzener Mineralwasser mit Cola- und Orangengeschmack."
   },
   {
     "ean": "4005906003014",
@@ -1250,7 +1350,8 @@
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
     "bild": "adelholzener_apfel_kraeuter_0_5_pet_kasten.png",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Naturtrübe Apfelschorle, raffiniert abgestimmt mit einer feinwürzigen Alpenkräuter-Mischung."
   },
   {
     "ean": "4005906002611",
@@ -1261,7 +1362,8 @@
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
     "bild": "adelholzener_mandarine_0_5_pet_kasten.png",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Fruchtig-süße Mandarinenlimonade mit natürlichem Mineralwasser. Ein Highlight für alle Citrus-Fans."
   },
   {
     "ean": "4005906002635",
@@ -1272,7 +1374,8 @@
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
     "bild": "adelholzener_orange_0_5_pet_kasten.png",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Die klassische Orangenlimonade aus dem Chiemgau. Mit viel Kohlensäure und fruchtigem Geschmack."
   },
   {
     "ean": "4005906003045",
@@ -1283,7 +1386,8 @@
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
     "bild": "adelholzener_rote_johannisbeere_kraeuter_0_5_pet_kasten.png",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Leicht säuerliche Johannisbeere erhält durch edle Kräuterextrakte eine wunderbar milde Note."
   },
   {
     "ean": "4005906002260",
@@ -1294,7 +1398,8 @@
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
     "bild": "adelholzener_tropic_0_5_pet_kasten.png",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Ein exotischer Frucht-Cocktail mit Maracuja und Orange. Urlaubs-Feeling zum Trinken."
   },
   {
     "ean": "4005906003021",
@@ -1305,7 +1410,8 @@
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
     "bild": "adelholzener_roter_multivitamin_0_5_pet_kasten.png",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Gesunder Durstlöscher, vollgepackt mit Vitaminen aus saftigen roten Früchten und Beeren."
   },
   {
     "ean": "4005906003397",
@@ -1316,7 +1422,8 @@
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
     "bild": "adelholzener_bif_maracuja_orange_0_5_pet_kasten.png",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Mineralwasser plus Frucht: Der spritzige Mix aus exotischer Maracuja und milder Orange."
   },
   {
     "ean": "4005906002628",
@@ -1327,7 +1434,8 @@
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
     "bild": "adelholzener_limette_0_5_pet_kasten.png",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Intensives, grünes Limetten-Aroma macht diese Limonade zur perfekten, nicht zu süßen Erfrischung."
   },
   {
     "ean": "4005906003373",
@@ -1338,7 +1446,8 @@
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
     "bild": "adelholzener_bif_sunny_orange_0_5_pet_kasten.png",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Die leichte Variante der Orangenlimo. Mineralwasser mit einem Hauch sonnengereifter Orange."
   },
   {
     "ean": "4005906003366",
@@ -1349,7 +1458,8 @@
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
     "bild": "adelholzener_bif_zitrone_0_5_pet_kasten.png",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Reines Mineralwasser versetzt mit einem leichten Schuss Zitrone. Nahezu kalorienfrei und extrem frisch."
   },
   {
     "ean": "4005906002246",
@@ -1360,7 +1470,8 @@
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
     "bild": "adelholzener_orange_sport_0_5_pet_kasten.png",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Das isotonische Orangengetränk von Adelholzener. Gibt dem Körper nach dem Workout schnell Mineralien zurück."
   },
   {
     "ean": "4005906003380",
@@ -1371,7 +1482,8 @@
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
     "bild": "adelholzener_bif_grapefruit_0_5_pet_kasten.png",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Angenehm herb und zitrusartig. Leichtes Mineralwasser mit Grapefruit-Geschmack."
   },
   {
     "ean": "4005906002468",
@@ -1382,7 +1494,8 @@
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
     "bild": "adelholzener_rote_schorle_0_5_pet_kasten.png",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Die beliebte Schorle aus saftigen Äpfeln und roten Früchten wie Kirsche und Himbeere."
   },
   {
     "ean": "4005906002208",
@@ -1393,7 +1506,8 @@
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
     "bild": "adelholzener_kirsche_sport_0_5_pet_kasten.png",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Isotonisches Sportgetränk mit herb-süßem Kirschgeschmack zur optimalen Regeneration."
   },
   {
     "ean": "4005906002765",
@@ -1404,7 +1518,8 @@
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
     "bild": "adelholzener_apfelschorle_0_5_pet_kasten.png",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Eine klassische, goldgelbe Apfelschorle mit einem harmonischen Verhältnis aus Frucht und Alpenwasser."
   },
   {
     "ean": "4005906002253",
@@ -1415,7 +1530,8 @@
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
     "bild": "adelholzener_pink_grapefruit_0_5_pet_kasten.png",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Herber Grapefruit-Mix trifft auf isotonische Eigenschaften. Ideal für Ausdauersportler."
   },
   {
     "ean": "4005906002338",
@@ -1426,7 +1542,8 @@
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
     "bild": "adelholzener_kirsche_0_5_pet_kasten.png",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Die intensive Kirsch-Schorle von Adelholzener. Fruchtig, rot und extrem spritzig."
   },
   {
     "ean": "4005906002444",
@@ -1437,7 +1554,8 @@
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
     "bild": "adelholzener_brombeer_holunder_0_5_pet_kasten.png",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Ein spannender Mix aus tiefblauen Wald-Brombeeren und feinwürzigem Holunder."
   },
   {
     "ean": "4005906002383",
@@ -1448,7 +1566,8 @@
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
     "bild": "adelholzener_sport_schorle_0_5_pet_kasten.png",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Apfelschorle goes Isotonisch: Die fruchtige Apfelschorle, speziell abgestimmt für Sportler."
   },
   {
     "ean": "4005906002710",
@@ -1459,7 +1578,8 @@
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
     "bild": "adelholzener_ace_0_5_pet_kasten.png",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Kräftig-oranger Saftmix mit den wichtigen Vitaminen A, C und E. Ein vitalisierender Kick."
   },
   {
     "ean": "4005906002598",
@@ -1470,7 +1590,8 @@
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
     "bild": "adelholzener_multivitamin_0_5_pet_kasten.png",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Eine tropische Mischung aus vielen Früchten, angereichert mit wertvollen Multivitaminen."
   },
   {
     "ean": "4005906002932",
@@ -1481,7 +1602,8 @@
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
     "bild": "adelholzener_bio_zitronen_limonade_0_5p.jpg",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Eine hochwertige Bio-Limonade, die erfrischend natürlich und weniger süß schmeckt."
   },
   {
     "ean": "4000140011528",
@@ -1492,7 +1614,8 @@
     "pfand_kasten": 2.4,
     "pfand_sechser": 0.0,
     "bild": "schweppes_indian_tonic_water_1_0.jpg",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Der weltberühmte Cocktail-Klassiker mit echtem Chinin. Angenehm herb und unverzichtbar für Gin Tonic."
   },
   {
     "ean": "4000140700583",
@@ -1503,7 +1626,8 @@
     "pfand_kasten": 2.4,
     "pfand_sechser": 0.0,
     "bild": "schweppes_original_wild_berry_1_0.jpg",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Fruchtig-beeriger Mixer. Der absolute Star in Kombination mit Lillet oder weißem Wermut."
   },
   {
     "ean": "4000140716966",
@@ -1514,7 +1638,8 @@
     "pfand_kasten": 2.4,
     "pfand_sechser": 0.0,
     "bild": "schweppes_virgin_mojito_alkoholfrei_1_0.jpg",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Limette trifft Minze. Ein erfrischender, alkoholfreier Mojito direkt aus der Flasche."
   },
   {
     "ean": "4000140011498",
@@ -1525,7 +1650,8 @@
     "pfand_kasten": 2.4,
     "pfand_sechser": 0.0,
     "bild": "schweppes_original_bitter_lemon_1_0.jpg",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Ein zitronig-herbes Erfrischungsgetränk mit feiner Chinin-Note. Pur oder perfekt zum Mischen."
   },
   {
     "ean": "4000140718991",
@@ -1536,7 +1662,8 @@
     "pfand_kasten": 2.4,
     "pfand_sechser": 0.0,
     "bild": "schweppes_pomegranate_1_0.jpg",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Prickelnde Granatapfel-Limonade. Herrlich tiefrot und ein toller Mixer für ausgefallene Drinks."
   },
   {
     "ean": "4000140721403",
@@ -1547,7 +1674,8 @@
     "pfand_kasten": 2.4,
     "pfand_sechser": 0.0,
     "bild": "schweppes_virgin_orange_spritz_alkoholfrei_1_0.jpg",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Der alkoholfreie Spritz-Genuss. Bitter-süße Orangennoten, perfekt für den Sundowner auf dem Balkon."
   },
   {
     "ean": "4000140011559",
@@ -1558,7 +1686,8 @@
     "pfand_kasten": 2.4,
     "pfand_sechser": 0.0,
     "bild": "schweppes_american_ginger_ale_1_0.jpg",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Ein milder, goldener Klassiker mit feinem Ingwer-Aroma. Ideal als Begleiter für Whiskey oder Rum."
   },
   {
     "ean": "4000140714818",
@@ -1569,7 +1698,8 @@
     "pfand_kasten": 2.4,
     "pfand_sechser": 0.0,
     "bild": "schweppes_white_peach_1_0.jpg",
-    "kategorie": "limo_schorle"
+    "kategorie": "limo_schorle",
+    "beschreibung": "Ein fruchtiger, floraler Filler mit dem edlen Geschmack von weißen Pfirsichen."
   },
   {
     "ean": "4006878000094",
@@ -1580,7 +1710,8 @@
     "pfand_kasten": 2.4,
     "pfand_sechser": 0.0,
     "bild": "oro_bio_apfelsaft_naturtrueb_1_0.jpg",
-    "kategorie": "saft"
+    "kategorie": "saft",
+    "beschreibung": "100% zertifizierter Bio-Direktsaft. Naturtrüb gepresst für den vollen, unverfälschten Apfelgeschmack."
   },
   {
     "ean": "4006878000353",
@@ -1591,7 +1722,8 @@
     "pfand_kasten": 2.4,
     "pfand_sechser": 0.0,
     "bild": "oro_apfel_holunder_saft_1_0.jpg",
-    "kategorie": "saft"
+    "kategorie": "saft",
+    "beschreibung": "Heimische Äpfel kombiniert mit tiefrotem Holundersaft. Eine harmonische, leicht herbe Mischung."
   },
   {
     "ean": "4006878000377",
@@ -1602,7 +1734,8 @@
     "pfand_kasten": 2.4,
     "pfand_sechser": 0.0,
     "bild": "oro_apfel_holunder_johannisbeer_1_0.jpg",
-    "kategorie": "saft"
+    "kategorie": "saft",
+    "beschreibung": "Ein aromatisches Dreiergespann heimischer Früchte. Kräftig, dunkel und reich an Vitaminen."
   },
   {
     "ean": "4006878000018",
@@ -1613,7 +1746,8 @@
     "pfand_kasten": 2.4,
     "pfand_sechser": 0.0,
     "bild": "oro_klarer_apfelsaft_direktsaft_1_0.jpg",
-    "kategorie": "saft"
+    "kategorie": "saft",
+    "beschreibung": "Klar gefilterter Direktsaft aus frisch geernteten Äpfeln. Ein absoluter Frühstücks-Klassiker."
   },
   {
     "ean": "4006878000445",
@@ -1624,7 +1758,8 @@
     "pfand_kasten": 2.4,
     "pfand_sechser": 0.0,
     "bild": "oro_multivitamin_mehrfruchtsaft_1_0.jpg",
-    "kategorie": "saft"
+    "kategorie": "saft",
+    "beschreibung": "Tropischer Fruchtgenuss pur. Ein hochwertiger Mehrfruchtsaft mit extra vielen Vitaminen."
   },
   {
     "ean": "4006878000025",
@@ -1635,7 +1770,8 @@
     "pfand_kasten": 2.4,
     "pfand_sechser": 0.0,
     "bild": "oro_naturtrueber_apfelsaft_direktsaft_1_0.jpg",
-    "kategorie": "saft"
+    "kategorie": "saft",
+    "beschreibung": "Direkt aus der Kelterei. Durch die schonende Pressung bleiben alle wichtigen Schwebstoffe und der volle Geschmack erhalten."
   },
   {
     "ean": "4006878000216",
@@ -1646,7 +1782,8 @@
     "pfand_kasten": 2.4,
     "pfand_sechser": 0.0,
     "bild": "oro_weisser_traubensaft_direktsaft_1_0.jpg",
-    "kategorie": "saft"
+    "kategorie": "saft",
+    "beschreibung": "Ein milder und wunderbar süßer Direktsaft, gepresst aus hellen, sonnenverwöhnten Trauben."
   },
   {
     "ean": "4006878000100",
@@ -1657,7 +1794,8 @@
     "pfand_kasten": 2.4,
     "pfand_sechser": 0.0,
     "bild": "oro_roter_johannisbeer_1_0.jpg",
-    "kategorie": "saft"
+    "kategorie": "saft",
+    "beschreibung": "Ein fruchtiger Nektar aus roten Johannisbeeren. Angenehm säuerlich und ideal für erfrischende Schorlen."
   },
   {
     "ean": "4006878000438",
@@ -1668,7 +1806,8 @@
     "pfand_kasten": 2.4,
     "pfand_sechser": 0.0,
     "bild": "oro_orangen_maracuja_1_0.jpg",
-    "kategorie": "saft"
+    "kategorie": "saft",
+    "beschreibung": "Das perfekte Duo: Süße, saftige Orangen kombiniert mit der exotischen Säure der Maracuja."
   },
   {
     "ean": "4006878000308",
@@ -1679,7 +1818,8 @@
     "pfand_kasten": 2.4,
     "pfand_sechser": 0.0,
     "bild": "oro_sauer_kirsch_1_0.jpg",
-    "kategorie": "saft"
+    "kategorie": "saft",
+    "beschreibung": "Ein samtiger Nektar aus ausgewählten Sauerkirschen. Volles Beeren-Aroma und wunderbar tiefrot."
   },
   {
     "ean": "4006878000452",
@@ -1690,7 +1830,8 @@
     "pfand_kasten": 2.4,
     "pfand_sechser": 0.0,
     "bild": "oro_ananas_saft_1_0.jpg",
-    "kategorie": "saft"
+    "kategorie": "saft",
+    "beschreibung": "Exotischer Fruchtgenuss pur. Ein 100% Ananassaft, der pur schmeckt oder sich ideal für Cocktails eignet."
   },
   {
     "ean": "4006878000407",
@@ -1701,7 +1842,8 @@
     "pfand_kasten": 2.4,
     "pfand_sechser": 0.0,
     "bild": "oro_apfel_orange_1_0.jpg",
-    "kategorie": "saft"
+    "kategorie": "saft",
+    "beschreibung": "Heimischer Apfelsaft und exotische Orange ergeben einen milden, sehr beliebten Frühstückssaft."
   },
   {
     "ean": "4006878000414",
@@ -1712,7 +1854,8 @@
     "pfand_kasten": 2.4,
     "pfand_sechser": 0.0,
     "bild": "oro_orangensaft_direktsaft_1_0.jpg",
-    "kategorie": "saft"
+    "kategorie": "saft",
+    "beschreibung": "100% Orangensaft, direkt gepresst, nicht aus Konzentrat. Voller Vitamin C und Fruchtfleisch."
   },
   {
     "ean": "4006878000117",
@@ -1723,7 +1866,8 @@
     "pfand_kasten": 2.4,
     "pfand_sechser": 0.0,
     "bild": "oro_schwarzer_johannisbeer_1_0.jpg",
-    "kategorie": "saft"
+    "kategorie": "saft",
+    "beschreibung": "Intensiv und dunkel. Ein hochwertiger Nektar aus der schwarzen Johannisbeere, der besonders viel Vitamin C liefert."
   },
   {
     "ean": "4006878000049",
@@ -1734,7 +1878,8 @@
     "pfand_kasten": 2.4,
     "pfand_sechser": 0.0,
     "bild": "oro_birnensaft_direktsaft_1_0.jpg",
-    "kategorie": "saft"
+    "kategorie": "saft",
+    "beschreibung": "Süßer und milder als Apfelsaft. Dieser Direktsaft aus heimischen Birnen ist besonders magenfreundlich."
   },
   {
     "ean": "4006878000209",
@@ -1745,7 +1890,8 @@
     "pfand_kasten": 2.4,
     "pfand_sechser": 0.0,
     "bild": "oro_traubensaft_direktsaft_1_0.jpg",
-    "kategorie": "saft"
+    "kategorie": "saft",
+    "beschreibung": "Ein kräftiger, rubinroter Direktsaft aus reifen, dunklen Trauben. Energielieferant und Genuss zugleich."
   },
   {
     "ean": "4006878000476",
@@ -1756,7 +1902,8 @@
     "pfand_kasten": 2.4,
     "pfand_sechser": 0.0,
     "bild": "oro_mango_1_0.jpg",
-    "kategorie": "saft"
+    "kategorie": "saft",
+    "beschreibung": "Ein sämiger Mangonektar mit intensivem, exotischem Fruchtgeschmack."
   },
   {
     "ean": "4005906003410",
@@ -1767,7 +1914,8 @@
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
     "bild": "adelholzener_mineralwasser_sanft_0_5_glas_kasten.png",
-    "kategorie": "wasser"
+    "kategorie": "wasser",
+    "beschreibung": "Reines Mineralwasser aus der Alpenquelle mit nur einem sanften Hauch an Kohlensäure."
   },
   {
     "ean": "4005906003427",
@@ -1778,7 +1926,8 @@
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
     "bild": "adelholzener_mineralwasser_naturell_0_5_glas_kasten.png",
-    "kategorie": "wasser"
+    "kategorie": "wasser",
+    "beschreibung": "Das stille Wasser der Adelholzener Alpenquelle. Ganz ohne Kohlensäure und wunderbar bekömmlich."
   },
   {
     "ean": "4005906003403",
@@ -1789,7 +1938,8 @@
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
     "bild": "adelholzener_classic_0_5_glas_kasten.png",
-    "kategorie": "wasser"
+    "kategorie": "wasser",
+    "beschreibung": "Der prickelnde Klassiker. Frisches Mineralwasser mit viel spritziger Kohlensäure."
   },
   {
     "ean": "4005906003502",
@@ -1800,7 +1950,8 @@
     "pfand_kasten": 4.8,
     "pfand_sechser": 0.0,
     "bild": "adelholzener_st._primus_heilwasser_0_75.jpg",
-    "kategorie": "wasser"
+    "kategorie": "wasser",
+    "beschreibung": "Ein staatlich anerkanntes Heilwasser mit wertvollen Mineralien für die tägliche Gesundheitsförderung."
   },
   {
     "ean": "4005906003700",
@@ -1811,7 +1962,8 @@
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
     "bild": "adelholzener_classic_0_75.jpg",
-    "kategorie": "wasser"
+    "kategorie": "wasser",
+    "beschreibung": "Das erfrischend-spritzige Adelholzener in der formschönen 0,75l Gastro-Flasche."
   },
   {
     "ean": "4005906003717",
@@ -1822,7 +1974,8 @@
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
     "bild": "adelholzener_mineralwasser_sanft_0_75_glas_kasten.png",
-    "kategorie": "wasser"
+    "kategorie": "wasser",
+    "beschreibung": "Mildes Mineralwasser mit leichter Kohlensäure in der eleganten 0,75l Gastro-Glasflasche."
   },
   {
     "ean": "4005906003724",
@@ -1833,7 +1986,8 @@
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
     "bild": "adelholzener_mineralwasser_naturell_0_75_glas_kasten.png",
-    "kategorie": "wasser"
+    "kategorie": "wasser",
+    "beschreibung": "Reines, stilles Alpenmineralwasser in der hochwertigen Glasflasche für den gedeckten Tisch."
   },
   {
     "ean": "4005906002079",
@@ -1844,7 +1998,8 @@
     "pfand_kasten": 4.8,
     "pfand_sechser": 0.0,
     "bild": "adelholzener_classic_1_0_pet_kasten.png",
-    "kategorie": "wasser"
+    "kategorie": "wasser",
+    "beschreibung": "Das prickelnde Adelholzener in der praktischen 1,0l PET-Mehrwegflasche für zuhause."
   },
   {
     "ean": "4005906002062",
@@ -1855,7 +2010,8 @@
     "pfand_kasten": 4.8,
     "pfand_sechser": 0.0,
     "bild": "adelholzener_mineralwasser_sanft_1_0_pet_kasten.png",
-    "kategorie": "wasser"
+    "kategorie": "wasser",
+    "beschreibung": "Feinperliges Mineralwasser aus den Alpen in der leichten 1,0l PET-Flasche."
   },
   {
     "ean": "4005906002048",
@@ -1866,7 +2022,8 @@
     "pfand_kasten": 4.8,
     "pfand_sechser": 0.0,
     "bild": "adelholzener_mineralwasser_naturell_1_0_pet_kasten.png",
-    "kategorie": "wasser"
+    "kategorie": "wasser",
+    "beschreibung": "Stilles, unkohlensäurehaltiges Mineralwasser in der großen 1,0l PET-Flasche."
   },
   {
     "ean": "4005906002055",
@@ -1877,7 +2034,8 @@
     "pfand_kasten": 4.8,
     "pfand_sechser": 0.0,
     "bild": "adelholzener_extra_still_1_0.jpg",
-    "kategorie": "wasser"
+    "kategorie": "wasser",
+    "beschreibung": "Besonders weiches, absolut stilles Mineralwasser – ideal auch für die Zubereitung von Babynahrung."
   },
   {
     "ean": "4005906002949",
@@ -1888,7 +2046,8 @@
     "pfand_kasten": 4.8,
     "pfand_sechser": 0.0,
     "bild": "adelholzener_lemon_plus_1_0_pet_kasten.png",
-    "kategorie": "wasser"
+    "kategorie": "wasser",
+    "beschreibung": "Prickelndes Wasser mit einem sanften, natürlichen Hauch Zitrone. Ohne Zucker."
   },
   {
     "ean": "4005906002116",
@@ -1899,7 +2058,8 @@
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
     "bild": "adelholzener_mineralwasser_sanft_0_5_pet_kasten.png",
-    "kategorie": "wasser"
+    "kategorie": "wasser",
+    "beschreibung": "Das feinperlige Wasser in der kleinen, praktischen PET-Flasche für unterwegs."
   },
   {
     "ean": "4005906002130",
@@ -1910,7 +2070,8 @@
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
     "bild": "adelholzener_mineralwasser_extra_still_0_5_pet_kasten.png",
-    "kategorie": "wasser"
+    "kategorie": "wasser",
+    "beschreibung": "Absolut kohlensäurefreies, weiches Wasser im praktischen To-Go-Format."
   },
   {
     "ean": "4005906002123",
@@ -1921,7 +2082,8 @@
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
     "bild": "adelholzener_classic_0_5_pet_kasten.png",
-    "kategorie": "wasser"
+    "kategorie": "wasser",
+    "beschreibung": "Der prickelnde Durstlöscher im handlichen 0,5l PET-Format."
   },
   {
     "ean": "4005906002109",
@@ -1932,7 +2094,8 @@
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
     "bild": "adelholzener_mineralwasser_naturell_0_5_pet_kasten.png",
-    "kategorie": "wasser"
+    "kategorie": "wasser",
+    "beschreibung": "Das stille Wasser für unterwegs. Leichtes PET-Format, purer Geschmack."
   },
   {
     "ean": "4005906002178",
@@ -1943,7 +2106,8 @@
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
     "bild": "adelholzener_lemon_plus_0_5_pet_kasten.png",
-    "kategorie": "wasser"
+    "kategorie": "wasser",
+    "beschreibung": "Mineralwasser mit spritzigem Zitronenhauch in der 0,5l Flasche – ideal für Sport und Alltag."
   },
   {
     "ean": "4022569140009",
@@ -1954,7 +2118,8 @@
     "pfand_kasten": 2.4,
     "pfand_sechser": 0.0,
     "bild": "st_leonhardsquelle_mondquelle_1_0_glas_flasche.png",
-    "kategorie": "wasser"
+    "kategorie": "wasser",
+    "beschreibung": "Ein energetisch besonders weiches Wasser, das gezielt bei Vollmond abgefüllt wird."
   },
   {
     "ean": "4047679110025",
@@ -1965,7 +2130,8 @@
     "pfand_kasten": 2.4,
     "pfand_sechser": 0.0,
     "bild": "st_georgsquelle_1_0_glas_flasche.png",
-    "kategorie": "wasser"
+    "kategorie": "wasser",
+    "beschreibung": "Aus dem reinen Arteserbrunnen im Chiemgau. Lebendiges, naturbelassenes Quellwasser."
   },
   {
     "ean": "4022569110002",
@@ -1976,7 +2142,8 @@
     "pfand_kasten": 2.4,
     "pfand_sechser": 0.0,
     "bild": "st_leonhardsquelle_still_1_0_glas_flasche.png",
-    "kategorie": "wasser"
+    "kategorie": "wasser",
+    "beschreibung": "Das absolute Premium-Stillwasser. Natürliches, unbehandeltes Quellwasser aus St. Leonhardspfunzen."
   },
   {
     "ean": "4022569150008",
@@ -1987,7 +2154,8 @@
     "pfand_kasten": 2.4,
     "pfand_sechser": 0.0,
     "bild": "st_leonhardsquelle_lichtquelle_1_0_glas_flasche.png",
-    "kategorie": "wasser"
+    "kategorie": "wasser",
+    "beschreibung": "Sanftes, lebendiges Wasser aus der berühmten St. Leonhardsquelle. Gilt als besonders vitalisierend."
   },
   {
     "ean": "4022569150003",
@@ -1998,7 +2166,8 @@
     "pfand_kasten": 2.4,
     "pfand_sechser": 0.0,
     "bild": "st_leonhardsquelle_medium_1_0_glas_flasche.png",
-    "kategorie": "wasser"
+    "kategorie": "wasser",
+    "beschreibung": "Das naturbelassene Leonhards-Wasser, hier verfeinert mit einer leichten, angenehmen Kohlensäure."
   },
   {
     "ean": "4022569160007",
@@ -2009,7 +2178,8 @@
     "pfand_kasten": 2.4,
     "pfand_sechser": 0.0,
     "bild": "st_leonhardsquelle_sonnenquelle_1_0_glas_flasche.png",
-    "kategorie": "wasser"
+    "kategorie": "wasser",
+    "beschreibung": "Aus der unberührten Tiefe geschöpft. Ein weiches Wasser mit harmonischer Mineralisierung."
   },
   {
     "ean": "4020655031002",
@@ -2020,7 +2190,8 @@
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
     "bild": "abenstaler_medium_0_7_glas_kasten.png",
-    "kategorie": "wasser"
+    "kategorie": "wasser",
+    "beschreibung": "Ein mineralienreiches Wasser aus der Holledau. Medium carbonisiert für sanfte Erfrischung."
   },
   {
     "ean": "4020655033006",
@@ -2031,7 +2202,8 @@
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
     "bild": "abenstaler_still_0_7_glas_kasten.png",
-    "kategorie": "wasser"
+    "kategorie": "wasser",
+    "beschreibung": "Das natriumarme, stille Wasser der Abenstaler Quelle. Ideal für die tägliche Flüssigkeitszufuhr."
   },
   {
     "ean": "4020655030005",
@@ -2042,7 +2214,8 @@
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
     "bild": "abenstaler_spritzig_0_7_glas_kasten.png",
-    "kategorie": "wasser"
+    "kategorie": "wasser",
+    "beschreibung": "Spritziges Mineralwasser mit viel Kohlensäure. Der klassische Durstlöscher im Glas-Gebinde."
   },
   {
     "ean": "4020655230016",
@@ -2053,7 +2226,8 @@
     "pfand_kasten": 4.5,
     "pfand_sechser": 0.0,
     "bild": "abenstaler_spritzig_1_0_pet_kasten.png",
-    "kategorie": "wasser"
+    "kategorie": "wasser",
+    "beschreibung": "Viel Kohlensäure in der leichten 1,0 Liter PET-Mehrwegflasche von Abenstaler."
   },
   {
     "ean": "4020655231013",
@@ -2064,7 +2238,8 @@
     "pfand_kasten": 4.5,
     "pfand_sechser": 0.0,
     "bild": "abenstaler_medium_1_0_pet_kasten.png",
-    "kategorie": "wasser"
+    "kategorie": "wasser",
+    "beschreibung": "Leicht prickelnd und angenehm zu trinken. Das Medium-Wasser im praktischen PET-Format."
   },
   {
     "ean": "4020655243009",
@@ -2075,7 +2250,8 @@
     "pfand_kasten": 4.5,
     "pfand_sechser": 0.0,
     "bild": "abenstaler_still_1_0_pet_kasten.png",
-    "kategorie": "wasser"
+    "kategorie": "wasser",
+    "beschreibung": "Ganz ohne Kohlensäure und sanft im Geschmack. In der bruchsicheren Literflasche."
   },
   {
     "ean": "4313042579714",
@@ -2086,7 +2262,8 @@
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
     "bild": "bad_reichenhaller_classic_0_7.jpg",
-    "kategorie": "wasser"
+    "kategorie": "wasser",
+    "beschreibung": "Aus den Tiefen der Alpenlandschaft. Ein hochmineralisiertes, prickelndes Mineralwasser aus Bad Reichenhall."
   },
   {
     "ean": "4313042579738",
@@ -2097,7 +2274,8 @@
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
     "bild": "bad_reichenhaller_still_0_7.jpg",
-    "kategorie": "wasser"
+    "kategorie": "wasser",
+    "beschreibung": "Ein stilles Mineralwasser, das den Durst sanft löscht und gut mit feinen Speisen harmoniert."
   },
   {
     "ean": "4313042579721",
@@ -2108,7 +2286,8 @@
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
     "bild": "bad_reichenhaller_medium_0_7.jpg",
-    "kategorie": "wasser"
+    "kategorie": "wasser",
+    "beschreibung": "Die goldene Mitte aus Bad Reichenhall: Feinperlig, erfrischend und reich an wichtigen Mineralstoffen."
   },
   {
     "ean": "4025243133717",
@@ -2119,7 +2298,8 @@
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
     "bild": "lidwinen_naturell_0_7.jpg",
-    "kategorie": "wasser"
+    "kategorie": "wasser",
+    "beschreibung": "Mildes, kohlensäurefreies Tafelwasser. Perfekt als Alltagsbegleiter."
   },
   {
     "ean": "4025243132710",
@@ -2130,7 +2310,8 @@
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
     "bild": "lidwinen_medium_0_7.jpg",
-    "kategorie": "wasser"
+    "kategorie": "wasser",
+    "beschreibung": "Ausgewogenes Wasser mit mittlerem Kohlensäuregehalt für eine leichte Erfrischung."
   },
   {
     "ean": "4025243131713",
@@ -2141,7 +2322,8 @@
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
     "bild": "lidwinen_klassik_0_7.jpg",
-    "kategorie": "wasser"
+    "kategorie": "wasser",
+    "beschreibung": "Der spritzige Durstlöscher von Lidwinen. Kraftvoll carbonisiert."
   },
   {
     "ean": "4001325003888",
@@ -2152,7 +2334,8 @@
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
     "bild": "aqua_roemer_classic_0_75_glas_kasten.png",
-    "kategorie": "wasser"
+    "kategorie": "wasser",
+    "beschreibung": "Reich an Calcium und spritzig im Geschmack. Ein hochwertiges Mineralwasser für jede Gelegenheit."
   },
   {
     "ean": "4001325002584",
@@ -2163,7 +2346,8 @@
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
     "bild": "aqua_roemer_naturelle_0_75_glas_kasten.png",
-    "kategorie": "wasser"
+    "kategorie": "wasser",
+    "beschreibung": "Natürliches, calciumreiches Mineralwasser komplett ohne Kohlensäure."
   },
   {
     "ean": "4001325002881",
@@ -2174,7 +2358,8 @@
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
     "bild": "aqua_roemer_medium_0_75_glas_kasten.png",
-    "kategorie": "wasser"
+    "kategorie": "wasser",
+    "beschreibung": "Feinperlig und bekömmlich. Das Aqua Römer Medium liefert wertvolle Mineralien mit leichter Erfrischung."
   },
   {
     "ean": "4002627801721",
@@ -2185,7 +2370,8 @@
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
     "bild": "franken_brunnen_medium_1_0.jpg",
-    "kategorie": "wasser"
+    "kategorie": "wasser",
+    "beschreibung": "Aus dem Herzen Frankens. Harmonisch mineralisiert und mit angenehm reduzierter Kohlensäure."
   },
   {
     "ean": "4002627801714",
@@ -2196,7 +2382,8 @@
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
     "bild": "franken_brunnen_spritzig_1_0.jpg",
-    "kategorie": "wasser"
+    "kategorie": "wasser",
+    "beschreibung": "Der fränkische Klassiker mit extra viel spritziger Kohlensäure. Der ideale, reine Durstlöscher."
   },
   {
     "ean": "8004192103107",
@@ -2207,7 +2394,8 @@
     "pfand_kasten": 3.4,
     "pfand_sechser": 0.0,
     "bild": "lauretana_1_0.jpg",
-    "kategorie": "wasser"
+    "kategorie": "wasser",
+    "beschreibung": "Als das 'leichteste Wasser Europas' bekannt. Extrem natriumarm, weich und edel im Geschmack."
   },
   {
     "ean": "4101090000607",
@@ -2218,7 +2406,8 @@
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
     "bild": "staatl_fachingen_0_75.jpg",
-    "kategorie": "wasser"
+    "kategorie": "wasser",
+    "beschreibung": "Das berühmte Premium-Heilwasser. Einzigartige Mineralisierung, die nachweislich den Säure-Basen-Haushalt unterstützt."
   },
   {
     "ean": "4104760401865",
@@ -2229,7 +2418,8 @@
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
     "bild": "black_forest_0_7.jpg",
-    "kategorie": "wasser"
+    "kategorie": "wasser",
+    "beschreibung": "Ein außergewöhnlich sanftes und natriumarmes Stilles Wasser aus dem Schwarzwald. Besonders weich auf der Zunge."
   },
   {
     "ean": "8017870000018",
@@ -2240,7 +2430,8 @@
     "pfand_kasten": 2.4,
     "pfand_sechser": 0.0,
     "bild": "plose_naturale_1_0.jpg",
-    "kategorie": "wasser"
+    "kategorie": "wasser",
+    "beschreibung": "Ein extrem reines Hochgebirgswasser aus den Dolomiten. Naturgetreu abgefüllt und komplett still."
   },
   {
     "ean": "8017870000100",
@@ -2251,7 +2442,8 @@
     "pfand_kasten": 2.4,
     "pfand_sechser": 0.0,
     "bild": "plose_medium_1_0.jpg",
-    "kategorie": "wasser"
+    "kategorie": "wasser",
+    "beschreibung": "Das hervorragende Plose-Hochgebirgswasser mit einem dezenten Hauch an Kohlensäure."
   },
   {
     "ean": "4260080753333",
@@ -2262,7 +2454,8 @@
     "pfand_kasten": 3.0,
     "pfand_sechser": 0.0,
     "bild": "è_aqua_kaffeewasser_1_5.jpg",
-    "kategorie": "wasser"
+    "kategorie": "wasser",
+    "beschreibung": "Speziell mineralisiertes Wasser zur optimalen Kaffee- und Teezubereitung. Schützt zudem die Maschinen vor Verkalkung."
   },
   {
     "ean": "4001513000613",
@@ -2273,7 +2466,8 @@
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
     "bild": "gerolsteiner_sprudel_1_0.jpg",
-    "kategorie": "wasser"
+    "kategorie": "wasser",
+    "beschreibung": "Der Marktführer aus der Vulkaneifel. Bekannt für seinen sehr hohen Mineralstoffgehalt und die spritzige Kohlensäure."
   },
   {
     "ean": "4001513000620",
@@ -2284,7 +2478,8 @@
     "pfand_kasten": 3.3,
     "pfand_sechser": 0.0,
     "bild": "gerolsteiner_medium_1_0.jpg",
-    "kategorie": "wasser"
+    "kategorie": "wasser",
+    "beschreibung": "Volle Mineralien-Power, aber mit weniger Kohlensäure für ein angenehm mildes Trinkerlebnis."
   },
   {
     "ean": "8034108440019",
@@ -2297,7 +2492,8 @@
     "bild": "bulgarini_lugana_0_75.jpg",
     "kategorie": "wein_spirituosen",
     "einheit": "Flasche",
-    "allergene": "Enthält: Sulfite"
+    "allergene": "Enthält: Sulfite",
+    "beschreibung": "Ein exzellenter Lugana aus Italien. Blumig und fruchtig im Bouquet, mit feinen Noten von Aprikose und Pfirsich."
   },
   {
     "ean": "42213277",
@@ -2309,7 +2505,8 @@
     "pfand_sechser": 0.0,
     "bild": "monkey_47_schwarzwald_dry_gin_0_5.jpg",
     "kategorie": "wein_spirituosen",
-    "einheit": "Flasche"
+    "einheit": "Flasche",
+    "beschreibung": "Ein absoluter Ausnahme-Gin aus dem Schwarzwald. Destilliert mit 47 handverlesenen, regionalen und exotischen Botanicals."
   },
   {
     "ean": "5010327755014",
@@ -2321,7 +2518,8 @@
     "pfand_sechser": 0.0,
     "bild": "hendrick's_gin_0_7.jpg",
     "kategorie": "wein_spirituosen",
-    "einheit": "Flasche"
+    "einheit": "Flasche",
+    "beschreibung": "Ein ungewöhnlicher und edler schottischer Gin, verfeinert mit feinen Essenzen aus Gurke und Rosenblättern."
   },
   {
     "ean": "4011474301100",
@@ -2334,7 +2532,8 @@
     "bild": "kessler_zink_chardonnay_trocken_flasche.png",
     "kategorie": "wein_spirituosen",
     "einheit": "Flasche",
-    "allergene": "Enthält: Sulfite"
+    "allergene": "Enthält: Sulfite",
+    "beschreibung": "Ein runder, trockener Chardonnay für jeden Tag. Mit zarten Aromen von Äpfeln und Zitrusfrüchten."
   },
   {
     "ean": "4011474305023",
@@ -2347,7 +2546,8 @@
     "bild": "kessler_zink_chardonnay_trocken_flasche.png",
     "kategorie": "wein_spirituosen",
     "einheit": "Flasche",
-    "allergene": "Enthält: Sulfite"
+    "allergene": "Enthält: Sulfite",
+    "beschreibung": "Italienisches Flair im Glas. Ein unkomplizierter, leichter Pinot Grigio, der hervorragend zu hellem Fleisch und Fisch passt."
   },
   {
     "ean": "4011474305009",
@@ -2360,7 +2560,8 @@
     "bild": "kessler_zink_merlot_la_corona_flasche.png",
     "kategorie": "wein_spirituosen",
     "einheit": "Flasche",
-    "allergene": "Enthält: Sulfite"
+    "allergene": "Enthält: Sulfite",
+    "beschreibung": "Ein weicher und zugänglicher Merlot. Schmeichelt dem Gaumen mit Noten von reifen Kirschen und Beerenfrüchten."
   },
   {
     "ean": "4011474300165",
@@ -2373,7 +2574,8 @@
     "bild": "kessler_zink_grauer_burgunder_trocken_flasche.png",
     "kategorie": "wein_spirituosen",
     "einheit": "Flasche",
-    "allergene": "Enthält: Sulfite"
+    "allergene": "Enthält: Sulfite",
+    "beschreibung": "Ein eleganter, trockener Grauburgunder. Kräftig im Körper mit feinen Nuss- und Fruchtaromen."
   },
   {
     "ean": "8003373030201",
@@ -2386,7 +2588,8 @@
     "bild": "ca'_vegar_lugana_0_75.jpg",
     "kategorie": "wein_spirituosen",
     "einheit": "Flasche",
-    "allergene": "Enthält: Sulfite"
+    "allergene": "Enthält: Sulfite",
+    "beschreibung": "Ein ausdrucksstarker, goldgelber Weißwein vom südlichen Gardasee. Fein fruchtig und wunderbar ausbalanciert."
   },
   {
     "ean": "4067700011015",
@@ -2398,7 +2601,8 @@
     "pfand_sechser": 0.0,
     "bild": "jaegermeister_0_7.jpg",
     "kategorie": "wein_spirituosen",
-    "einheit": "Flasche"
+    "einheit": "Flasche",
+    "beschreibung": "Der weltbekannte Kräuterlikör aus 56 Kräutern, Blüten, Wurzeln und Früchten. Am besten eisgekühlt als Shot."
   },
   {
     "ean": "8001906999667",
@@ -2411,7 +2615,8 @@
     "bild": "stettner_toro_spumante_flasche.png",
     "kategorie": "wein_spirituosen",
     "einheit": "Flasche",
-    "allergene": "Enthält: Sulfite"
+    "allergene": "Enthält: Sulfite",
+    "beschreibung": "Ein feiner, prickelnder italienischer Spumante. Ideal zum Anstoßen auf Feiern und als Begleiter für Vorspeisen."
   },
   {
     "ean": "3057230000277",
@@ -2424,7 +2629,8 @@
     "bild": "lillet_rose_0_75.jpg",
     "kategorie": "wein_spirituosen",
     "einheit": "Flasche",
-    "allergene": "Enthält: Sulfite"
+    "allergene": "Enthält: Sulfite",
+    "beschreibung": "Ein eleganter, fruchtiger Aperitif aus französischen Weinen und Fruchtlikören. Perfekt gemixt mit Wild Berry."
   },
   {
     "ean": "8006550301040",
@@ -2436,7 +2642,8 @@
     "pfand_sechser": 0.0,
     "bild": "ramazzotti_amaro_0_7.jpg",
     "kategorie": "wein_spirituosen",
-    "einheit": "Flasche"
+    "einheit": "Flasche",
+    "beschreibung": "Der italienische Halbbitter-Klassiker. Ausgewogene Kräuternoten, traditionell pur oder auf Eis mit Zitrone genossen."
   },
   {
     "ean": "7312040017683",
@@ -2448,7 +2655,8 @@
     "pfand_sechser": 0.0,
     "bild": "absolut_vodka_0_7.jpg",
     "kategorie": "wein_spirituosen",
-    "einheit": "Flasche"
+    "einheit": "Flasche",
+    "beschreibung": "Premium Wodka aus Schweden. Hergestellt aus Winterweizen und extrem rein im Geschmack – perfekt zum Mischen."
   },
   {
     "ean": "5099873089798",
@@ -2460,7 +2668,8 @@
     "pfand_sechser": 0.0,
     "bild": "jack_daniel's_whiskey_0_7.jpg",
     "kategorie": "wein_spirituosen",
-    "einheit": "Flasche"
+    "einheit": "Flasche",
+    "beschreibung": "Der legendäre Tennessee Whiskey. Charakteristisch durch Holzkohle-Filterung für seinen runden, rauchig-süßen Geschmack."
   },
   {
     "ean": "8002335104066",
@@ -2473,7 +2682,8 @@
     "bild": "valdo_prosecco_0_75.jpg",
     "kategorie": "wein_spirituosen",
     "einheit": "Flasche",
-    "allergene": "Enthält: Sulfite"
+    "allergene": "Enthält: Sulfite",
+    "beschreibung": "Ein klassischer Prosecco Marca Trevigiana. Frisch, floral und mit einer angenehmen, feinen Perlage."
   },
   {
     "ean": "4006606078319",
@@ -2486,7 +2696,8 @@
     "bild": "stettner_hugo_alkoholfrei_flasche.png",
     "kategorie": "wein_spirituosen",
     "einheit": "Flasche",
-    "allergene": "Enthält: Sulfite"
+    "allergene": "Enthält: Sulfite",
+    "beschreibung": "Der beliebte Sommerdrink ganz ohne Alkohol. Prickelnd, süßlich und erfrischend durch Minze und Limette."
   },
   {
     "ean": "4006606760016",
@@ -2499,7 +2710,8 @@
     "bild": "stettner_hugo_flasche.png",
     "kategorie": "wein_spirituosen",
     "einheit": "Flasche",
-    "allergene": "Enthält: Sulfite"
+    "allergene": "Enthält: Sulfite",
+    "beschreibung": "Das spritzige Kultgetränk für laue Abende. Fertig gemixt mit dem typischen Holunderblüten-Minz-Aroma."
   },
   {
     "ean": "4006606077510",
@@ -2512,7 +2724,8 @@
     "bild": "stettner_sprizz_flasche.png",
     "kategorie": "wein_spirituosen",
     "einheit": "Flasche",
-    "allergene": "Enthält: Sulfite"
+    "allergene": "Enthält: Sulfite",
+    "beschreibung": "Ein fertig gemixter, herrlich fruchtiger Bitterorangen-Aperitif für sofortiges Urlaubsfeeling."
   },
   {
     "ean": "4006606076810",
@@ -2525,7 +2738,8 @@
     "bild": "stettner_sprizz_alkoholfrei_flasche.png",
     "kategorie": "wein_spirituosen",
     "einheit": "Flasche",
-    "allergene": "Enthält: Sulfite"
+    "allergene": "Enthält: Sulfite",
+    "beschreibung": "Der italienische Klassiker ohne Alkohol. Schmeckt wie das Original: fruchtig, erfrischend und angenehm bitter."
   },
   {
     "ean": "4006606700111",
@@ -2538,7 +2752,8 @@
     "bild": "stettner_secco_bianco_flasche.png",
     "kategorie": "wein_spirituosen",
     "einheit": "Flasche",
-    "allergene": "Enthält: Sulfite"
+    "allergene": "Enthält: Sulfite",
+    "beschreibung": "Ein leichter, frischer Perlwein. Bestens geeignet als Aperitif oder zum puren Anstoßen."
   },
   {
     "ean": "678247683135",
@@ -2551,7 +2766,8 @@
     "bild": "gutmayer_gruener_veltliner_flasche.png",
     "kategorie": "wein_spirituosen",
     "einheit": "Flasche",
-    "allergene": "Enthält: Sulfite"
+    "allergene": "Enthält: Sulfite",
+    "beschreibung": "Ein frischer, pfeffriger Veltliner. Ein unkomplizierter Wein für gesellige Abende."
   },
   {
     "ean": "678247683142",
@@ -2564,7 +2780,8 @@
     "bild": "gutmayer_blauer_zweigelt_flasche.png",
     "kategorie": "wein_spirituosen",
     "einheit": "Flasche",
-    "allergene": "Enthält: Sulfite"
+    "allergene": "Enthält: Sulfite",
+    "beschreibung": "Klassischer Rotwein mit intensivem Beerenaroma. Vollmundig und rund im Abgang."
   },
   {
     "ean": "4101660300014",
@@ -2578,7 +2795,8 @@
     "bild_flasche": "augusta_weinschorle_sauer_0_5_glas_flasche.png",
     "kategorie": "wein_spirituosen",
     "einheit": "Kasten",
-    "allergene": "Enthält: Sulfite"
+    "allergene": "Enthält: Sulfite",
+    "beschreibung": "Erfrischender Weinschoremix aus gutem Weißwein und saurem Mineralwasser. Ideal für warme Sommertage."
   },
   {
     "ean": "4270001990907",
@@ -2592,7 +2810,8 @@
     "bild_flasche": "winzz_weinschorle_sauer_flasche.png",
     "kategorie": "wein_spirituosen",
     "einheit": "Kasten",
-    "allergene": "Enthält: Sulfite"
+    "allergene": "Enthält: Sulfite",
+    "beschreibung": "Jung, modern und spritzig. Eine herrlich erfrischende Weißweinschorle in der trendigen kleinen Flasche."
   },
   {
     "ean": "4270001990945",
@@ -2606,6 +2825,7 @@
     "bild_flasche": "winzz_weinschorle_rose_flasche.png",
     "kategorie": "wein_spirituosen",
     "einheit": "Kasten",
-    "allergene": "Enthält: Sulfite"
+    "allergene": "Enthält: Sulfite",
+    "beschreibung": "Eine wunderbar fruchtige Rosé-Weinschorle. Herrlich leicht und prickelnd."
   }
 ]
