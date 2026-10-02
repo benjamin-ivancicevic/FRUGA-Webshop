@@ -78,16 +78,98 @@ function fuehreSucheAus() {
     }
 
     const gefilterteProdukte = alleProdukteDaten.filter((produkt) => {
-        const produktName = produkt.name.toLowerCase();
-        return produktName.includes(suchbegriff);
+        // 1. Treffer im Produktnamen?
+        const produktName = produkt.name ? produkt.name.toLowerCase() : "";
+        const nameTreffer = produktName.includes(suchbegriff);
+
+        // 2. Treffer in der Kategorie? (z.B. "wasser")
+        const produktKategorie = produkt.kategorie ? produkt.kategorie.toLowerCase() : "";
+        const kategorieTreffer = produktKategorie.includes(suchbegriff);
+
+        // 3. Treffer in den unsichtbaren Keywords? (z.B. "spezi")
+        const keywordTreffer = produkt.keywords && produkt.keywords.some(keyword => 
+            keyword.toLowerCase().includes(suchbegriff)
+        );
+
+        // Das Produkt wird angezeigt, wenn MINDESTENS einer der drei Treffer wahr (true) ist
+        return nameTreffer || kategorieTreffer || keywordTreffer;
     });
 
     zeigeProdukteImShop(gefilterteProdukte, `Suchergebnisse für "${suchfeld.value}"`);
+    const produktBereich = document.getElementById('produkt-liste');
+if (produktBereich) {
+    produktBereich.scrollIntoView({ behavior: 'smooth', block: 'start' });
 }
+}
+
+const vorschlaegeContainer = document.getElementById('such-vorschlaege');
+
+// Reagiert auf jeden Tastenanschlag im Suchfeld
+suchfeld.addEventListener('input', (event) => {
+    const suchbegriff = event.target.value.toLowerCase().trim();
+
+    // Wenn das Feld leer gelöscht wird, Dropdown verstecken
+    if (suchbegriff === "") {
+        vorschlaegeContainer.style.display = 'none';
+        vorschlaegeContainer.innerHTML = '';
+        return;
+    }
+
+    // Gleiche clevere Filter-Logik wie bei der Hauptsuche
+    const gefilterteProdukte = alleProdukteDaten.filter((produkt) => {
+        const produktName = produkt.name ? produkt.name.toLowerCase() : "";
+        const produktKategorie = produkt.kategorie ? produkt.kategorie.toLowerCase() : "";
+        const keywordTreffer = produkt.keywords && produkt.keywords.some(k => k.toLowerCase().includes(suchbegriff));
+
+        return produktName.includes(suchbegriff) || produktKategorie.includes(suchbegriff) || keywordTreffer;
+    });
+
+    // Wir schneiden die Liste auf max. 5 Ergebnisse ab, damit das Dropdown nicht riesig wird
+    zeigeVorschlaege(gefilterteProdukte.slice(0, 5));
+});
+
+function zeigeVorschlaege(produkte) {
+    vorschlaegeContainer.innerHTML = ''; // Alte Vorschläge löschen
+
+    if (produkte.length === 0) {
+        vorschlaegeContainer.style.display = 'none';
+        return;
+    }
+
+    produkte.forEach(produkt => {
+        const li = document.createElement('li');
+        
+        // Wir suchen das passende Bild (Flasche, Kasten oder Standard)
+        const bildName = produkt.bild_flasche || produkt.bild || produkt.bild_kasten;
+        
+        li.innerHTML = `
+            <img src="../images/icons/${bildName}" class="vorschlaege-bild" alt="${produkt.name}">
+            <span>${produkt.name}</span>
+        `;
+
+        // Was passiert, wenn man auf einen Vorschlag klickt?
+// Was passiert, wenn man auf einen Vorschlag klickt?
+li.addEventListener('click', () => {
+    // Leitet den Kunden direkt auf die Produktkarte weiter!
+    window.location.href = `produkt.html?ean=${produkt.ean}`;
+});
+
+        vorschlaegeContainer.appendChild(li);
+    });
+
+    vorschlaegeContainer.style.display = 'block'; // Dropdown sichtbar machen
+}
+
+// Komfort-Funktion: Klickt man irgendwo anders auf die Seite, schließt sich das Dropdown
+document.addEventListener('click', (event) => {
+    if (!event.target.closest('.such-container')) {
+        vorschlaegeContainer.style.display = 'none';
+    }
+});
 
 if (suchButton && suchfeld) {
     suchButton.addEventListener('click', fuehreSucheAus);
-    
+
     suchfeld.addEventListener('keypress', (event) => {
         if (event.key === 'Enter') {
             fuehreSucheAus();

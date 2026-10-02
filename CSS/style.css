@@ -152,6 +152,49 @@ body {
     background-color: #218838;
 }
 
+.such-container {
+    position: relative; /* Wichtig, damit das Dropdown weiß, wo es andocken muss */
+    display: inline-block; /* Oder flex, je nachdem wie dein Layout aussieht */
+}
+
+.vorschlaege-liste {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%; /* Genauso breit wie das Suchfeld */
+    background: white;
+    border: 1px solid #ccc;
+    border-top: none;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    z-index: 1000; /* Legt sich über alle anderen Elemente */
+    display: none; /* Standardmäßig versteckt */
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    max-height: 300px;
+    overflow-y: auto;
+}
+
+.vorschlaege-liste li {
+    padding: 10px;
+    cursor: pointer;
+    border-bottom: 1px solid #eee;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    color: #333; /* NEU: Erzwingt dunkle Schrift, egal wo das Dropdown liegt */
+}
+
+.vorschlaege-liste li:hover {
+    background-color: #f4f4f9; /* Gleiche Farbe wie dein Shop-Hintergrund */
+}
+
+.vorschlaege-bild {
+    width: 30px;
+    height: 30px;
+    object-fit: contain;
+}
+
 @media (max-width: 768px) {
     /* 1. Die Navbar selbst: Alles untereinander stapeln */
     .navbar {
